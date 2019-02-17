@@ -1,0 +1,769 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="google" content="notranslate" />
+<meta name="description" content="OLAT - Online Learning and Training" />
+<meta name="keywords" content="OLAT, OpenOLAT, eLearning, Lernplattform, LMS, Learning Management System, LCMS, Learning Content Management System, Open Source, elearning, JAVA, IMS, QTI, SCORM, Content package, Kollaboration, Usability, Performanz, Skalierbarkeit" /> 
+<meta name="dcterms.creator" content="OLAT - https://www.olat.org" />
+<meta name="dcterms.subject" content="OLAT - Learning Management System" />
+<meta name="dcterms.contributor" content="see https://www.olat.org" />
+<meta name="dcterms.date" content="2010-03-16" />
+<meta name="dcterms.type" content="Interactive Resource" />
+<meta name="dcterms.identifier" content="https://www.olat.org" />
+<meta name="dcterms.rights" content="https://www.olat.org" />
+<meta name="viewport" content="minimal-ui, width=device-width, initial-scale=1">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<script type="text/javascript">
+/* <![CDATA[ */ 
+var o_info = new Object();
+o_info.initialPageLoadFinished = false;
+o_info.o_winid = '1067145615';
+o_info.uriprefix="/auth/";
+o_info.bc="";
+o_info.businessPath="";
+o_info.serverUri="https://lms.uzh.ch"
+o_info.dirty_form = "Achtung! Sie haben noch ungespeicherte Formulardaten. Wenn Sie OK drücken verlassen Sie das Formular ohne zu speichern. Die enthaltenen Änderungen gehen damit verloren.";
+o_info.locale = "de";
+o_info.lastClickTime = new Date().getTime();
+o_info.drop = true;
+o_info.o_baseURI = "/raw/551c0fbbe891/";
+o_info.i18n_noresponse_title = "Kommunikationsfehler";
+o_info.i18n_noresponse = "Die Aktion konnte nicht ausgeführt werden da der Server nicht antwortet oder überlastet ist. Versuchen Sie die Aktion erneut durchzuführen oder laden Sie die Seite neu.";
+o_info.i18n_topnav_more = "Mehr";
+o_info.oo_noresponse_title = "Sitzung abgelaufen";
+o_info.oo_noresponse = "Ihre Sitzung ist abgelaufen oder der Server wurde neu gestartet. Um sich erneut anzumelden, w\u00E4hlen Sie diesen <b><a href=\x27reload.html\x27>Link<\/a><\/b> oder laden Sie die Seite neu.<br><br>Bitte beachten Sie, dass alle ungespeicherten \u00C4nderungen in Ihrem Browserfenster beim erneuten Anmelden verloren gehen. Schliessen Sie diesen Dialog um ungespeicherte Forenbeitr\u00E4ge oder \u00E4hnliches jetzt in die Zwischenablage Ihres Browsers zu kopieren und anschliessend die Seite neu zu laden.";
+o_info.zseed = 0;
+if (top!=self){top.location=self.location+"?o_winrndo=1";}
+function o_start() {
+	o_init();
+		
+				o_info.initialPageLoadFinished = true;
+}
+function o_mathjax(fct_success) {
+    if(!(typeof fct_success === "undefined")) {
+        fct_success();
+    }
+}
+/* ]]> */
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    root: "https://lms.uzh.ch/raw/551c0fbbe891/webjars/mathjax/2.7.1",
+    extensions: ["jsMath2jax.js"],
+    messageStyle: "none",
+    showProcessingMessages: false,
+    jsMath2jax: {
+        preview: "none"
+    },
+    tex2jax: {
+        ignoreClass: "math"
+    }
+});
+</script>
+<script type="text/javascript" src="https://lms.uzh.ch/raw/551c0fbbe891/webjars/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<!--[if lt IE 9]>
+	<script type="text/javascript" src='/raw/551c0fbbe891/js/jquery/jquery-1.9.1.min.js'></script>
+	<script type="text/javascript" src='/raw/551c0fbbe891/js/html5shiv/html5shiv.min.js'></script>
+	<script type="text/javascript" src='/raw/551c0fbbe891/js/respond/respond.min.js'></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src='/raw/551c0fbbe891/js/jquery/jquery-2.1.3.min.js'></script>
+<!--<![endif]-->
+	<script type="text/javascript" src='/raw/551c0fbbe891/js/js.plugins.min.js'></script>
+	<script type="text/javascript" src='/raw/551c0fbbe891/movie/player.min.js'></script>
+
+	<link type="text/css" href='/raw/551c0fbbe891/js/js.plugins.min.css' rel="stylesheet" />
+<script type="text/javascript">
+/* <![CDATA[ */ 
+	jQuery.noConflict();
+	
+		jQuery(document).ooTranslator().initialize("/g/551c0fbbe891org.olat.core.commons.chiefcontrollers.JSTranslatorMapper");
+	o_info.oo_translator = jQuery(document).ooTranslator();
+		jQuery(window).on("popstate", function(e) {
+		if(e.originalEvent.state && e.originalEvent.state.businessPath) {
+			window.location.href = e.originalEvent.state.businessPath;
+		}
+	});
+jQuery(function() {
+	if ((window.unsafeWindow == null ? window : unsafeWindow).MathJax == null) {
+		var count = jQuery('div.math,span.math,math,div.mathEntryInteraction').length;
+		if (count > 0) {
+		    o_mathjax();
+		}
+	}
+});
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="/raw/551c0fbbe891/js/jquery/ui/jquery-ui-1.11.4.custom.resize.min.js"></script>
+<script type="text/javascript" src="/raw/551c0fbbe891/themes/olatuzh/theme.js"></script>
+
+<link rel="icon" href="/raw/551c0fbbe891/themes/olatuzh/favicon.ico" type="image/x-icon" /> 
+<link rel="shortcut icon" href="/raw/551c0fbbe891/themes/olatuzh/favicon.ico" type="image/x-icon" /> 
+<link id="o_theme_css" href="/raw/551c0fbbe891/themes/olatuzh/theme.css" rel="stylesheet" type="text/css" data-themePath="/raw/551c0fbbe891/themes/olatuzh/" />
+<!--[if IE 9]>
+<link id="o_theme_css_ie" href="/raw/551c0fbbe891/themes/olatuzh/theme_ie_completions.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<script type="text/javascript">
+	jQuery(document).ready(function() { jQuery('body').addClass('o_browser_ie7'); });
+</script>
+<![endif]-->
+<!--[if IE 8]>
+<script type="text/javascript">
+	jQuery(document).ready(function() { jQuery('body').addClass('o_browser_ie8'); });
+</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">
+	jQuery(document).ready(function() { jQuery('body').addClass('o_browser_ie9'); });
+</script>
+<![endif]-->
+<!--[if IE 8]>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  var style;
+  style = jQuery('<style type="text/css">:before,:after{content:none !important}</style>');
+  jQuery('head').append(style);
+  return setTimeout((function() {
+    return style.remove();
+  }), 0);
+});
+</script>
+<![endif]-->
+<!-- empty -->
+<style id="o_fontSize_css" type="text/css"></style>
+<style type="text/css">
+			.o_custom_navbar-brand { background-image: none; }
+	</style>
+
+<script type='text/javascript'>o_info.JSTracingUri='/m/fc67b7510bcb224cc3feb7d31a13bd44/';o_info.JSTracingLogDebugEnabled=false;</script>
+
+<title>OLAT - LMS</title>
+</head>
+
+<body onload="o_start();" id="o_body" class=" o_lang_de">
+<div id="o_bg"></div>
+<!-- START guiDebug -->
+
+<!-- END guiDebug -->
+<!-- START inlineTranslation -->
+
+<!-- END inlineTranslation -->
+<!-- START jsServer -->
+<div id='o_c1067145708'><div id='o_c1067145706'><div id='o_c1067145705'><div style="height:0px">
+<script type="text/javascript">
+/* <![CDATA[ */ 
+var stopped = true;
+function initPolling () {
+	o_info.lastClickTime = new Date().getTime();
+	pollgrowth = 0;
+	pollcount  = 0;
+	if (stopped) {
+		stopped = false;
+		tick();
+	}
+}
+
+jQuery("#o_body").bind("mouseover click keypress", function(event){initPolling();});
+
+o_info.mainwinref = this.window;
+o_info.wins = {};
+o_info.poller = null;
+
+var growthrate = 10;
+var pollminutes = 60;
+var pollcount = 0;
+var pollError = 0;
+var pollgrowth = 0;
+var timestampLastPoll = new Date().getTime();
+
+// set timestamp cookie to inform other windows that they are outdated
+var sbtimestamp = new Date().getTime();
+var sbcookie = 'OLAT-UI-TIMESTAMP';
+if (window.opener == null) document.cookie = sbcookie+'='+sbtimestamp+'; path=/';
+
+
+function tick () {
+	o_info.poller = jQuery.periodic({period: 5000, decay:1.005, max_period: Number.MAX_VALUE}, function() {
+		if ( !o_info.linkbusy && (this.period > 1000) && (pollError < 2) ) {
+			try {
+				var now = new Date().getTime();
+				if ((now - o_info.lastClickTime) < (pollminutes*60*1000)) {
+					if ((now - timestampLastPoll) > (this.period + pollgrowth)) {
+						timestampLastPoll = now;
+						pollcount++;
+						pollgrowth = Math.ceil((this.period+pollgrowth)*(100+growthrate)/100) - this.period;
+						o_info.ajaxpp = jQuery.ajax({
+							method:'POST',
+							url:'/m/aab99e8e7b51ce0593e1ae7b764033a5/',
+							cache: false,
+							success:onPollSuccess,
+							error:onPollFailure
+						});
+
+					}
+				} else {
+					stopped = true;
+				}
+			} catch (e) {
+				o_info.poller.cancel(); //stop on errors
+			}
+		}
+
+		// if window is not a popup window, become a standby window 
+		// in case the cookie timestamp is newer than the own one set while loading
+		// because another window holds the current UI which works
+		if (window.opener == null) {
+			var p = sbcookie + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(p) == 0) {
+					try {
+						var ts = Math.floor(c.substring(p.length,c.length));
+						if (ts > sbtimestamp) {
+							window.onunload=null;
+							window.onbeforeunload=null;
+							window.location='/m/bc0aceba16c4ec52086740901b4a6ecd/';
+						}
+					} catch (e) {
+						// does not matter
+					};
+				}
+			}
+		}
+	});
+}
+
+jQuery(document).ready(initPolling);
+
+
+function onPollSuccess(content, s, response) {
+	if(response.status == 304) {
+	 	pollError = 0;
+	} else if(response.status >= 200 && response.status < 300) {
+	 	pollError = 0;
+	 	o_onc(response);
+	} else {
+	 	pollError++;
+	}
+}
+
+function onPollFailure() {
+  pollError++;
+}
+/* ]]> */
+</script>
+<div id='o_c1067145707'><div id='o_c1067145704'><script type="text/javascript">
+/* <![CDATA[ */
+if (o_info.poller && o_info.poller.period != 5000) {
+	o_info.poller.period = 5000;
+	o_info.poller.reset();
+}
+/* ]]> */
+</script>
+</div></div>
+<div id="oaawrp" style="visibility:hidden;width:0px;height:0px">
+<iframe src='/raw/551c0fbbe891/empty.html' name="oaa0" id="oaa0" width="1" height="1" onload="clearAfterAjaxIframeCall()"></iframe>
+</div>
+	<form id="o_oaap" method="post" action="#" onsubmit="return false" target="oaa0"><input type="hidden" name="v"></form>
+</div></div></div></div>
+<!-- END jsServer -->
+
+<!-- START olatContentPanel -->
+
+<a href="#o_main_container" class="sr-only">Zum Hauptbereich springen</a>
+	<div id="o_beta_logo"></div>
+
+<div id="o_messages" class="hidden-print"><div id='o_c1067145621'><div id='o_c1067145614'><!-- empty --></div></div></div>
+	
+<div id="o_header_wrapper"> 
+	<div id="o_header_container" class="o_container_offcanvas container-fluid"> 
+		<div id="o_logo"></div>
+		<div id="o_right_logo"></div>
+		
+					</div>
+</div>
+
+<div id="o_offcanvas_right" class="o_navbar o_navbar-offcanvas " role="navigation">
+	<a href="javascript:;" class="o_offcanvas_close" title="Schliessen"><i class='o_icon o_icon_close o_icon-lg'> </i> </a>
+	<div id="o_offcanvas_right_container" class="o_navbar-collapse">
+					<div id='o_c1067145689'><ul id="o_c1067145672" class="nav o_navbar-nav o_navbar-right o_sel_menu_tools">
+								<li role="presentation" class="dropdown-header">Persönliche Werkzeuge</li>
+						 	<li><a class=" o_sel_user_tools-calendar" id="o_c1067145674"  href="/auth/1%3A1%3A1067145674%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145673/" onclick="return o_XHREvent('/auth/1:1:1067145674:2:1/',true,true,'cid','personal.tool.alt.1067145673');"  title="Kalender"><i class='o_icon o_icon-fw o_icon_calendar o_icon-lg'></i> <span>Kalender</span></a></li>
+						 	<li><a class=" o_sel_user_tools-userfolder" id="o_c1067145676"  href="/auth/1%3A1%3A1067145676%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145675/" onclick="return o_XHREvent('/auth/1:1:1067145676:2:1/',true,true,'cid','personal.tool.alt.1067145675');"  title="Pers&ouml;nlicher Ordner"><i class='o_icon o_icon-fw o_bc_icon o_icon-lg'></i> <span>Persönlicher Ordner</span></a></li>
+						 	<li><a class=" o_sel_user_tools-notelist" id="o_c1067145678"  href="/auth/1%3A1%3A1067145678%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145677/" onclick="return o_XHREvent('/auth/1:1:1067145678:2:1/',true,true,'cid','personal.tool.alt.1067145677');"  title="Notizen"><i class='o_icon o_icon-fw o_icon_notes o_icon-lg'></i> <span>Notizen</span></a></li>
+						 	<li><a class=" o_sel_user_tools-effstatements" id="o_c1067145680"  href="/auth/1%3A1%3A1067145680%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145679/" onclick="return o_XHREvent('/auth/1:1:1067145680:2:1/',true,true,'cid','personal.tool.alt.1067145679');"  title="Leistungsnachweise"><i class='o_icon o_icon-fw o_icon_certificate o_icon-lg'></i> <span>Leistungsnachweise</span></a></li>
+						 	<li><a class=" o_sel_user_tools-otherusers" id="o_c1067145684"  href="/auth/1%3A1%3A1067145684%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145683/" onclick="return o_XHREvent('/auth/1:1:1067145684:2:1/',true,true,'cid','personal.tool.alt.1067145683');"  title="Andere Benutzer"><i class='o_icon o_icon-fw o_icon_search o_icon-lg'></i> <span>Andere Benutzer</span></a></li>
+							<li><a href="https://portfolio.switch.ch" target="_blank"
+					   title="SWITCHportfolio"><i class="o_icon o_icon-fw o_icon_manual o_icon-lg"></i> SWITCHportfolio</a></li>
+				<li><a href="https://drive.switch.ch" target="_blank"
+					   title="SWITCHdrive"><i class="o_icon o_icon-fw o_icon_provider_oauth o_icon-lg"></i> SWITCHdrive</a></li>
+										<li role="presentation" class="divider"></li>
+			<li role="presentation" class="dropdown-header">Konfiguration</li>
+						 	<li><a class=" o_sel_user_tools-profil" id="o_c1067145682"  href="/auth/1%3A1%3A1067145682%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145681/" onclick="return o_XHREvent('/auth/1:1:1067145682:2:1/',true,true,'cid','personal.tool.alt.1067145681');"  title="Profil"><i class='o_icon o_icon-fw o_icon_user o_icon-lg'></i> <span>Profil</span></a></li>
+						 	<li><a class=" o_sel_user_tools-mysettings" id="o_c1067145686"  href="/auth/1%3A1%3A1067145686%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145685/" onclick="return o_XHREvent('/auth/1:1:1067145686:2:1/',true,true,'cid','personal.tool.alt.1067145685');"  title="Einstellungen"><i class='o_icon o_icon-fw o_icon_settings o_icon-lg'></i> <span>Einstellungen</span></a></li>
+						 	<li><a class=" o_sel_user_tools-mypassword" id="o_c1067145688"  href="/auth/1%3A1%3A1067145688%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145687/" onclick="return o_XHREvent('/auth/1:1:1067145688:2:1/',true,true,'cid','personal.tool.alt.1067145687');"  title="Passwort"><i class='o_icon o_icon-fw o_icon_password o_icon-lg'></i> <span>Passwort</span></a></li>
+									<li role="presentation" class="divider"></li>
+		<li>
+								<a href="/auth/1%3A1%3A1067145672%3A2%3A0%3Acid%3Alogout/" class="o_logout" title="Loggen Sie sich aus OLAT aus" onclick="if (window.olatonunload) {olatonunload();}">
+			<i class="o_icon o_icon_logout o_icon-fw"></i> Log out
+		</a>
+	</li>
+</ul></div>
+			</div>
+</div>
+<a id='o_top'></a>
+<div id="o_navbar_wrapper" class="o_navbar" role="navigation">
+	<div id="o_navbar_container" class="o_container_offcanvas container-fluid">
+				<a class="o_navbar-brand " href="/url/MyCoursesSite/0" title="OLAT 18HS" ></a>
+		
+		<div class="o_collapse o_navbar-collapse">
+						<ul id="o_c1067145618" class="o_navbar_sites nav o_navbar-nav">
+			<li class=' o_site_repository'>
+			<a class="" id="o_c1067145625" accesskey="r"  href="/auth/1%3A1%3A1067145625%3A3%3A1%3Acid%3At/" onclick="return o_XHREvent('/auth/1:1:1067145625:3:1/',true,true,'cid','t');"  title="Kurse"><span>Kurse</span></a>
+		</li>
+			<li class=' o_site_groups'>
+			<a class="" id="o_c1067145627" accesskey="g"  href="/auth/1%3A1%3A1067145627%3A2%3A1%3Acid%3At/" onclick="return o_XHREvent('/auth/1:1:1067145627:2:1/',true,true,'cid','t');"  title="Arbeiten Sie mit Lern- und Arbeitsgruppen"><span>Gruppen</span></a>
+		</li>
+	</ul>
+<script type="text/javascript">
+/* <![CDATA[ */ 
+    jQuery(document).trigger("oo.nav.sites.modified");
+/* ]]> */
+</script>
+
+			<ul id="o_c1067145619"  class="o_navbar_tabs nav o_navbar-nav">
+	
+	<li class="">
+		<a class="" id="o_c1067148103" accesskey="s"  href="/auth/1%3A1%3A1067148103%3A2%3A1%3Acid%3Aa0/" onclick="return o_XHREvent('/auth/1:1:1067148103:2:1/',true,true,'cid','a0');"  title="19FS 200101.5 101/002 Motivationspsychologie"><i class='o_icon o_icon-fw o_CourseModule_icon'></i> <span>19FS 200101.5 101/002 Motivationspsychologie</span></a>
+					<a class="o_navbar_tab_close" id="o_c1067148104"  href="/auth/1%3A1%3A1067148104%3A2%3A1%3Acid%3Ac0/" onclick="return o_XHREvent('/auth/1:1:1067148104:2:1/',true,true,'cid','c0');"  title="Schliessen"><i class='o_icon o_icon_close_tab'></i> <span></span></a>	 			</li>
+	
+	<li class=" active ">
+		<a class="" id="o_c1067170298" accesskey="s"  href="/auth/1%3A1%3A1067170298%3A2%3A1%3Acid%3Aa2/" onclick="return o_XHREvent('/auth/1:1:1067170298:2:1/',true,true,'cid','a2');"  title="19FS 200101.4 101/001 Statistik 1 (Teil 2)"><i class='o_icon o_icon-fw o_CourseModule_icon'></i> <span>19FS 200101.4 101/001 Statistik 1 (Teil 2)</span></a>
+					<a class="o_navbar_tab_close" id="o_c1067170299"  href="/auth/1%3A1%3A1067170299%3A2%3A1%3Acid%3Ac2/" onclick="return o_XHREvent('/auth/1:1:1067170299:2:1/',true,true,'cid','c2');"  title="Schliessen"><i class='o_icon o_icon_close_tab'></i> <span></span></a>	 			</li>
+</ul>
+
+<script type="text/javascript">
+/* <![CDATA[ */ 
+    jQuery(document).trigger("oo.nav.tabs.modified");
+/* ]]> */
+</script>
+
+										<div id='o_c1067145671'><div id="o_c1067145628" class="o_navbar_tools">
+	<ul id="o_navbar_tools_permanent" class="nav o_navbar-nav o_navbar-right">
+						 <li  class="o_navbar_tool "><a class=" o_sel_user_tools-notifications" id="o_c1067145630"  href="/auth/1%3A1%3A1067145630%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145629/" onclick="return o_XHREvent('/auth/1:1:1067145630:2:1/',true,true,'cid','personal.tool.alt.1067145629');"  title="Abonnements"><i class='o_icon o_icon-fw o_icon_notification o_icon-lg'></i> <span>Abonnements</span></a></li>
+					 <li  id="o_navbar_imclient"  class="o_navbar_tool "><div id='o_c1067145642'><div id='o_c1067145631'>	<div class="o_im_messages">
+		<div id='o_c1067145633'><div id='o_c1067145641'><div id='o_c1067145640'><!-- empty --></div></div>
+
+
+</div>
+	</div>
+
+	<div id="o_im_status" class="dropdown">
+		<a href="#" class="o_undecorated dropdown-toggle" data-toggle="dropdown" title="Instant-Messaging-Status wechseln">
+			<i class="o_icon o_icon_status_available"></i>
+		</a>
+		<ul class="dropdown-menu dropdown-menu-right">
+			<li><span class="o_chelp_wrapper"><a href="https://help.olat.uzh.ch/display/OO114DE/Chat" class="o_chelp" target="_blank" title="Hilfe zu dieser Funktion im Handbuch &ouml;ffnen"><i class='o_icon o_icon_help'></i> Hilfe</a></span></li>
+			<li><a class="" id="o_c1067145635"  href="/auth/1%3A1%3A1067145635%3A2%3A1%3Acid%3Apresence.available/" onclick="return o_XHREvent('/auth/1:1:1067145635:2:1/',true,true,'cid','presence.available');" ><i class='o_icon o_icon_status_available o_icon-fw'></i> <span>Verfügbar</span></a></li>
+			<li><a class="" id="o_c1067145636"  href="/auth/1%3A1%3A1067145636%3A2%3A1%3Acid%3Apresence.dnd/" onclick="return o_XHREvent('/auth/1:1:1067145636:2:1/',true,true,'cid','presence.dnd');" ><i class='o_icon o_icon_status_dnd o_icon-fw'></i> <span>Bitte nicht stören</span></a></li>
+			<li><a class="" id="o_c1067145637"  href="/auth/1%3A1%3A1067145637%3A2%3A1%3Acid%3Apresence.unavailable/" onclick="return o_XHREvent('/auth/1:1:1067145637:2:1/',true,true,'cid','presence.unavailable');" ><i class='o_icon o_icon_status_unavailable o_icon-fw'></i> <span>Nicht verfügbar</span></a></li>
+		</ul>
+	</div>
+
+			<div id="o_im_summary"><a class="badge" id="o_c1067145638"  href="/auth/1%3A1%3A1067145638%3A3%3A1%3Acid%3Acmd.roster/" onclick="return o_XHREvent('/auth/1:1:1067145638:3:1/',true,true,'cid','cmd.roster');"  title="Welche meiner Bekannten aus meinen Gruppen sind in OLAT eingeloggt? W&auml;hlen Sie eine Person aus, mit der Sie chatten m&ouml;chten."><span>83/1625</span></a> <script type="text/javascript">
+/* <![CDATA[ */
+(function(){ var o_c1067145638 = jQuery('#o_c1067145638');o_c1067145638.click(function(event) { jQuery('#o_c1067145638').each(function(index, el) {;  var href = jQuery(el).attr('href'); 	if(href.indexOf('x') == -1) jQuery(el).attr('href',href+'x'+event.pageX+'y'+event.pageY+''); });});})();
+/* ]]> */
+</script></div>
+		<div id='o_c1067145639'><!-- empty --></div>
+</div></div></li>
+					 <li  id="o_navbar_help"  class="o_navbar_tool "><a class="" href="https://help.olat.uzh.ch/display/OO114DE/" target="oohelp" title="Starten Sie die OLAT-Hilfe"><i class="o_icon o_icon_help o_icon-lg"> </i> <span>Hilfe</span></a></li>
+					 <li  id="o_navbar_print"  class="o_navbar_tool "><a href="javascript:o_doPrint();" title="Diese Seite drucken" >
+	<i class="o_icon o_icon_print o_icon-lg"></i>
+	<span>Drucken</span>
+</a></li>
+					 <li  id="o_navbar_search_opener"  class="o_navbar_tool  dropdown "><a id="o_search_tool_toggler" href="#" class="dropdown-toggle" data-toggle="dropdown" title="Suchen">
+	<i class="o_icon o_icon_search o_icon-lg"></i>
+	<span>Suche</span>
+</a>
+<ul class="dropdown-menu dropdown-menu-right">          
+	<li id="o_navbar_search" class="o_navbar-form">
+		<div id='o_c1067145651'><div id='o_c1067145650'><form  method="post" id="ofo_1067145650" name="ofo_1067145650" action="/auth/1%3A1%3A1067145650%3A1%3A1%3Aofo_%3Afid/"  onsubmit="return o_XHRSubmit('ofo_1067145650');" ><input type="hidden" id="ofo_1067145650_dispatchuri" name="dispatchuri" value="undefined" /><input type="hidden" id="ofo_1067145650_eventval" name="dispatchevent" value="undefined" /><fieldset  id="o_c1067145649"  class="o_form form-inline  " role="form">
+
+		<div class="form-group  ">
+					<div  id="o_c1067145655"  class="form-group  ">
+			<div class="input-group">
+				
+				<div id='o_c1067145659'><input type="text" id="o_fi1067145659" name="o_fi1067145659" class='form-control' size="35" maxlength="255" value=""  placeholder="Suchen" autofocus /> <script type="text/javascript">
+ /* <![CDATA[ */ 
+(function() { jQuery('#o_fi1067145659').on('change keypress', {formId:"ofo_1067145650_dispatchuri", hideMessage:false}, setFlexiFormDirtyByListener);})();
+ /* ]]> */ 
+</script></div>
+
+					<span class="input-group-addon">
+				<a class="o_search" id="o_fi1067145664" href="javascript:o_ffEvent('ofo_1067145650','ofo_1067145650_dispatchuri','o_fi1067145664','ofo_1067145650_eventval','2');"  title="Suche in: &quot;In OLAT&quot;"><i class='o_icon o_icon-fw o_icon_search o_icon-lg'></i> <span></span></a>
+			</span>
+		
+				</div>
+			</div>
+								</div>
+	</fieldset></form> <script type="text/javascript">
+ /* <![CDATA[ */ 
+ (function() {jQuery('#ofo_1067145650').keypress(function(event) {
+ if (13 == event.keyCode) {
+  event.preventDefault();
+  if (this.onsubmit()) { this.submit(); }
+ }
+});
+})();
+ /* ]]> */ 
+</script></div></div>
+	</li>
+</ul>
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery('#o_search_tool_toggler').click(function () {
+	setTimeout(function() {
+		jQuery('#o_search_tool_toggler[aria-expanded="true"] + .dropdown-menu #o_navbar_search input:text').focus();	
+	},0);
+});
+/* ]]> */
+</script>
+</li>
+					 <li  class="o_navbar_tool "><a class=" o_sel_user_tools-Mail" id="o_c1067145668"  href="/auth/1%3A1%3A1067145668%3A2%3A1%3Acid%3Apersonal.tool.alt.1067145667/" onclick="return o_XHREvent('/auth/1:1:1067145668:2:1/',true,true,'cid','personal.tool.alt.1067145667');"  title="E-Mail"><i class='o_icon o_icon-fw o_icon_mail o_icon-lg'></i> <span>E-Mail</span></a></li>
+						<li id="o_navbar_my_menu" class="o_portrait">
+			<a id="o_sel_navbar_my_menu_caret" href="javascript:OPOL.navbar.toggleRight();">
+				<div id='o_c1067145670'><div id='o_c1067145669'><div class="o_portrait">
+	<div class="o_portrait_image">
+			<img src="/raw/551c0fbbe891/images/transparent.gif" alt="Benutzerprofil und Visitenkarte: Hliddal, Oliver" title="Benutzerprofil und Visitenkarte: Hliddal, Oliver" class="o_portrait_dummy_small" />
+		</div>
+</div>
+ </div></div>
+				<span>Oliver</span>
+				<b class="caret"></b>
+			</a>
+		</li>
+		</ul>
+</div>
+</div>
+					</div>
+	</div>
+</div>
+<div id='o_c1067145623'><!-- empty --></div>
+
+<div id="o_main_wrapper">
+	<div id="o_main_container" class="o_container_offcanvas container-fluid">
+		<div id='o_c1067145691'><div id='o_c1067170300'><div id='o_c1067170209' class=''><div id='o_main_toolbar' class='o_toolbar'><div class='o_breadcrumb'><ol class='breadcrumb'><li class='o_breadcrumb_back'><a class="" id="o_c1067170210" accesskey="b"  href="/auth/1%3A1%3A1067170209%3A2%3A1%3Acid%3Aback/" onclick="return o_XHREvent('/auth/1:1:1067170209:2:1/',true,true,'cid','back');"  title="19FS 200101.4 101/001 Statistik 1 (Teil 2) schliessen"><i class='o_icon o_icon_back'></i> <span></span></a></li><li class='active'><a class="" id="o_c1067170279"  href="/auth/1%3A1%3A1067170279%3A2%3A1%3Acid%3Acrumb_0/" onclick="return o_XHREvent('/auth/1:1:1067170279:2:1/',true,true,'cid','crumb_0');" ><span>19FS 200101.4 101/001 Statistik 1 (Teil 2)</span></a></li><li class='o_breadcrumb_close'><a class="" id="o_c1067170211" accesskey="x"  href="/auth/1%3A1%3A1067170209%3A2%3A1%3Acid%3Aclose/" onclick="return o_XHREvent('/auth/1:1:1067170209:2:1/',true,true,'cid','close');"  title="19FS 200101.4 101/001 Statistik 1 (Teil 2) schliessen"><i class='o_icon o_icon_close_tool'></i> <span>19FS 200101.4 101/001 Statistik 1 (Teil 2) schliessen</span></a></li></ol></div><div class='o_tools_container'><div class='container-fluid'><ul class='o_tools o_tools_right_edge list-inline'><li class='o_tool_previous'><a class="" id="o_c1067170296"  href="/auth/1%3A1%3A1067170296%3A7%3A1%3Acid%3Apreviouselement/" onclick="return o_XHREvent('/auth/1:1:1067170296:7:1/',true,true,'cid','previouselement');"  title="Zur&uuml;ck zur letzten Seite"><i class='o_icon o_icon-fw o_icon_previous_toolbar'></i> <span></span></a></li><li class='o_tool_next'><a  id="o_c1067170297"  title="Weiter zur nächsten Seite" class=" o_disabled " href='#' onclick='return false;'><i class='o_icon o_icon-fw o_icon_next_toolbar'></i> <span></span></a></li></ul><ul class='o_tools o_tools_right list-inline'><li class='o_tool_dropdown dropdown'><a href='#' class='dropdown-toggle dropdown-menu-right' data-toggle='dropdown'><i class='o_icon o_icon_user'>&nbsp;</i><span>Mein Kurs</span> <i class='o_icon o_icon_caret'> </i></a><ul class='dropdown-menu dropdown-menu-right' role='menu'><li><a class="" id="o_c1067170285" href="javascript:;" onclick="o_openPopUp('/auth/1%3A1%3A1067170285%3A2%3A0%3Acid%3Apersonalnote/','notes',750,550); return false;" ><i class='o_icon o_icon-fw o_icon_notes'></i> <span>Notizen</span></a></li><li><a class="" id="o_c1067170286"  href="/auth/1%3A1%3A1067170286%3A2%3A1%3Acid%3Abookmark/" onclick="return o_XHREvent('/auth/1:1:1067170286:2:1/',true,true,'cid','bookmark');"  title="Bookmark setzen"><i class='o_icon o_icon-fw o_icon o_icon_bookmark_add'></i> <span>Bookmark</span></a></li><li class='divider'></li><li><a class="" id="o_c1067170288"  href="/auth/1%3A1%3A1067170288%3A2%3A1%3Acid%3Agroup/" onclick="return o_XHREvent('/auth/1:1:1067170288:2:1/',true,true,'cid','group');" ><i class='o_icon o_icon-fw o_icon_group'></i> <span>Campusgruppe A</span></a></li><li class='divider'></li><li><a class="" id="o_c1067170289"  href="/auth/1%3A1%3A1067170289%3A2%3A1%3Acid%3Aleave/" onclick="return o_XHREvent('/auth/1:1:1067170289:2:1/',true,true,'cid','leave');" ><i class='o_icon o_icon-fw o_icon_sign_out'></i> <span>Kurs verlassen</span></a></li></ul></li></ul><ul class='o_tools o_tools_center list-inline'><li class='o_tool'><a class="" id="o_c1067170291"  href="/auth/1%3A1%3A1067170291%3A2%3A1%3Acid%3Acourseconfig/" onclick="return o_XHREvent('/auth/1:1:1067170291:2:1/',true,true,'cid','courseconfig');" ><i class='o_icon o_icon-fw o_icon_details'></i> <span>Kursinfo</span></a></li></ul></div></div></div><div id='o_c1067170270'><script type="text/javascript">
+/* <![CDATA[ */
+o_info.course_id="16539681230";
+function o_activateCourseNode(nodeid) {
+	if (!o_info.linkbusy) {
+		window.focus();
+		o_XHREvent('/auth/1:1:1067170269:2:1/',false,false,'cid','activateCourseNode',"nodeid",nodeid);
+				o_scrollToElement('#o_top');
+	}
+}
+/* ]]> */ 
+</script>
+<div class="o_course_run" data-nodeid="85421310414617">
+	<div id='o_c1067170268'><div id='o_c1067170263'><div id="o_main" class="o_hidecol2 row">
+	<div id="o_main_left" style="width: 14em;">
+		<div id="o_main_left_content" class="clearfix"> 
+			<div id='o_c1067170264'><div id='o_c1067170212'>
+<div class='o_tree o_tree_root_visible o_course_menu'><ul class="o_tree_l0"><li class=' active_parent' data-nodeid='85421310414617'><div id='dd85421310414617' class='o_tree_l0'><span class='o_tree_link o_tree_l0 active_parent'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A85421310414617/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','85421310414617');"  title="19FS 200101.4 101/001 Statistik 1 (Teil 2)"><i class='o_icon o_CourseModule_icon'></i> <span  class='o_tree_item'>19FS 200101.4 101/001 ...</span></a></span></div>
+<ul class=" o_tree_l1"><li class='' data-nodeid='87047199645333'><div id='dd87047199645333' class='o_tree_l1'><span class='o_tree_link o_tree_l1 o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A87047199645333/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','87047199645333');"  title=""><i class='o_icon o_sp_icon'></i> <span  class='o_tree_item'>Kursbeschreibung</span></a></span></div></li><li class='' data-nodeid='94240298261046'><div id='dd94240298261046' class='o_tree_l1'><span class='o_tree_link o_tree_l1 o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A94240298261046/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','94240298261046');"  title="Anmeldung f&uuml;r G&auml;ste"><i class='o_icon o_en_icon'></i> <span  class='o_tree_item'>Anmeldung f&uuml;r G&auml;ste</span></a></span></div></li><li class='' data-nodeid='90138016023740'><div id='dd90138016023740' class='o_tree_l1'><span class='o_tree_link o_tree_l1 o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A90138016023740/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','90138016023740');"  title=""><i class='o_icon o_tu_icon'></i> <span  class='o_tree_item'>OLAT-Einf&uuml;hrung</span></a></span></div></li><li class='' data-nodeid='85421310449426'><div id='dd85421310449426' class='o_tree_l1'><span class='o_tree_link o_tree_l1 o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A85421310449426/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','85421310449426');"  title="Materialien zum Kurs"><i class='o_icon o_bc_icon'></i> <span  class='o_tree_item'>Folien</span></a></span></div></li><li class='' data-nodeid='87047199646746'><div id='dd87047199646746' class='o_tree_l1'><span class='o_tree_link o_tree_l1 o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A87047199646746/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','87047199646746');"  title="Formelsammlung"><i class='o_icon o_bc_icon'></i> <span  class='o_tree_item'>Formelsammlung</span></a></span></div></li><li class='' data-nodeid='87047199646817'><div id='dd87047199646817' class='o_tree_l1'><span class='o_tree_link o_tree_l1 o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A87047199646817/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','87047199646817');"  title="&Uuml;bungsaufgaben"><i class='o_icon o_bc_icon'></i> <span  class='o_tree_item'>&Uuml;bungsaufgaben</span></a></span></div></li><li class='' data-nodeid='87047199646878'><div id='dd87047199646878' class='o_tree_l1'><span class='o_tree_link o_tree_l1 o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A87047199646878/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','87047199646878');"  title="Quizze"><i class='o_icon o_bc_icon'></i> <span  class='o_tree_item'>Quizze</span></a></span></div></li><li class=' active' data-nodeid='99200550817205'><div id='dd99200550817205' class='o_tree_l1 active'><span class='o_tree_link o_tree_l1 active o_tree_level_label_leaf'><a  href="/auth/1%3A1%3A1067170212%3A7%3A1%3Acid%3Actncl%3Anidle%3A99200550817205/" onclick="return o_XHREvent('/auth/1:1:1067170212:7:1/',true,true,'cid','ctncl','nidle','99200550817205');"  title="Link zur App"><i class='o_icon o_sp_icon'></i> <span  class='o_tree_item'>Link Statistik-App</span></a></span></div></li></ul></li></ul></div></div></div>	
+		</div>
+		<div id="o_main_left_toggle" class="hidden-print">
+		  <span class="sr-only">Toggle content menu</span>
+		  <i class="o_icon o_icon_menuhandel"></i>
+		</div>
+	</div>
+	<div id="o_main_center"> 		<a id="o_content"></a> 
+		<div id="o_main_center_content" class="clearfix o_scrollblock">			          
+	       	<div id="o_main_center_content_inner">
+				<div id='o_c1067170266'><div id='o_c1067170213'><div id='o_c1067200739'><div id='o_c1067200722'><div id='o_c1067200738'><div id='o_c1067200737'><script type="text/javascript">
+/* <![CDATA[ */ 
+function o_sundf1067200737() {
+	try {
+				var ww = window.open("/auth/1%3A1%3A1067200737%3A2%3A0%3Acid%3Acl/", "w1067200737", "height=" + jQuery(document).height()+ ", width=" + jQuery(document).width() + ", left=0, top=0, location=no, menubar=no, resizable=yes, scrollbars=yes, toolbar=no");
+		ww.focus();
+	} catch(e) {
+		if(jQuery(document).ooLog().isDebugEnabled()) jQuery(document).ooLog('debug','Error when trying to dock div id::o_sundck1067200737', "org.olat.core.gui.control.generic.docking._content.docked.html");
+	}
+}
+/* ]]> */
+</script>
+
+<a class="o_content_popup" href="javascript:o_sundf1067200737()" title="In neuem Fenster anzeigen">
+	<i class="o_icon o_icon_content_popup o_icon-lg"></i>
+</a>	
+<div id='o_c1067200736'><div id="o_c1067200730" class="o_titled_wrapper ">
+	<h2>
+				<i class="o_icon o_sp_icon"></i> 
+						Link Statistik-App
+			</h2>
+	<div id='o_c1067200735'><div id='o_c1067200732'><div class="o_togglebox_wrapper">
+			<a class="o_opener o_in" id="o_c1067200733"  href="/auth/1%3A1%3A1067200733%3A2%3A1%3Acid%3Atoggle/" onclick="return o_XHREvent('/auth/1:1:1067200733:2:1/',true,true,'cid','toggle');" ><i class='o_icon o_icon-fw'></i> <span>Beschreibung ausblenden</span></a>
+		<div class="o_togglebox">
+			<div id="my_toggle_box_uuid" class="o_togglebox_content">	
+				<div id="o_c1067200731" class="o_desc o_objectives o_user_content_block">
+<p>Hier finden Sie den Link zur Statistik-App. Bitte nehmen Sie sich die Zeit im Tutorat in der ersten Woche, um die App zu evaluieren. Vielen Dank!</p>
+</div>
+				<a class="o_hide" id="o_c1067200734"  href="/auth/1%3A1%3A1067200734%3A2%3A1%3Acid%3Ahide/" onclick="return o_XHREvent('/auth/1:1:1067200734:2:1/',true,true,'cid','hide');" ><span>Ausblenden</span></a>
+			</div>
+		</div>
+	</div>
+			</div></div>
+<div class="o_content">
+	<div id='o_c1067200723'><div id='o_c1067200724'><div class="o_singlepage">
+		<div class="o_content clearfix"><div id='o_c1067200729'><div id='o_c1067200728'><div id='o_c1067200725'><div id="o_c1067200725" class="o_iframedisplay">
+		
+					<iframe name="ifdc604086288" id="ifdc604086288" src="/m/601db93db063e77a8ff4ded97c9b788b/link_statistikapp.html" frameborder="0" height="600" style="min-height:600px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" ></iframe>
+		<div id='o_c1067200727'><div id='o_c1067200726'><script type="text/javascript">
+/* <![CDATA[ */
+function newUriEvent(uri){
+	// don't forward event when another request is beeing processed or when page not
+	// yet fully loaded (e.g. in case of a full page refresh when loading TinyMCE)
+	if (!o_info.linkbusy && o_info.initialPageLoadFinished) {
+		o_XHREvent('/auth/1:1:1067200726:2:1/',false,false,'cid','newUriEvent','uri',uri);
+	}
+}
+/* ]]> */
+</script></div></div>
+</div>
+
+</div></div></div></div>
+</div></div></div>
+</div>
+</div>
+
+</div>
+
+</div></div></div></div></div></div>		
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery().ready(function() {
+	// Main vertical splitter, anchored to the browser window
+	jQuery("#o_main_left").resizable({
+        handles: 'e',
+        containment: '#o_main',
+	    grid: [o_info.emPxFactor, 10000],
+	    stop: function() {
+	    	var leftCol = jQuery('#o_main_left');
+			var newEmWidth = Math.round(leftCol.width() / o_info.emPxFactor);
+			leftCol.width(newEmWidth + 'em');
+			jQuery.post('/auth/1%3A1%3A1067170263%3A2%3A0%3Acid%3AsaveCol1Width/' + newEmWidth);
+	    }
+	});
+
+		//TODO fg: move to separate file
+	window.menuState = {
+		open : true,
+		docked : true			
+	};
+	
+	window.o_showMenu = function(duration) {
+		duration = (typeof duration === "undefined") ? 500 : duration;
+		if (!menuState.open) {
+			jQuery('#o_main_left_content').show();
+			var l = jQuery('#o_main_left');
+			l.transition({'x': '0', 'left': '0'}, duration, function() {
+				menuState.open = true;
+			});
+		} 
+	};
+	window.o_hideMenu = function(duration) {
+		duration = (typeof duration === "undefined") ? 500 : duration;
+		if (!menuState.docked && menuState.open) {
+			var l = jQuery('#o_main_left');
+			jQuery('#o_main_left_content').hide();
+			l.transition({'x': '-' + l.css('width'), 'left': '5px'}, duration, function() {
+				menuState.open = false;
+			});			
+		} 
+	};
+	window.o_undockMenu = function(duration) {
+		if (menuState.docked) {
+			var left = jQuery('#o_main_left');
+			var offset = 0;
+			try {	
+				offset = left.offset().top;
+				offset -= jQuery('#o_navbar_wrapper').outerHeight(false);
+			} catch (e) {}
+
+			jQuery('#o_main_left_toggle').show();
+			left.css({position: 'absolute'})
+				.addClass('o_offcanvas')
+				.transition({'y': '-' + offset}, duration, function() {
+					OPOL.adjustHeight();
+					// close menu when something happens on the screen
+					jQuery(document).on('click', '.o_tree_link', o_hideMenu);
+					menuState.docked = false;
+					o_hideMenu(duration);
+			});							
+		} 
+	};
+	window.o_dockMenu = function(duration) {
+		o_showMenu();
+		if (!menuState.docked) {
+			jQuery('#o_main_left').transition({'y': 0}, duration, function() {
+				jQuery('#o_main_left').css({position: 'relative'})
+					.removeClass('o_offcanvas');
+				OPOL.adjustHeight();
+				jQuery('#o_main_left_toggle').hide();
+				jQuery(document).off('click', '.o_tree_link', o_hideMenu);
+				menuState.docked = true;
+			})			
+		} 
+	};
+	window.o_responsiveMenu = function() {
+		if (jQuery(window).width() < 992 && !(jQuery.support.opacity == false)) {
+			// same breakpoint as bootstrap screen-md, opacity detect IE8
+			o_undockMenu(500);
+		} else {
+			o_dockMenu(500);
+		}
+	};
+
+	// toggle menu on toggle events
+	jQuery('#o_main_left_toggle').on('click', function() {
+		if (menuState.open) {
+			o_hideMenu(500);
+		} else {
+			o_showMenu(500);
+		}
+	});
+	// recalculate menu when browser is resized
+	jQuery(document).on("oo.window.resize.after", o_responsiveMenu);
+	// do initialization now
+	if (jQuery(window).width() < 992 && !(jQuery.support.opacity == false)) {
+		// same breakpoint as bootstrap screen-md, opacity detect IE8
+		o_undockMenu(0);
+	}
+
+});
+/* ]]> */
+</script>
+</div></div>
+</div></div></div></div></div>
+		<a id="o_toplink" href="#o_top" onclick="o_scrollToElement('#o_top');" title="Zum Anfang der Seite">
+			<i class="o_icon o_icon_top"></i> 
+			nach oben
+		</a>	
+	</div>
+</div>
+
+<div id="o_footer_wrapper">
+	<div id="o_footer_container" class="o_container_offcanvas container-fluid">
+		<div id='o_c1067145698'><div id='o_c1067145692'><div id="o_footer_user" class="clearfix">
+			<span id="o_username">Eingeloggt als <i>ohlidd</i></span>
+		<span id="o_counter">(<span id='o_c1067145693'>1013</span> Personen sind online)</span>
+			<div id='o_c1067145695'><div id='o_c1067145694'><script type="text/javascript">
+/* <![CDATA[ */
+		function o_shareSocialUrl() {
+		if(o_info.businessPath && o_info.businessPath.length > 0) return o_info.businessPath;
+		return 'https://lms.uzh.ch';
+	} 
+	function o_shareSocialTitle() {
+		return document.title;
+	}
+	function o_shareCallout() {
+		return '<p><input id="callout_share_link_in" type="text" name="cl_share_link" value="' + o_shareSocialUrl() + '" size="64" /></p>';
+	}
+/* ]]> */
+</script>
+
+
+<div id="o_share">
+
+	<a id="o_share_social" href="javascript:;" title="Link auf diese Seite teilen">
+		<i class="o_icon o_icon_share_social o_icon-lg"></i>
+	</a>
+	<div id="o_share_social_wrapper" class="hide"><div id="o_share_social_container">
+						<a id="o_twitter" href="#" target="_blank" title="Link tweeten" onclick="window.open('http://twitter.com/share?url='+encodeURIComponent(o_shareSocialUrl())+'&amp;text='+encodeURIComponent(o_shareSocialTitle()));return false;">
+				<i class="o_icon o_icon_twitter o_icon-lg"></i>
+			</a>
+								<a id="o_facebook" href="#" target="_blank" title="Link auf facebook teilen" onclick="window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(o_shareSocialUrl())+'&amp;t='+encodeURIComponent(o_shareSocialTitle()));return false;">
+				<i class="o_icon o_icon_facebook o_icon-lg"></i>
+			</a>
+								<a id="o_google" href="#" target="_blank" title="Link auf google bookmarken" onclick="window.open('https://www.google.com/bookmarks/mark?op=add&amp;bkmk='+encodeURIComponent(o_shareSocialUrl())+'&amp;title='+encodeURIComponent(o_shareSocialTitle()));return false;">
+				<i class="o_icon o_icon_google o_icon-lg"></i>
+			</a>
+								<a id="o_delicious" href="#" target="_blank" title="Link auf delicous bookmarken" onclick="window.open('http://www.delicious.com/save?url='+encodeURIComponent(o_shareSocialUrl())+'&amp;title='+encodeURIComponent(o_shareSocialTitle()));return false;">
+				<i class="o_icon o_icon_delicious o_icon-lg"></i>
+			</a>
+								<a id="o_digg" href="#" title="Link auf digg teilen" onclick="window.open('http://digg.com/submit?url='+encodeURIComponent(o_shareSocialUrl())+'&amp;title='+encodeURIComponent(o_shareSocialTitle()));return false;">
+				<i class="o_icon o_icon_digg o_icon-lg"></i>
+			</a>
+								<a id="o_mail" href="javascript: window.location.href='mailto:?subject=' + encodeURIComponent(o_shareSocialTitle()) + '&body=' + encodeURIComponent(o_shareSocialUrl());" title="Link per Mail versenden">
+ 				<i class="o_icon o_icon_mailto o_icon-lg"></i>
+ 			</a>
+							</div></div>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		jQuery(function() {
+			o_shareLinkPopup('o_share_social', jQuery('#o_share_social_wrapper').html());
+		});
+	/* ]]> */
+	</script>
+			<a id="o_link" href="javascript:;" title="Link kopieren">
+			<i class="o_icon o_icon_link o_icon-lg"></i>
+		</a>
+		<a id="o_qrcode" href="javascript:;" title="QR-Code kopieren">
+			<i class="o_icon o_icon_qrcode o_icon-lg"></i>
+		</a>
+		<script type="text/javascript">
+		/* <![CDATA[ */
+			jQuery(function() {
+				o_shareLinkPopup('o_link', o_shareCallout);
+				o_QRCodePopup('o_qrcode', o_shareSocialUrl);
+			});
+		/* ]]> */
+		</script>
+				<a id="o_landingpage"  href="/auth/1%3A1%3A1067145694%3A2%3A1%3Acid%3AsetLandingPage/" onclick="return o_XHREvent('/auth/1:1:1067145694:2:1/',false,false,'cid','setLandingPage');"  title="Aktuelle Seite in Profil als pers&ouml;nliche Startseite festlegen">
+		<i class="o_icon o_icon_landingpage o_icon-lg"></i>
+	</a>
+	</div>
+</div></div>
+	</div>
+	<div id="o_footer_impressum">
+		<a class="" target="_blank" id="o_c1067145696"  href="/auth/1%3A1%3A1067145696%3A2%3A0%3Acid%3Atopnav.impressum/" onclick="return o2cl();"  title="Impressum"><i class='o_icon o_icon_impress o_icon-lg'></i> <span>Impressum</span></a> <script type="text/javascript">
+/* <![CDATA[ */
+(function(){ var o_c1067145696 = jQuery('#o_c1067145696');if (o_c1067145696) o_c1067145696.click(function() {setTimeout(removeBusyAfterDownload,1200)});})();
+/* ]]> */
+</script>
+	</div>
+<div id="o_footer_powered" class="clearfix">
+	<a href="https://www.olat.org" target="_blank" title="OLAT - Online Learning and Training">
+		<img src="/raw/551c0fbbe891/images/openolat/openolat_powerd_by_120x30.png" alt="powered by OLAT" />
+	</a>
+</div>
+<div id="o_footer_version" class="clearfix">
+	<a class="" id="o_c1067145697"  href="/auth/1%3A1%3A1067145697%3A2%3A1%3Acid%3Amenu.about/" onclick="return o_XHREvent('/auth/1:1:1067145697:2:1/',true,true,'cid','menu.about');"  title="Informationen zu OpenOLAT"><span>LMSUZH-v1.0-SNAPSHOT&nbsp;11.4.3</span></a>
+</div>	
+</div></div>
+	</div>
+</div>
+
+<div id='o_c1067145690'><div id='o_c1067170301'><!-- empty --></div></div>
+
+<div id="o_ajax_busy"><i class="o_icon o_icon_busy o_icon-5x o_icon-spin"></i></div>
+
+<div id="o_width_1em" style="width:1em; position: absolute; left: -1000px;"></div>
+<div><script type="text/javascript">
+/* <![CDATA[ */ 
+// init size and listen to text resize events
+jQuery(function() {
+	o_initEmPxFactor(); 
+});
+/* ]]> */
+</script></div></body></html>
