@@ -1,0 +1,1256 @@
+Zusammenfassung Emotionspsychologie
+
+Inhalt
+1. Organisatorisches und Einführung in das Thema	4
+1.1 Einführung in die Themen der Vorlesung	4
+1.1.1 Was sind Emotionen?	4
+1.1.2 Emotionskomponenten	5
+1.1.3 Geschichtlicher Überblick über die psychologische Emotionsforschung	6
+1.2 Forschungszugänge in der Emotionspsychologie	6
+1.2.1 Grundmodell der emotionspsychologischen Forschung	6
+2. Methoden der Emotionsforschung	7
+2.1 Experimentelle Induktion von Emotionen	7
+2.2 Messung von Emotionen	9
+2.2.1 Methoden zur Messung (der Komponenten) von Emotionen	9
+2.2.2 3 Bereiche der Selbstberichtmasse des emotionalen Erlebens	9
+3. Die klassische evolutionspsychologische Perspektive und ihre Weiterentwicklung	14
+3.1 Evolutionspsychologische Emotionstheorien	14
+3.1.1 Darwins evolutionsbiologische Emotionstheorie	14
+3.1.2 Ekmans neuro-kulturelle Emotionstheorie	16
+3.2 Überlegungen zum Konzept der Basisemotionen	19
+3.2.1 Acht Basisemotionen nach Plutchik: Auslöser, Komponenten und Funktionen	19
+3.2.2 Basisemotionen bei Ekman, Izard, Plutchik	19
+3.2.3 Kritik am Konzept der Basisemotionen	19
+3.2.4 Fazit zum Konzept der Basisemotionen	19
+3.3 Eifersucht aus Sicht der modernen evolutionären Psychologie	20
+3.3.1 Emotionen aus aktueller evolutionspsychologischer Perspektive	20
+3.3.2 Zwei zentrale Grundannahmen der modernen evolutionären Psychologie	20
+3.3.3 Eifersucht aus psychobiologischer Perspektive	20
+4. Die klassische behavioristische / lerntheoretische Perspektive und ihre Weiterentwicklung	21
+4.1 Die behavioristisch-lerntheoretische Emotionstheorien	21
+4.1.1 Die behavioristische Emotionstheorie von John B. Watson	21
+4.1.2 Konditionierung von Furchtreaktionen	23
+4.1.3 Beseitigung von Furchtreaktionen	23
+4.1.4 Exkurs: Furcht und Ängstlichkeit	24
+4.1.5 Die Interaktionale Theorie der Entstehung von Phobien von Arne Öhman	25
+5. Die klassische psychophysiologische Perspektive und ihre Weiterentwicklung	29
+5.1 Die James-Lange-Theorie	29
+5.1.1 Die Emotionstheorie von William James	29
+5.1.2 Verbesserung des Wegs der Emotionsentstehung	29
+5.1.3 Cannons Kritik an James’ Emotionstheorie	30
+5.1.4 Autonomes Nervensystem und Emotionen	30
+5.2 Überlegungen zur Bedeutung physiologischer Prozesse bei Emotionen	30
+5.2.1 Levensons Emotionsdefinition	30
+5.2.2 Bedeutung physiologischer Prozesse	30
+5.3 Die aktuelle Forschung zur physiologischen Emotionsspezifität	31
+5.3.1 Physiologische Emotionsspezifität	31
+5.3.2 Körperkarten der Emotionen	33
+5.4 Neo-jamesianische Ansätze: Die Facial-Feedback-Hypothese	34
+5.4.1 Neo-jamesianische Emotionstheorien	34
+5.4.2 Facial-Feedback-Hypothese	34
+5.5 Die Zwei-Faktoren-Theorie der Emotion von Stanley Schachter	35
+Methodische Verbesserungen der Replikationsstudie von Mezzacappa	37
+5.6 Implikationen aus der Zwei-Faktoren-Theorie: Fehlattribution physiologischer Erregung	37
+5.6.1 Beeinflussung von Emotionen durch Fehlattribution	37
+5.6.2 Studie von Dutton & Aron (1974)	38
+5.6.3 Studie von Ross, Rodin & Zimbardo	38
+5.6.4 Studie von Olson	39
+6. Die klassische kognitive Perspektive und ihre Weiterentwicklung	41
+7. Die neurowissenschaftliche Perspektive	42
+7.1 A quick primer on brain anatomy: the limbic system	42
+7.1.1 Human neocortex: 4 Lappen	42
+7.1.2 Das limbische System	43
+7.1.3 Papez Kreislauf	45
+7.2 Classical cases in affective neuroscience: animal and clinical studies	46
+7.2.1 Vier Gehirnregionen & vier Emotionen	46
+7.3 Neural systems for emotions: neural biomarkers of emotions	47
+7.4 The role of the amygdala in emotional processing	47
+8. Emotionsregulation	48
+8.1 Die Bewältigung emotionaler Belastungen	48
+8.1.1 James Pennebaker’s Ansatz zur emotionalen Selbstoffenbarung	48
+8.1.2 Grundstruktur von Pennebaker’s Studien	48
+8.1.3 Was bewirkt das Sprechen über emotionale Ergebnisse?	49
+8.2 Die Klassifikation von Emotionsregulationsstrategien von Parkinson & Totterdell	49
+8.2.1 Klassifikation von Emotionsregulationsstrategien	49
+8.2.2 Die Klassifikation von Emotionsregulationsstrategien von Parkinson & Totterdell (1999)	49
+8.3 Das Prozessmodell der Emotionsregulation von James Gross (2002)	50
+8.3.1 Dimensionen im Prozessmodell von Gross	50
+8.3.2 Das Prozessmodell der Emotionsregulation	50
+8.3.3 Beschreibung der Emotionsregulationsstrategien	50
+8.3.4 Grundlegende Frage der Forschung zu ausgewählten Emotionsstrategien	51
+8.3.5 Vergleich von kognitiver Umbewertung und Unterdrückung von Emotionen bei negativen Emotionen	51
+9. Kognitive und behaviorale Korrelate von Emotionen in verschiedenen Kontexten	54
+9.1 Einfluss auf das Gedächtnis	54
+9.1.1 Inzidentelles Textlernen	54
+9.1.2 biographische Erinnerungen	54
+9.2 Urteilsbildung	54
+9.2.1 Beurteilung von Objekten	54
+9.2.2 Risikowahrnehmung	55
+9.2.3 Personenwahrnehmung	55
+9.3 Einstellungsänderung	55
+9.4 Stereotypisierung	55
+
+
+
+
+
+
+
+1. Organisatorisches und Einführung in das Thema
+1.1 Einführung in die Themen der Vorlesung
+1.1.1 Was sind Emotionen?
+«Gefühle, die bei Interaktion im Alltag entstehen, ... etwas, was den Gemütszustand der Person wiedergibt.» 
+«Starke physiologische und seelische Reaktion, welche auf ein Ereignis, eine Situation oder ein Artefakt, welches als persönlich bedeutsam eingestuft wird, ... wie Freude, Trauer, ...» 
+«Gefühle, die uns steuern, auf die wir wenig Kontrolle haben, die durch verschiedene Situationen ausgelöst werden.» 
+«Psychische Prozesse, die eine innere Reaktion des Körpers widerspiegeln. ...»
+Emotionen sind zentrale Phänomene unseres Lebens, welche häufig vorkommen und mit Ereignissen verbunden sind, die von persönlicher Bedeutsamkeit sind. Die Intensität dieser Emotionen ist stark von der persönlichen Bedeutung abhängig.
+
+Emotionen im Alltag
+Zwischenmenschlich: Familie, Eltern-Kind, Freunde, Liebe, Streit
+Kunst& Literatur: Bücher, Bilder, ...
+Werbung: Anspielung an Emotionen
+Sport: Glück, Frust, ...
+Medien: in Presseberichten, ...
+
+Emotionen als allgegenwärtiges Phänomen
+Oatley und Duncan (1994): Erwachsene berichten in Tagebuchstudie pro Tag mindestens ein emotionales Erlebnis, das von körperlichen Symptomen begleitet war. 33 % der berichteten emotionalen Erlebnisse waren länger als 30 Minuten.
+“Experience without emotion is like a day without weather. Emotions are the very stuff of what it means to experience the world.” (Cornelius, 1996, S. 3)
+
+Arbeitsdefinition von Meyer
+„Emotionen sind zeitlich datierte, konkrete einzelne Vorkommnisse von zum Beispiel Freude, Traurigkeit, Ärger, Angst, Eifersucht, Stolz, Überraschung, Mitleid, Scham, Schuld, Neid, Enttäuschung, Erleichterung sowie weiterer Arten von psychischen Zuständen, die den genannten genügend ähnlich sind“ 
+Alle Emotionen haben die folgenden Merkmale gemeinsam:
+* aktuelle psychische Zustände
+* bestimmte Qualität, Intensität & Dauer
+* sie sind objektgerichtet (Auslöser kann genannt werden)
+* in verschiedenen Emotionen, unterschiedliches charakteristisches Erleben, oft auch physiologische Änderungen
+Bei Emotionen steht der Mensch im Mittelpunkt. Emotionen unterscheiden sich in den folgenden Dimensionen:
+* Qualität: typisches Erleben
+* Intensität: stark vs. Schwach
+* Dauer
+* Verlauf: langsam vs. Schnell ansteigend; langsam vs. Schnell sich verflüchtend
+* Objektgerichtet: man freut, ärgert sich über etwas Bestimmtes…
+3 Komponenten einer Emotion:
+* Subjektives Erleben, spezifischer Bewusstseinszustand
+* Physiologische Veränderungen (Herzschlag, Atmung, …)
+* Verhalten (Körperhaltung, Mimik, Stimme, Handeln)
+
+Emotionsdefinition von Cornelius
+-subjektives Erleben (wird unterschiedlich empfunden)
+-Ausdrucksverhalten (Mimik, Stimme, Körperhaltung wird unterschiedlich)
+-Physiologische Reaktionen
+-Verhalten
+-Gedanken
+-Funktion für Handlungssteuerung (Motivation, unterschiedliches Verhalten in gleichen Situationen bei unterschiedlicher Gemütslage)
+
+Emotionsdefinition von Brandstätter et al.
+Emotionen haben subjektive erfahrbare und objektive erfassbare Komponenten, die zielgerichtetes Verhalten begleiten bzw. fördern, das dem Organismus eine Anpassung an seine Lebensbedingungen ermöglicht.
+
+1.1.2 Emotionskomponenten
+-Kognition (Einschätzung, Bewertung, Kategorisierung, Ursachenzuschreibung, Benennung)
+Bsp. Zuschreibung von Verantwortlichkeit (Selbstschuld, also helfe ich nicht / nicht selbst schuld, deshalb helfe ich)
+       Bsp. Person ist schlecht gelaunt -> Die Person ist unfreundlich
+       Person hat nachher eine wichtige Prüfung -> Sie ist nur nervös
+-Physiologie (erhöhter Herzschlag, Anspannung, Reflexe)
+       Bsp. Bei Nervosität
+-Motivation (motivationale Orientierungen, Handlungsbereitschaften, funktionaler Aspekt) 
+       Bsp. Zur Flucht vor einer Gefahr bei Angst
+-Ausdruck (Mimik, Stimme, Gestik, Haltung, soziale Kommunikation)
+       Bsp. Geballte Faust bei Wut
+-Erleben (subjektive Erfahrung, Gefühle)
+Vergleich mit Stimmung und Affekt
+Stimmung: Emotion mit geringer Intensität, längerer Dauer und oft fehlt eine Ursache (Objektgerichtetheit fehlt)
+Affekt: intensiver emotionaler Zustand
+
+1.1.3 Geschichtlicher Überblick über die psychologische Emotionsforschung
+1870-1920: intensive Beschäftigung mit Emotionen (James, McDougall, Watson)
+1920-1970: sehr geringe Beschäftigung mit Emotionen (Behaviorismus sehr dominant)
+seit 1980: Kognitive Wende: zunehmende Forschungsaktivität mit Emotionen
+
+Status der Emotionsforschung
+Es gibt viele Theorien in der Emotionspsychologie
+Jede Theorie betrachtet Emotionen aus einem gewissen Sichtpunkt, vernachlässigt dabei oft andere Standpunkte. Die Theorie ist abhängig von den Vorannahmen über die menschliche Natur, den theoretischen Überzeugungen & der methodischen Expertise des Forschers.
+
+1.2 Forschungszugänge in der Emotionspsychologie 
+1.2.1 Grundmodell der emotionspsychologischen Forschung
+
+Vorauslaufende Bedingungen sind die unabhängigen Variablen, welche zu einer Emotion führen, welche dann Konsequenzen nach sich zieht
+       Bsp. Konsequenzen: Wann bin ich hilfsbereiter?
+2 Bereiche: Emotionsentstehung & Emotionswirkung
+
+
+
+2. Methoden der Emotionsforschung
+2.1 Experimentelle Induktion von Emotionen
+Um Emotionen wirklich beobachten zu können, muss man sie in Laboren reproduzieren können.
+Für die Formulierung von Kausalbeziehungen sowie die wissenschaftliche Analyse der Auswirkung von Emotionen, ist es notwendig Emotionen in kontrollierten Laborexperimenten in einer ethisch vertretbaren Weise induzieren und messen zu können. 
+Probleme der Emotionsforschung in Laboren
+-Welche Facette der Emotion soll aktiviert werden?
+-Woran wird gemessen ob eine Emotion erfolgreich reproduziert wurde?
+Bsp.: Herzschlag: Kann bei gut und schlecht gelaunten Personen gleich sein.
+Bsp.: Fragebogen: Jeder empfindet es anders, daher Antworten inkonstant
+-Unterschiede zwischen verschiedenen Personen auf die gleiche Situation
+-Die Induktion von negativen Emotionen ist ethisch fragwürdig
+-Wenn VPN weiss, dass sie Teil eines Experiments ist, ist sie mehr dazu geneigt, für das Experiment positive (zustimmende) Antworten zu geben.
+Überlegungen welche vor der Induktion geklärt werden müssen
+* Welche Emotionen sollen ausgelöst werden?
+* Wie stark sollen die Emotionen werden?
+* Wie lange sollen die Emotionen dauern?
+* Welche Wahrscheinlichkeit hat die Methode, dass sie Erfolg hat?
+* Bei welcher Zielgruppe ist die Induktionsmethode geeignet?
+* Wie emotionsspezifisch ist die Methode?
+* Kann die Methode auch zur Induktion anderer Emotionen benutzt werden?
+* Wie sind die Effekte nachweisbar?
+* Kann das Ergebnis kontrolliert werden?
+* Wie einfach ist es für die VPN zu erkennen, dass Emotion ausgelöst werden sollen & deshalb dies (un-)bewusst zu kontern versucht?
+Kategorien von Verfahren um Emotionen auszulösen
+-Erinnerung an autobiographische Erlebnisse der VPN
+-Konfrontation mit emotionerzeugendem Material wie Filmen, Bildern, Imagination emotionaler Geschichten, ...)
+-Emotionsauslösende Erfahrung im Labor wie Erfolgs- & Misserfolgserlebnisse, sozialer Anschluss/ Zurückweisung, ...)
+-Durch körperliche Veränderungen können Emotionszustände erzeugt werden (chemische Substanzen, Mimik, ...)
+Bsp.: „Erinnern sie sich an eine Situation, in der sie wirklich Angst hatten?“
+Bsp.: “Versuchen sie sich in die Situation der Person zu setzen.“
+Beispiele dieser Methoden
+Velten-Technik zur Emotionsinduktion
+VPN liest erst leise, dann laut 60 positive / negative selbstbezogene Aussagen und versuchen, die Stimmung, die die Aussagen anregen, zu empfinden.
+Musik: etwa 5-10 Minuten lang, nicht länger. Bei Musik wird im Voraus auch betrachtet, wie Licht & Ähnliches sein müssen, damit die Induktion der Emotion maximal ist.
+Fragebogen versucht angeblich Vorhersage über Lebenserfolg zu machen. Persönlich relevant für VPN.
+2 Gruppen: positiv / negativ. Fragebogen wird danach ausgewertet vor VPN und der Auswerter macht ständig positive/ negative Kommentare während korrigieren. Danach auch entsprechendes Feedback. So wurden Emotionen bei VPN ausgelöst.
+Man benötigt eine gute Cover-Story bei emotionsauslösenden Erfahrungen im Labor um es für die VPN glaubwürdig zu machen. Am Ende muss ein abschliessendes Gespräch gemacht werden (Debriefing), sodass die VPN am Ende eine gute Laune hat.
+VPN müssen am Ende immer über Zweck des Experiments aufgeklärt werden und weshalb ihr evtl. negative Emotionen induziert wurde. Im Debriefing sollte auch herausgefunden werden, ob die VPN Verdacht geschöpft hat. Wenn eine Person den Untersuchungszweck erraten hat während des Experiments, muss ihr Resultat ausgeschlossen werden.
+
+Analyse zur Wirkung verschiedener Methoden der Emotionsinduktion
+
+
+Diese 4 Emotionen können sehr einfach induziert werden, aber die physiologischen Änderungen sind deutlich schwerer herzustellen.
+2.2 Messung von Emotionen
+2.2.1 Methoden zur Messung (der Komponenten) von Emotionen
+* Fragebogen (A)
+* Tagebuchmethode (A)
+* Verhaltensbeobachtung (B)
+* Kodierung des Ausdrucks (B)
+* Psychophysiologische und neuropsychologische Verfahren (C)
+2.2.2 3 Bereiche der Selbstberichtmasse des emotionalen Erlebens
+Distinkte Emotionskategorien (basic category approach)
+a. Differential Emotions Scale (DES)
+10 Emotionskategorien mit je drei Emotionskategorien
+* Interesse: aufmerksam, konzentriert, wach
+* Freude: erfreut, glücklich, froh
+* Kummer: traurig, niedergeschlagen, entmutigt
+* Zorn: ärgerlich, gereizt, wütend
+* Furcht: sich fürchtend, ängstlich, bange
+* Schuldgefühl: reuig, schuldig, tadelnswert
+* Ekel: angeekelt, Abscheu, Widerwille
+* Geringschätzung: geringschätzig, spöttisch, verachtungsvoll
+* Überraschung: überrascht, erstaunt, verblüfft
+* Scham/Schüchternheit: schüchtern, scheu, zurückhaltend
+
+Instruktionen im DES:
+-In welchem Ausmass erleben sie diese Gefühle momentan?
+-Wie häufig haben sie die genannten Emotionen in einem bestimmten Zeitraum X erlebt?
+-Wie häufig erleben sie in ihrem Alltag typischerweise diese Emotionen?
+Affektive Dimensionen (multidimensional approach)
+b. Russell’s 2 Dimensionen
+i. Valenz (Unlust-Lust)
+ii. Aktivierung/Erregung (Schläfrigkeit-Erregung)
+
+Affektgitter nach Russell, Weiss & Mendelsohn
+
+MDBF=Multidimensionaler Befindlichkeitsfragebogen
+
+Es können auch Smileys benutzt werden, um die Befindlichkeit anzugeben.
+
+
+1. Valenz
+2. Herzklopfen (Erregung)
+3. Dominanzlevel (Wie dominant fühlt sich die Person im Moment)
+
+
+
+
+PANAS (Positive and Negative Affect Schedule
+
+Rote Balken: Valenz & Erregung
+NA hoch: Negativer Affekt (Niedrige Valenz, hohe Erregung)
+Bsp.: Nervös angespannt 
+PA hoch: Positiver Affekt (Hohe Valenz, hohe Erregung)
+Bsp.: Aufregung durch Freude
+Niedrige Valenz, niedrige Erregung, Bsp.: Missmutig, ...
+Hohe Valenz, niedrige Erregung, Bsp.: Entspannt, ruhig, ...
+
+
+
+
+
+
+SWLS: Skala zur Erfassung der allgemeinen Lebenszufriedenheit
+7er-Skala: stimme genau zu - stimme überhaupt nicht zu
+* „In den meisten Bereichen entspricht mein Leben meinen Idealvorstellungen“. 
+* „Meine Lebensbedingungen sind ausgezeichnet“.
+* „Ich bin mit meinem Leben zufrieden“.
+* „Bisher habe ich die wesentlichen Dinge erreicht, die ich mir für mein Leben wünsche“.
+* „Wenn ich mein Leben noch einmal leben könnte, würde ich kaum etwas ändern“.
+
+Ökologische Emotionspsychologie
+Methoden
+* Analyse von emotionalen Erfahrungen im Alltag aufgrund von natürlichen Auslösern
+* Erfassung durch Fragebogen im Nachhinein oder durch Befindenstagebuch (unmittelbar). Annahmen einer ökologischen Emotionspsychologie
+Annahmen
+* Emotionen sind ein Kernbereich der Person.
+* Emotionen sind von gegenwärtigen, erinnerten oder erwarteten Ereignissen ausgelöst.
+* Emotionen informieren uns, was unsere Bestrebungen fördert und was sie behindert.
+* Emotionen sind verbunden mit Handlungsimpulsen der Annäherung oder Vermeidung
+* Emotionales Befinden sollte im Alltag analysiert werden
+
+Vorteile von Erlebnisstichproben-Methode (ESM) / Tagebuchmethode
+* Keine Verzerrung der Berichterstattung durch Gedächtnisverzerrungen
+* Die VPN muss keinen Mittelwert über eine gewisse Zeitspanne bilden, sondern nur den momentanen Gefühlsstand angeben. Dadurch wird die ökologische Validität der Daten erhöht
+* Die inneren Prozesse der Person in verschiedenen Situationen können besser verstanden werden
+* Kombination mit anderen Erhebungsmethoden führt zu sehr guten Ergebnissen
+Vorteile
+* Unmittelbarkeit der Berichterstattung verhindert Gedächtnisverzerrungen
+* Repräsentativität der berichteten Situationen erhöht ökologische Validität der Daten
+* Idiographische Differenziertheit (Analyse der Prozesse innerhalb der Person)
+* Multi-Methoden-Ansatz (Kombination mit anderen Datenerhebungsmethoden)
+Nachteile
+* Grosser Aufwand
+* Es ist eine Fragmentierung des Erlebnisstroms & führt zu sehr komplexem Datenmaterial
+
+Facial Action Coding System (FACS) (Paul Ekman)
+Heute: Automatische elektronische Auswertung des FACS
+-Kategorisieren der Gesichtsbewegungen
+-FACS wird benutzt, um die Gesichtsbewegungen genau beschreiben zu können
+-46 AU (Action Units) = kleinste mögliche Bewegungen, welche das Gesicht tun kann
+
+
+
+
+Auswahl zentraler psychophysiologischer und neuropsychologischer Messungen
+* Hautleitfähigkeit
+* Herz- & Atemfrequenz, Puls, Blutdruck
+* Körpertemperatur
+* Mobilität (Wie stark bewegt sich eine Person)
+* Aktivierung der Gesichtsmuskel messen
+* Lidschlussreaktion
+* Hirnphysiologische Prozesse
+
+
+
+
+3. Die klassische evolutionspsychologische Perspektive und ihre Weiterentwicklung
+3.1 Evolutionspsychologische Emotionstheorien
+Frage der biologischen Funktion von Emotionen
+-Emotionen sind durch natürliche Selektion entstandene Merkmale, wodurch die Fitness (Überlebenschancen) erhöht wurde
+-Mit gewissen Emotionen zu reagieren hat Vorteile beim Überleben gebracht
+-Gewisse Basisemotionen sind in den Genen verankert, welche wir ausdrücken & bei anderen erkennen können
+
+Konfrontation mit Situation, Objekt, ... -> Emotionale Reaktion:
+Wenn Überleben gefährdet -> Emotion negativ
+Wenn Überleben gefördert -> Emotion positiv
+
+Wir reagieren mit positiven Emotionen auf Nahrung/ Flüssigkeit zu sich nehmen, Sex, Nähe zu anderen Menschen, Sicherheit, Bewältigung von Herausforderungen, Soziale Einflussnahme, Explorieren neuartiger, Befriedigung versprechender Umwelten
+Wir reagieren mit negativen Emotionen auf Verletzung/ Schmerz, Kälte, Dehydration, soziale Isolation, Zurückweisung, Misserfolg, Verlust an sozialem Status, Explorieren möglicher bedrohlicher Umwelten
+
+3.1.1 Darwins evolutionsbiologische Emotionstheorie
+Das Emotionskonzept bei Darwin
+* Emotionen sind psychische Zustände, die durch die Bewertung von Objekten, Ereignissen & Situationen entstehen
+* Emotionen sind mit einem bestimmten Emotionsausdruck verbunden (Mimik, Gestik, Körperhaltung)
+* Emotionsausdruck ist der Kern von Darwins Forschung
+Die Emotionstheorie bei Charles Darwin
+* Vergleich von Emotionsausdrücken bei Mensch & Tier soll Evolutionstheorie untermauern
+* Beschäftigte sich mit Entwicklung der mimischen Ausdrücke
+Forschungsmethoden von Darwin
+-Vergleich des Emotionsausdrucks Mensch/ Tier
+-Intrakulturelle Beurteilungen des Emotionsausdrucks
+-Interkultureller Vergleich des Emotionsausdrucks (Universalität)
+-Beobachtung des Emotionsausdrucks von Kindern, Blindgeborenen & psychiatrischen Patienten
+
+Kritik an Darwins Forschung
+-Zu kleine Stichproben
+-Er hat andere Kulturen nicht selbst beobachtet / befragt -> Validität fragwürdig
+-Er hat Suggestivfragen benutzt (“Wird Überraschung durch offenen Mund ausgedrückt?” anstatt “Wie wird Überraschung ausgedrückt?”)
+
+Der Ausdruck von Emotionen ist nicht eine Nachahmung, da selbst Blindgeborene/Neugeborene die gleichen Ausdrücke haben wie normale Kinder und Erwachsene. Emotionsausdrücke werden vererbt.
+
+Warum sind bestimmte Emotionen mit einem komplett spezifischen Emotionsausdruck verbunden?
+Darwin: Die Mimik zu einer gewissen Emotion hatte ursprünglich eine bestimmte Funktion
+Bsp.: Ekel --> Nase rümpfen, um giftige Dämpfe nicht hineinzulassen
+Diese Ausdrucksbewegungen haben sich danach automatisiert, wodurch sie auch in anderen Situationen benutzt werden.
+
+Biologische Funktion des Emotionsausdrucks
+-Organismische Funktion (Bsp: weit geöffnete Augen bei Überraschung verbessert Informationsaufnahme, geöffneter Mund erleichtert Atmung)
+-Kommunikative Funktion (Bsp: Information über Gefühlszustand und Handlungsimplikationen)
+--> Information, Warnung, Appell
+Kernaussagen evolutionsbiologischer Ansätze
+-Emotionen sind durch Evolution entstanden. Emotionen verschaffen Überlebensvorteile
+-Verhalten, dass dem Überleben dient führt zu positiver Emotion
+-Verhalten, dass dem Überleben schadet führt zu negativer Emotion
+
+
+
+
+3.1.2 Ekmans neuro-kulturelle Emotionstheorie
+Paul Ekmans neuro-kulturelle Emotionstheorie
+-7 Basisemotionen: Ärger, Ekel, Furcht, Freude, Traurigkeit, Überraschung, Verachtung
+-Diese Basisemotionen und die zugrundeliegenden Mechanismen haben sich durch natürliche Selektion gebildet
+-Jede der 7 Basisemotionen ist durch ein bestimmtes Gefühl, bestimmte physiologische Veränderungen und einen spezifischen mimischen Ausdruck gekennzeichnet
+-Wird eine Basisemotion ausgelöst, wird das zugehörige angeborene mimische Programm aktiviert
+-Die angeborenen Tendenzen zum mimischen Ausdruck können willentlich kontrolliert werden
+-Durch zunehmende Sozialisation kommt es zu mehr Kontrolle über diese Ausdrücke, abhängig von Darstellungsregeln (display rules) -> Emotionsausdruck kulturell überformt
+
+Studie zur interkulturellen Universalität des Gesichtsausdrucks
+-Standardmethode: Angehörige verschiedener Kulturen mit Schriftsprache sahen Fotos von Gesichtsausdrücken der Basisemotionen
+-Frage an VPN: “Welche Emotion wird dargestellt?”
+-Antwort: Liste mit sieben Emotionswörtern
+
+Resultate bei allen geprobten Kulturen etwa gleich hoch
+In allen untersuchten Kulturen wählte die Mehrheit der Probanden (> 67%) die richtigen Emotionen zur Beschreibung der Fotos aus.
+Methodische Einwände: Probanden waren Studierende, gestellte Emotionen nur sehr typische Emotionsausdrücke dargestellt, Antwortformat.
+Studien zur interkulturellen Universalität des Gesichtsausdrucks
+Methode für „visuell isolierte“ Kulturen ohne Schriftsprache: Kurze emotionsauslösende Episoden werden erzählt.
+visuell isoliert: Hatte nie Kontakt mit Bildmaterial
+* Episoden stammen von den Stammesangehörigen
+* „Welches Foto passt zu der Geschichte?“
+* Bildvorlagen: Je drei Fotos mit unterschiedlichen Gesichtsausdrücken
+* Für fast alle Geschichten lag die Zuordnungsrate zwischen 64% und 100%.
+* Bei Furcht-Überraschung keine überzufällig korrekten Zuordnungen
+Stolz und Scham sind zwar keine Basisemotionen, sind aber trotzdem sehr gut verankert sowohl beim Menschen als auch bei gewissen Tieren.
+Der nonverbale Ausdruck von Stolz und Scham nach Erfolg/Misserfolg
+1: Ist der nonverbale Ausdruck von Stolz und Scham in verschiedenen Kulturen als Reaktion auf Erfolg/Misserfolg zu beobachten?
+2: Ist  der nonverbale Ausdruck von Stolz und Scham ein Ergebnis von Beobachtung und Modelllernen oder angeboren?
+
+Methode:
+Beobachtung des nonverbalen Verhaltens auf Erfolg und Misserfolg in einem lebensnahen Kontext
+* Athleten (Judo) der Olympiade und Paralympics 2004
+* n = 87 Sehende, n = 54 Blinde (mit angeborener Blindheit)
+* Sportfotograd macht Foto unmittelbar nach Wettkampf
+* Fotos wurden hinsichtlich bestimmter Merkmale in Mimik und Körperhaltung kodiert
+
+
+Ergebnisse sehende Athleten
+
+
+Ergebnisse blinde Athleten
+
+Ekmans display rules (Ausdruckskontrolle)
+-Durch Sozialisationsprozesse erworben
+-Kulturabhängige soziale Norm (Europäisch/amerikanisch/Interdependenten Kontexte (Japan,...))
+In europäischen Kontexten: Man muss einzigartig sein, man muss sich zeigen, weshalb egoistisches, aggressives Verhalten eher vorkommt.
+-Strategischer Einsatz des Gefühlsausdruck: intensivieren, abschwächen, neutralisieren, maskieren
+
+Studie zur Ausdruckskontrolle
+US-Amerikaner und Japaner sahen belastende Filme (chirurgische Eingriffe, Unfälle)
+UV: Film alleine oder mit Versuchsleiter ansehen
+AV: Gesichtsausdruck beim betrachten des Films
+Ergebnis alleine: beide Gruppen zeigten den gleichen Ausdruck
+Ergebnis mit Versuchsleiter: Japaner zeigen viel häufiger ein Lächeln als Amerikaner
+
+
+
+3.2 Überlegungen zum Konzept der Basisemotionen
+3.2.1 Acht Basisemotionen nach Plutchik: Auslöser, Komponenten und Funktionen
+AuslöserKognitionGefühlHandlungsimpulsFunktionBedrohungGefahrFurchtFluchtSchutzHindernisAggressorÄrgerAngriffZerstörungPartner/inBesitzenFreudePaarungFortpflanzungVerlust eines IndividuumsVerlassen seinTraurigkeitWeinenReintegrationBinnengruppeFreundVertrauenUmsorgenEinverleibenSchädlichesGiftEkelAusspeienZurückweisenNeue UmgebungWas ist da?Interesse/ErwartungUntersuchenErkundenUnerwartetesWas ist da?ÜberraschungInnehaltenOrientierung
+3.2.2 Basisemotionen bei Ekman, Izard, Plutchik
+EkmanIzardPlutchikÄrgerÄrgerÄrgerEkelEkelEkelFurchtFurchtFurchtFreudeFreudeFreudeTraurigkeitTraurigkeitTraurigkeitÜberraschung(Überraschung)ÜberraschungVerachtungVerachtungInteresseInteresse / ErwartungSchamSchuld(Zuneigung)Vertrauen
+3.2.3 Kritik am Konzept der Basisemotionen
+* Unterschiedliche Listen nach Umfang und Zusammenstellung von Basisemotionen verschiedener Autoren, z.B. Ekman, Izard, Plutchik
+* Unterschiedliche Kriterien zur Bestimmung der Basisemotionen (Ekman: emotionsspezifischer Gesichtsausdruck; Plutchik: emotionsspezifischer Handlungsimpuls)
+* Empirische Belege für spezifische Komponenten der Basisemotionen nicht sehr stark (--> spezifische physiologische Veränderungen, spezifische Handlungsimpulse, spezifisches Gefühlserleben)
+
+3.2.4 Fazit zum Konzept der Basisemotionen
+Auf die Frage, was eine Basisemotion sei, gibt es nicht eine, sondern viele Antworten.
+Es gibt keine Übereinstimmung wie viele, welche und warum Emotionen Basisemotionen sind. Zudem ist das gesamte Konzept der Basisemotionen umstritten.
+
+
+
+3.3 Eifersucht aus Sicht der modernen evolutionären Psychologie
+3.3.1 Emotionen aus aktueller evolutionspsychologischer Perspektive
+Seit etwa 40 Jahren neue Sichtweise innerhalb der Psychologie, die auf Darwins Theorien zurückgeht.
+Sociobiology is defined as the systematic study of the biological basis of all social behavior.
+Zentrale Annahme: Individuelle Organismen verhalten sich so, dass ihre inklusive Fitness maximiert wird, indem sie so viele ihrer Gene wie möglich weitergeben.
+
+3.3.2 Zwei zentrale Grundannahmen der modernen evolutionären Psychologie
+Im Laufe der Phylogenese wiederkehrende Anpassungsprobleme für Individuen (z.B. Nahrungsbeschaffung, sich vor Feinden schützen, Wettkampf um Ressourcen, einen Geschlechtspartner auswählen, …)
+Zur Bewältigung dieser Anpassungsprobleme haben sich durch natürliche Selektion sog. Evolutionäre psychische Mechanismen herausgebildet.
+Emotionen gelten als eine Form von solchen evolutionären psychischen Mechanismen.
+
+3.3.3 Eifersucht aus psychobiologischer Perspektive
+-Leidenschaftliches Streben nach Alleinbesitz der emotionalen Zuwendung einer Bezugsperson mit der Angst vor tatsächlichen oder vermuteten Konkurrenten.
+-Einschätzung: Findet eine Bedrohung der Beziehung statt? -> Aktivierung des Eifersuchtsprogramms
+-Eifersuchtsprogramm erhöht inklusive Fitness eifersüchtiger Individuen
+-Eifersuchtsprogramm für Männer und Frauen unterschiedlich, sexuelle Untreue des Partners/der Partnerin tangiert den Reproduktionserfolg unterschiedlich
+Studie zu Eifersucht aus psychobiologischer Sicht
+Vorstellung, dass man in einer Beziehung ist. Frage: Was würde einem mehr belasten, emotionaler oder sexueller Betrug des Partners mit einer anderen Person?
+
+
+
+
+4. Die klassische behavioristische / lerntheoretische Perspektive und ihre Weiterentwicklung
+
+4.1 Die behavioristisch-lerntheoretische Emotionstheorien
+4.1.1 Die behavioristische Emotionstheorie von John B. Watson
+Grundfragen der behavioristischen Emotionstheorie
+* Wie bilden sich emotionale Reaktionen auf die unterschiedlichsten Reize aufgrund von Lernerfahrung heraus?
+* Wie werden ursprünglich neutrale Reize zu Emotionsauslösern?
+* Unterscheidung ungelernter vs. Gelernter emotionaler Reaktionen
+* Analyse vor allem der Furchtreaktion --> Implikationen für die klinische Psychologie
+* 3 Lernprinzipien: klassisches und instrumentelles Konditionieren, Modelllernen
+
+Grundpositionen des Behaviorismus
+-Kritik an der Introspektion (nach innen, auf das eigene Bewusstsein, die psychischen Vorgänge gerichtete Beobachtung) als wichtige Forschungsmethode der Bewusstseinspsychologie
+-Einzig legitimer Forschungsgegenstand: Intersubjektiv beobachtbares Verhalten von Organismen und deren beobachtbare Umwelt
+-Was interessiert: Reiz und Reaktion, was genau innerhalb des Individuums geschieht, ist nicht von Interesse, da es nicht beobachtbar ist.
+-Watson: „Der Behaviorist wischte alle mittelalterlichen Konzeptionen beiseite. Er entfernte aus seinem wissenschaftlichen Vokabular alle subjektiven Begriffe wie Empfindung, Wahrnehmung, Vorstellung, Wunsch, Absicht und sogar Denken und Emotion, so wie sie ursprünglich definiert waren. Wir wollen uns auf Dinge beschränken, die man beobachten kann, ...“
+
+Emotionsdefinition nach Watson
+-Intersubjektiv beobachtbares Reakionsmuster, das durch bestimmte Umweltbegebenheiten (Reize) verlässlich ausgelöst wird.
+-Reaktionsmuster = Reaktion tritt immer dann mit Konstanz, Regelmässigkeit, derselbigen Abfolge auf, wenn der auslösende Reiz dargeboten wird.
+-Emotionen umfassen tiefgreifende Veränderungen des körperlichen Mechanismus, insbesondere der viszeralen und Drüsensysteme.
+-Emotionen versetzen den Organismus in einen chaotischen Zustand.
+-Emotionen haben im Vergleich zu Instinkten keinen Anpassungswert
+
+Welche Emotionskomponenten akzeptiert Watson?
+Nur Physiologie & Ausdruck. Erleben, Kognition und Motivation können nicht intersubjektiv beobachtet werden. 
+
+Zwei Arten von Reaktionsmuster nach Watson
+* Ungelernte (angeborene) Reaktionsmuster
+* Gelernte emotionale Reaktionsmuster
+
+Welche emotionalen Reaktionsmuster sind ungelernt?
+* Untersuchung von Säuglingen und Kleinkindern
+* Konfrontation mit verschiedenen positiven und negativen Reizen
+* Aufgrund der Reaktion der Kinder auf diese Reize schlussfolgerte Watson, dass es drei angeborene, d.h. nicht durch Lernen entstandene Dispositionen für emotionale Reaktionsmuster gibt. (Furcht, Wut, Liebe).
+Furcht: Durch laute Geräusche, Verlust von Halt
+Wut: Behinderung von Körperbewegungen
+Liebe: Streicheln der Haut, insbesondere der erogenen Zonen, Schaukeln, auf den Knien reiten, ...
+
+Grundbegriffe des klassischen Konditionierens
+Neutraler Reiz (NS): Reiz, der kleine Reaktion auslöst
+Unkonditionierter Reiz (UCS): Reiz, der eine ungelernte Reaktion auslöst
+Unkonditionierte Reaktion (UCR): ungelernte Reaktion, die auf einen unkonditionierten Reiz folgt
+Konditionierter Reiz (CS): ursprünglich neutraler Reiz, der mit unkonditioniertem Reiz gepaart wurde und nun unkonditionierte Reaktion auslöst
+Konditionierte Reaktion (CR): Reaktion, die vom CS ausgelöst wird und UCR sehr ähnlich ist.
+
+3 Phasen beim klassischen Konditionieren
+Experiment: Hund soll auf das Geräusch einer Glocke mit Appetit reagieren.
+
+Phase 1:
+Glocke (NS) ? keine Reaktion
+Essen (UCS) ? unkonditionierte Reaktion (Freude auf Essen, Speichelbildung)
+
+Phase 2:
+Glocke (NS) und Essen (UCS) zusammen ? unkonditionierte Reaktion (Freude auf Essen, Speichelbildung)
+
+Phase 3:
+Glocke (CS) ? Konditionierter Reaktion (CR) ? Hund denkt, dass Glocke bedeutet, dass Essen vorhanden ist
+Wie lässt es sich erklären, dass Furcht, Wut & Liebe durch verschiedenste Reize ausgelöst werden können?
+Neutrale Reize erhalten durch die Kopplung mit einem angeborenen Auslösereiz (klassische Konditionierung) die Fähigkeit, die emotionale Reaktion auszulösen.
+
+4.1.2 Konditionierung von Furchtreaktionen
+Der Fall des kleinen Alberts
+Phase 1: Baby Albert hat keine Angst an Ratte, spielt freudig mit ihr.
+Phase 2: Darbietung der Ratte zusammen mit lautem Geräusch, dass ihm Angst macht.
+Phase 3: Ratte allein macht ihm Angst.
+Phase 4: Auch Dinge, die der Ratte “ähnlich” waren (wie Kaninchen, Hund, Samichlausmaske, ...) führten zu Angstreaktion
+Phase 5: Abtrainieren der Angst. Nicht mehr möglich, da Alberts Familie wegzog.
+
+4 Forschungsfragen:
+1. Können angeborene Furchtreaktionen auf neutralen Reiz konditioniert werden? ? Ja
+2. Überträgt sich konditionierte Reaktion auf andere, dem konditionierten Reiz ähnliche Reize (Reizgeneralisierung)? ? Ja
+3. Bleibt konditionierte Reaktion für gewisse Zeit erhalten? ? Ja
+4. Mit welcher Methode kann man die konditionierte Reaktion wieder zum Verschwinden bringen? ? Unbeantwortet
+
+4.1.3 Beseitigung von Furchtreaktionen
+Forschungsfrage: Kann auf demselben Weg, auf dem Furcht gelernt wurde, auch Furcht wieder verlernt werden?
+2 Elemente der Furchttherapie nach Mary C. Jones
+* Furchtauslösender Reiz wird mit positivem Reiz gepaart, der eine positive Reaktion auslöst. ? Gegenkonditionierung
+* Schrittweise Annäherung des furchtauslösenden Reizes (sukzessive Approximation)
+
+Der Fall des kleinen Peters
+3-Jähriger Junge der Angst vor Kaninchen, Ratten, … hatte. Jeden Tag hat er 1-2 Therapiesitzungen über 2 Monate, bei denen ihm Essen und ein Hase gleichzeitig präsentiert wurde.
+? Nach 2 Monaten ist die Furcht vor dem Kaninchen bei Peter verschwunden. Die sogenannte Gegenkonditionierung ist die am meisten gebrauchte Methode zur Behandlung von Phobien.
+? systematische Desensibilisierung
+
+Methoden der systematischen Desensibilisierung
+In-vivo-Desensibilisierung: Konfrontation mit realen furchtauslösenden Situationen
+In-sensu-Desensibilisierung: gedankliche Konfrontation mit furchtauslösenden Situationen
+
+1. Erstellen einer Angsthierarchie: Was löst am meisten Angst aus? Der Gedanke daran, das angstauslösende Objekt von Nahem zu sehen oder direkt mit dem Objekt zu interagieren. ? In Hierarchieordnung, wobei dann mit dem harmlosesten begonnen wird.
+2. Erlernen einer Entspannungsmethode (Entspannung als inkompatible Reaktion zu Furcht): z.B. progressive Muskelrelaxation (dabei werden Muskeln gezielt angespannt und wieder entspannt, sodass dies dann in der Angstsituation benutzt werden kann), Schokokekse (beim kleinen Peter)
+3. Konfrontation mit der am wenigsten Angstauslösenden Situation & Entspannung
+4. Dann Konfrontation mit zunehmend stärker Angst auslösenden Situationen & Entspannung
+
+
+4.1.4 Exkurs: Furcht und Ängstlichkeit
+-In Gefahrensituationen funktional: kann pathologische Ausmasse (wenn es im Alltag zu extrem unangenehmen Gefühlen führen kann) annehmen, wenn Stärke oder Dauer der emotionalen Reaktion die Lebensführung einschränkt.
+-Abgrenzung Furcht vs. Ängstlichkeit
+-Auslöser: Traumata ? Posttraumatische Belastungsstörung, Furchtauslösende Situationen
+
+Furcht (fear)
+-konkrete Situation wird als bedrohlich interpretiert
+-Furcht ist ein “poststimulus” (ein anderer Stimulus kommt davor, Furcht ist Reaktion darauf)
+-Furcht hat eine automatische und eine kontrollierte Komponente
+-Furcht motiviert Schutzverhalten ? Flucht (flight) oder Erstarrung (freezing)
+-Furcht motiviert erlernen von adaptiven Reaktionen (Umgang mit Gefahr ? Schutzmotivation)
+
+Ängstlichkeit
+-keine konkrete Bedrohung vorhanden/ identifizierbar
+-”prestimulus”, also vor der Angst, es ist mehr präventiv
+-ungerichtete Erregung und Anspannung
+-motiviert kein spezifisches gerichtetes Verhalten
+-Funktionalität fraglich
+-”apprehensive anticipation of future danger or misfortune accompanied by a feeling of dysphoria or somatic symptoms of tension”
+4.1.5 Die Interaktionale Theorie der Entstehung von Phobien von Arne Öhman
+
+Klinisch auffällige vs. Normale Furcht/Ängstlichkeit
+Die Furcht/Ängstlichkeit ist klinisch auffällig, wenn sie...
+* häufig wiederkehrend und länger anhaltend
+* eine Intensität beinhaltet, die nicht mehr der objektiven realen Bedrohung entspricht
+* das Individuum paralysiert
+* psychosoziale und physiologische Funktionen beeinträchtigt
+Auslöser für Posttraumatische Belastungsstörung
+* PTBS resultiert aus Erfahrungen extremer Gefahr (Terroranschläge, Folter, Naturkatastrophen, schwere Unfälle, ...)
+* intensivste Gefühle von Angst, Grauen, Panik im Augenblick des Traumas
+* später Ängstlichkeit und anhaltend hohes Stressniveau
+* Furcht vor sog. Flashbacks (lebhafte Erinnerung an das traumatische Ereignis)
+Auslöser für Furcht (phobische) Reaktionen
+* Interpersonelle Ereignisse (z.B. Zurückweisung, Konflikte, ...)
+* Verletzung, Krankheit, Tod
+* Tiere (allgemein, v.a. aber Reptilien, Insekten)
+* Agoraphobie (offene Plätze, Menschenmengen, Enge, Höhenangst
+* Öhman: “Evolution hat Menschen mit einer Eigenschaft ausgestattet die dazu führt, dass sie Furcht auf Situationen übertragen, welche das Leben ihrer Vorfahren bedroht hat.”
+Schlangen als Zeichen des Verderbens in der Kunst & Religion
+Schlangen sind in der Geschichte überall als Symbol für Verderben und Unglück zu finden. Viele Menschen haben eine Schlangenphobie, weshalb sie sich sehr als Symbol dafür eignen. 
+
+
+Argumentation von Öhman & Mineka
+Beispiel Angst vor Schlangen
+-Schlangen sind spezielle Stimuli für Menschen und andere Primaten
+-Furcht vor Schlangen findet sich beim Menschen und anderen Primaten
+-Menschen und Affen lernen Furcht vor Schlangen leichter als Furcht vor den meisten Stimuli
+-Weder die Auslösung der Furcht vor Schlangen noch die Konditionierung von Schlangenfurcht bei Menschen benötigt die bewusste Wahrnehmung des Schlangenreizes.
+-Postulat eines in der Evolution sich herausgebildeten Furchtmoduls im Gehirn
+
+-Merkmale des in der Evolution sich herausgebildeten Furchtmoduls:
+? Das Furchtmodul wird selektiv durch bestimmte Furchtstimuli, die in der evolutionären Geschichte bedrohlich waren, aktiviert.
+? Die Auslösung erfolgt automatisch (d.h. ohne Beteiligung der bewussten Aufmerksamkeit), entzieht sich weitgehend der bewussten Kontrolle.
+? Die Prozesse basieren auf bestimmten neuronalen Schaltkreisen im Gehirn
+Postulat eines Furchtmoduls von Öhman
+-In Stammesgeschichte Bereitschaft entwickelt, gegenüber bestimmten Objekten selektiv leicht Furchtreaktion zu lernen ? Hypothese der angeborenen Lernbereitschaft
+-Umfasst Prozesse, die speziell auf Wahrnehmung von und Reaktion auf bedrohliche Ereignisse gerichtet sind
+-Bedrohungen sind Ereignisse, die die Weitergabe der eigenen Gene an die nächste Generation gefährden könnten
+-Gefahrenquellen: Rangkämpfe mit Artgenossen, natürliche Feinde, Naturkatastrophen ? Entsprechung in der Kategorisierung von Phobien im DSM-IV: soziale Phobien, Tierphobien, Naturphobien
+Die interaktionale Theorie der Entstehung von Phobien
+-Phobien sind das Resultat einer Interaktion von genetischen Disposition und Lernen.
+-Furchtreize lösen bei verschiedenen Menschen sehr unterschiedliche Reaktionen aus.
+-Damit eine Phobie aus den Genen entsteht, müssen schlechte Erfahrungen mit diesem Furchtreiz gemacht werden.
+Elemente des Furchtmoduls nach Öhman
+
+
+
+Selektivität
+Studie von Öhman zur Interaktionalen Theorie der Entstehung von Phobien
+-Darbietung von phobischen (Spinne, Schlange) und nicht-phobischen (Blume, Pilz) Reize auf Dias
+-Differentielle Kopplung mit einem unangenehmen elektrischen Schlag am Finger
+-Abhängige Variable: Hautleitfähigkeit als Indikator der Furchtreaktion
+-phobische Reize lösen eine deutlich stärkere Hautleitfähigkeit aus, wenn sie mit elektrischem Schlag präsentiert werden.
+-Löschungsphase: Wenn aufgehört wird, den negativen Reiz mit dem CS zu präsentieren, sackt die Furchtreaktion wieder ab
+Fazit:
+-Furchtreaktion beim Menschen können auf ursprünglich neutrale Reize konditioniert werden
+-Furchtreaktionen beim Menschen können jedoch auf bestimmte, potenziell phobische Reize leichter konditioniert werden als auf andere
+-Diese Furchtreaktionen sind löschungsresistenter als solche, die auf nicht phobische Reize konditioniert wurden
+Studie zu selektiven Aufmerksamkeitsprozessen bei Spinnen-Phobikern
+Ziel der Studie: Messung der Reaktionszeit bei Spinnenphobikern bei Reizauslösung einer Spinne, Unterschied finden im Gegensatz zu nicht-phobischen VPN.
+Patienten mit Phobie sind stärker abgelenkt durch phobischen Reiz, daher ist ihre Reaktionszeit deutlich langsamer.
+Einwände gegen die Interpretation der Befunde von Öhman
+Die verwendeten potenziell phobische Reize können aufgrund von Lernerfahrungen eine negative Bedeutung haben ? ontogenetische statt phylogenetischer Erklärung der Befunde.
+Tierexperimentelle Studien zur interaktionalen Theorie der Entstehung von Phobien
+Vorteil von Tierstudien: Das Ausmass an Vorerfahrung mit den verwendeten Reizen (potenziell phobisch vs. neutral) kann kontrolliert werden.
+Tierexperimentelle Studie zur interaktionalen Theorie der Entstehung von Phobien
+Phase 1 (Vortest): Reaktion der Versuchstiere auf potenziell phobische und nicht-phobische Reize registriert.
+Phase 2: Affen sehen je nach Bedingung auf Video Modell
+1: B+ / S- : Vor Blumen Furcht, vor Schlange keine Furcht
+2: B- / S+ : Vor Blumen keine Furcht, vor Schlange Furcht
+Phase 3 (Nachtest): Affen erneut mit den phobischen und nicht-phobischen Reizen konfrontiert und Reaktion registriert
+Ergebnisse: Im Vortest keinerlei Unterschiede in der Reaktion der Versuchstiere auf Schlange vs. Blumen. Im Nachtest deutliche Unterschiede in der Furchtreaktion auf Schlange vs. Blumen. Gruppe 1 hatte keine Furchtreaktion mehr bei Blumen, Gruppe 2 hatte aber noch Angstreaktionen bei Schlangen.
+
+Automatisierung
+Die automatische Aktivierung von Furchtreaktionen
+Furchtreaktionen können automatisch ausgelöst werden.
+-Furchtreaktion muss nicht bewusst wahrgenommen werden
+-Furchtreaktion kann nicht willentlich unterbunden werden
+-Furchtreaktion kaum kognitiv steuerbar
+Studien zur automatischen Aktivierung von Furchtreaktionen
+These: Furchtsystem kann ausgelöst werden, noch bevor die kognitive Einschätzung des Stimulus vorgenommen werden konnte.
+Studie von Öhman & Soares
+-UV: Schlangen-, Spinnen-Phobiker und unauffällige Kontrollgruppe
+-Maskierte und nicht-maskierte Darbietung von Dias mit potenziell phobischen Reizen (Schlangen, Spinnen)
+
+Subkortikale neuronale Prozesse
+Neuronale Grundlagen des Furchtmodels
+-Furchtmodul = sehr frühe evolutionäre Entwicklung
+-Kontrolliert von subkortikalen neuronalen Prozessen
+-Struktur im limbischen System: Amygdala
+Sind Furchtreaktionen beliebig konditionierbar
+Watsons Postulat, dass jeder beliebige neutrale Reiz durch klassisches Konditionieren zu einem Furchtreiz werden kann, ist angesichts der Ergebnisse u.a. von Öhman und Mineka nicht haltbar
+
+
+
+
+
+
+5. Die klassische psychophysiologische Perspektive und ihre Weiterentwicklung
+
+5.1 Die James-Lange-Theorie
+5.1.1 Die Emotionstheorie von William James
+-Der “gesunde Menschenverstand” sagt: “Ein starkes Gefühl führt bei mir dazu, dass ich Herzklopfen bekomme, ich mich körperlich anspanne, lache etc.”
+-James postulierte 1884 in seiner Arbeit “What is an emotion?” die umgekehrte Reihenfolge: Zuerst körperliche Veränderungen, dann Gefühl
+-Carl Lange veröffentlichte 1885 eine theoretisch sehr ähnliche Abhandlung über Emotionen ? James-Lange-Theorie
+Hauptthesen von William James
+-Unterscheidung: Gröbere (z.B. Furcht, Wut, Scham, Stolz) und feinere Emotionen (z.B. Dankbarkeit, Genugtuung, Wissbegierde, Bewunderung)
+-Emotionen sind bewusste psychische Zustände (subjektives Erleben im Vordergrund)
+-Emotion= die Wahrnehmung der physiologischen Veränderungen im Körper
+-Qualität und Intensität von Emotionen lassen sich an Merkmalen von Körperempfindungen festmachen
+Der Weg der Emotionsentstehung: Ursprüngliche Fassung der Theorie
+Wahrnehmung eines emotionsauslösenden Sachverhalts führt zu emotionsspezifischen körperlichen Veränderungen oder Verhalten. Dies wird dann wahrgenommen als Erleben der Emotion.
+Drei Aspekte der Theorie von James für «gröbere» Emotionen
+1. Auslösung körperlicher Veränderungen: Wahrnehmung eines emotionsauslösenden Reizes führt direkt zu körperlichen Veränderungen
+2. Natur dieser körperlichen Veränderungen: Jeder Emotion muss ein spezifisches Muster an körperlichen Veränderungen zugeordnet sein
+3. Wahrnehmung der körperlichen Veränderungen: Die unterschiedlichen Muster an körperlichen Veränderungen müssen in ihrer Differenziertheit wahrgenommen werden
+Einwände gegen die erste Fassung der Theorie und James’ Antworten darauf
+-Blosse Wahrnehmungen sind nicht hinreichend für das Auslösen von Emotionen ? Bewertung des Objekts ist erforderlich (Bedeutung kognitiver Einschätzungen!)
+-Die mit Emotionen einhergehenden Willkürhandlungen sind sehr unterschiedlich ? viszerale Veränderungen sind zentral
+-Die mit Emotionen einhergehenden Veränderungen spezifisch “emotional”? ? diffuse körperliche Empfindungen sind emotionstypisch
+
+5.1.2 Verbesserung des Wegs der Emotionsentstehung
+Die Wahrnehmung und Bewertung eines emotionsauslösenden Sachverhaltes lösen emotionsspezifische viszerale Veränderungen aus, welche als Erleben der Emotion empfunden werden. Genauer gesagt werden nur die körperlichen Veränderungen empfunden.
+
+5.1.3 Cannons Kritik an James’ Emotionstheorie
+1. Die vollständige Trennung der Viszera vom Zentralnervensystem führt zu keiner Veränderung im emotionalen Verhalten.
+2. Innere Organe sind relativ unempfindlich (nur wenige Rezeptoren und Nervenfasern).
+3. Viszerale Veränderungen sind zu langsam, um als Ursache des Gefühlserlebens in Frage zu kommen.
+4. Dieselben viszeralen Veränderungen treten bei sehr verschiedenen emotionalen und auch bei nicht-emotionalen Zuständen auf.
+5. Die künstliche Herbeiführung viszeraler Veränderungen (z.B. Injektion von Adrenalin) führt nicht zum Auftreten einer distinkten Emotion.
+
+5.1.4 Autonomes Nervensystem und Emotionen
+Führt Rückenmarksverletzungen zu einer Abschwächung des Emotionserlebens?
+-Hohmann (1966): fand bestätigende Hinweise für James’ Theorie
+-Cobos, Sanches, Perez & Vila (2004): keine signifikanten Unterschiede zwischen Patienten & Kontrollgruppe
+
+
+5.2 Überlegungen zur Bedeutung physiologischer Prozesse bei Emotionen
+5.2.1 Levensons Emotionsdefinition
+Emotionen sind kurzlebige psychophysiologische Phänomene die effiziente Adaptionsmethoden zu veränderten Umweltbedingungen. Emotionen verändern auf psychologischer Ebene Aufmerksamkeit, erhöhen die Auswahlpriorität von gewissen Verhalten und aktivieren relevante, assoziative Netzwerke im Gehirn. Physiologisch organisieren Emotionen schnell die Reaktionen von verschiedenen, nicht zusammenhängenden biologischen Systemen (z.B. Gesichtsausdrücke, Tonlage, …), um ein körperliches Milieu zu kreieren, welche optimal für eine effektive Reaktion ist.
+
+5.2.2 Bedeutung physiologischer Prozesse
+-Emotionen bereiten uns darauf vor, in der Umwelt angetroffene Herausforderungen meistern zu können.
+-Physiologische Prozesse sind ein zentraler Bestandteil von Emotionen.
+-Lebewesen begegnen wiederkehrenden Problemen (Risiken) und Gelegenheiten (Chancen), die für das Überleben zentral sind ? es braucht adaptive Reaktionen
+-Emotionen bildeten sich in der Evolution als adaptive Reaktionen für wiederkehrenden Risiken und Chancen heraus.
+
+
+
+
+5.3 Die aktuelle Forschung zur physiologischen Emotionsspezifität
+5.3.1 Physiologische Emotionsspezifität
+Frage: Sind bei Emotionen unterschiedliche physiologische Reaktionsmuster nachweisbar?
+-Emotionen sind psychobiologische Zustände, die dabei helfen, Risiken abzuwenden & Chancen zu ergreifen.
+-In der aktuellen Emotionsforschung wird dem Thema grosse Bedeutung beigemessen.
+-Forschungsfrage hat lange Tradition ? James-Lange-Theorie der Emotion
+Vorannahmen der Forschung zu physiologischer Emotionsspezifität
+-Emotionen können als diskrete Kategorien definiert werden.
+-”Reale” Emotionen können im Labor induziert werden.
+-Physiologische Reaktionen haben hohen Differenzierungsgrad.
+-Es existiert empirische Validierungsstrategie, mit der entschieden werden kann, ob gegebenes physiologisches Muster tatsächlich auch spezifisch für eine Emotion ist.
+-Gleichzeitig wirksame Einflüsse auf physiologische Reaktionen müssen identifiziert werden (z.B. Kognitive Prozesse, Temperatur, Körperhaltung, ...)
+Erkenntnisstand zur Differenziertheit physiologischer Reaktionen
+Physiologische Reaktionen haben hohen Differenzierungsgrad
+
+Studie von Paul Ekman (1983) zu emotionsspezifischen physiologischen Mustern
+-Schauspieler zeigten jeweils für 10 Sek. einen zu den 6 Basisemotionen gehörenden mimischen Ausdruck bzw. einen nicht-emotionalen mimischen Ausdruck
+-Aufzeichnung der Pulsfrequenz und Hauttemperatur
+Ergebnisse:
+
+Interpretation
+-Ärger lässt sich aufgrund des physiologischen Musters von Furcht und Traurigkeit unterscheiden
+-Freude, Ekel und Überraschung lassen sich von Ärger, Furcht und Traurigkeit unterscheiden.
+
+Studie von Levenson (1991) zu emotionsspezifischen physiologischen Mustern
+2 emotionsinduzierende Aufgaben:
+	? mimischen Ausdruck der 6 Basisemotionen zeigen
+	? ein emotionsauslösendes Ereignis erinnern
+-Aufzeichnung der Herzrate und Fingertemperatur
+-2 Stichproben: junge und alte Probanden
+Ergebnisse:
+
+Mittlere Veränderung der Herzrate und der Fingertemperatur bei negativen Emotionen induziert durch mimischen Emotionsausdruck.
+
+Mittlere Veränderung der Herzrate und der Fingertemperatur bei negativen Emotionen induziert durch emotionale Erinnerungsaufgabe.
+Interpretation: 
+Die negativen Basisemotionen sind mit spezifischer Aktivität des autonomen Nervensystems verbunden.
+Ärger, Furcht, Traurigkeit und Ekel lassen sich anhand des Anstiegs der Herzrate unterscheiden. 
+Ärger > Ekel, Traurigkeit > Ekel, Furcht > Ekel
+Ärger und Furcht lassen sich anhand der Veränderung der Fingertemperatur unterscheiden. Abkühlung bei Furcht > Abkühlung bei Ärger
+Fazit zur Frage emotionsspezifischer Aktivität des autonomen Nervensystems
+-Voraussetzung für die Gültigkeit der James-Lange-Theorie wäre der Nachweis, differenzierbarer vegetativer und somatomuskulärer Begleiterscheinungen … Dies konnte in letzter Zeit zunehmend wahrscheinlich gemacht werden
+-Metaanalyse über 22 Studien von Cacioppo et al. (2000): Emotionen wie Freude, Traurigkeit, Furcht, Ärger und Ekel können „nicht vollständig allein durch autonome Aktivität differenziert werden“ (S.184)
+
+Metaanalyse zu physiologischen Korrelaten von Ärger und Angst von Stemmler
+
+
+5.3.2 Körperkarten der Emotionen
+-In 5 Experimenten wurden den VPN (n=701!) zwei Körpersilhouetten vorgelegt und dazu emotionale Wörter, Geschichten, Filme oder Gesichtsausdrücke gezeigt.
+-Die VPN mussten jene Körperregionen einfärben, in denen sie eine stärkere (rot) bzw. schwächere Aktivität (blau) verspürt haben.
+
+-Die Verknüpfung von Emotionen mit gesteigerter bzw. verminderter körperlicher Aktivität in bestimmten Körperbereichen folgt klaren Regelmässigkeiten.
+-Die 6 Basisemotionen (Wut, Furcht, Ekel, Freude, Trauer & Überraschung) sind mit distinkten körperlichen Empfindungen verbunden.
+-Komplexere Emotionen zeigten aber weit weniger deutliche Auswirkungen auf das körperliche Empfinden
+-Befund über mehrere Kulturen/Länder konsistent (Finnland, Schweden, Taiwan)
+5.4 Neo-jamesianische Ansätze: Die Facial-Feedback-Hypothese
+5.4.1 Neo-jamesianische Emotionstheorien
+-Etwa 1970 Wiederentdeckung der Emotionstheorie von William James.
+-Postulat: Empfinden von körperlichen Veränderungen ist ein wichtiger Bestandteil von Emotionen.
+-Allerdings nicht viszerale Veränderungen im Mittelpunkt, sondern Rückmeldungen des Ausdrucksverhaltens (Körperhaltung, Mimik, ...)
+-Facial-Feedback-Hypothese = Einfluss der eigenen Mimik auf Gefühl
+
+5.4.2 Facial-Feedback-Hypothese
+Methoden zur Manipulation der Mimik zur Überprüfung der Facial-Feedback-Hypothese
+1. Anweisung bestimmte Gesichtsmuskeln anzuspannen bzw. zu entspannen
+2. Nachstellen von emotionalen Gesichtsausdrücken auf Fotos
+3. Absichtliches Verstärken oder Unterdrücken des mimischen Ausdrucks beim Erleben einer Emotion
+4. “Zufälliges” Hemmen bzw. Aktivieren bestimmter Muskeln, die für Emotion relevant sind
+
+Abhängige Variablen bei der Überprüfung der Facial-Feedback-Hypothese
+-Selbstbericht der emotionalen Befindlichkeit
+-Einschätzung der affektiven Qualität bestimmter Stimuli
+-Erinnerungsleistung für verbales Material mit einer bestimmten affektiven Qualität
+-Physiologische Veränderungen
+Studie 1 zur Facial-Feedback-Hypothese (Strack et al., 1988)
+(Strack, 1988)
+UV: Stift mit Lippen, Zähnen oder nicht-dominanter Hand halten.
+AV: Einschätzung der Lustigkeit von Cartoons
+Ergebnisse: 
+
+Fazit: Die Manipulation der Gesichtsausdrücke, welche mit spezifischen Emotionen verbunden werden, beeinflusst das emotionale Erlebnis der Menschen.
+Bei einer direkten Replikation der Studie konnten keine Unterschiede gefunden werden.
+4 Fragen zur Facial-Feedback-Hypothese
+1. Können allein durch Veränderung der Mimik Gefühle ausgelöst werden?
+2. Kann die Intensität der Gefühle durch die Mimik verändert werden?
+3. Wie stark können Gefühle durch die Mimik beeinflusst werden?
+4. Können auch physiologische Emotionsindikatoren durch eine Manipulation der Mimik verändert werden.
+
+Power posing: Körperhaltung, subjektives Erleben und psychophysiologische Prozesse
+Der Einfluss von Körperhaltung auf subjektives Erleben konnte gefunden werde, allerdings wurde kein Einfluss auf psychophysiologische Prozesse gefunden werden.
+
+
+5.5 Die Zwei-Faktoren-Theorie der Emotion von Stanley Schachter
+Ausgangspunkt der Überlegungen von Schachter und Singer (1962)
+-Nahmen direkten Bezug auf William James
+-Feststellung: Es gibt bislang keine empirische Evidenz physiologischer Spezifität von Emotionen.
+-Physiologische Veränderungen gehören zu Emotionen, allerdings können sie auch unspezifisch erscheinen
+-Die Kognition bestimmt, ob die physiologische Erregung als Emotion empfunden wird
+Zentrale Annahmen der Emotionstheorie von Schachter und Singer (1962)
+-Emotionen resultieren aus einer Interaktion von zwei Faktoren: physiologische Erregung und situationsspezifische Kognitionen (Arousal & Cognition = Emotion)
+-Die Stärke der physiologischen Veränderung bestimmt die Intensität der Emotion, die Kognition die Qualität der Emotion
+Die Konzepte der Emotionstheorie von Schachter
+-Bei Emotionen werden vorwiegend Erlebensaspekt thematisiert
+-Physiologische Erregung ist emotionsunspezifische Erregungsmuster. Im Mittelpunkt steht die viszerale Erregung.
+-Emotionsrelevant ist die wahrgenommene Erregung, nicht die tatsächliche Erregung.
+-Kognition= Interpretation der Situation und Kausalattribution der eigenen physiologischen Erregung auf Situationsinterpretation
+Zwei Prozesse der Emotionsentstehung
+1. Ein Ereignis, das physiologische Erregung auslöst, kann direkt interpretiert werden oder es kann ein Auslöser genannt werden. Dies ist der Normalfall.
+a. Ereigniswahrnehmung
+b. Aktivierung von Wissen über Ereignis
+c. Einschätzung des Ereignisses
+d. physiologische Erregung
+e. Wahrnehmung der Erregung
+f. Attribution Erregung auf Einschätzung  
+g. Emotion
+
+2. Person hat für physiologische Erregung zunächst keine Erklärung. Dies ist der Sonderfall.
+a. Physiologische Erregung
+b. Wahrnehmung der Erregung
+c. Erklärungsbedürfnis
+d. Ursachensuche
+e. Einschätzung der Situation
+f. Attribution Erregung auf Einschätzung
+g. Emotion
+Hypothesen von Schachter und Singer
+-Unerklärte physiologische Erregung wird gemäss den situationalen Merkmalen interpretiert und mit einer entsprechenden Emotion etikettiert.
+-Bei “erklärter” physiologischer Erregung besteht kein Erklärungsbedürfnis und der emotionale Zustand wird nicht von weiteren Interpretationen der situationalen Merkmal beeinflusst.
+-Interpretation situativer Merkmale werden nicht zu einer Emotion führen, wenn die physiologische Erregung fehlt.
+Operationalisierungen
+Unabhängige Variablen
+* Physiologische Erregung: Injektion von Adrenalin vs. Kochsalzlösung
+* Erklärungsbedürfnis: Korrekte Information (über Nebenwirkungen aufgeklärt) vs. keine Information (Injektion harmlos und ohne Nebenwirkungen) vs. falsche Information (Falsche Nebenwirkungen genannt)
+* Situationsspezifische Kognitionen: Euphorischer Verbündeter des Versuchsleiters vs. ärgerlicher Verbündeter des Versuchsleiters
+Abhängige Variablen
+* Selbstauskunft zum momentanen Erleben
+* Emotionales Verhalten
+Ergebnisse
+
+
+Kritik an der Studie von Schachter und Singer
+-Experimentelle Manipulation der physiologischen Erregung möglicherweise nicht erfolgreich
+-Injizierte Adrenalindosis nicht am Körpergewicht der Probanden orientiert
+-Experimentelle Manipulation der Situation zu wenig kontrolliert
+-Skala zur Emotionserfassung mehrdeutig
+Methodische Verbesserungen der Replikationsstudie von Mezzacappa
+-Dosierung von Adrenalin nach Körpergewicht
+-Differenzierte und validere Messung der physiologischen Erregung
+-Kontrollierte Variation der Situationen: Darbietung von Filmszene, die Freude, Ärger und Furcht auslösen
+-Verbesserte Skalen für die Selbstbeurteilung des Gefühlserlebens der VPN
+-Präzisere Verhaltenskodierung durch Mimikcodierung
+Ablauf der Studie von Mezzacappa et al. (1999)
+Coverstory: Einfluss von Vitaminen auf die Gedächtnisleistung
+Injektion von Adrenalin oder Kochsalzlösung
+Falsche Information zu Nebenwirkung der Injektion
+Angebliche Wartezeit bis Injektion wirkt --> Filmclips
+Nach jedem Filmclip emotionale Befindlichkeit eingeschätzt
+
+
+5.6 Implikationen aus der Zwei-Faktoren-Theorie: Fehlattribution physiologischer Erregung
+5.6.1 Beeinflussung von Emotionen durch Fehlattribution
+
+
+
+5.6.2 Studie von Dutton & Aron (1974)
+Grundfrage: Fühlen sich Männer stärker zu einer attraktiven Frau hingezogen, wenn sie ihr in einem Zustand der Furcht statt in neutraler emotionaler Verfassung begegnen?
+
+Versuchsplan
+UV: Bauweise der Brücke, über die die männlichen VPN laufen mussten; Geschlecht des Versuchsleiters
+AV: Sexuelle Fantasien in frei auf ein TAT-Bild zu formulierende Geschichte; Kontaktaufnahme mit VersuchsleiterIn (wer nimmt einen Notizzettel mit Telefonnummer und meldet sich dann bei ihr/ihm)
+
+Ergebnisse
+
+
+Interpretation: Die Attraktivitätseinschätzungen einer Frau durch Männer fiel höher aus, wenn sie ihr in einem Zustand der Furcht begegneten.
+
+
+5.6.3 Studie von Ross, Rodin & Zimbardo
+Frage: Kann das Erleben von Furcht abgeschwächt werden, wenn man die durch Furcht ausgelöste physiologische Erregung auf eine nichtemotionale Ursache zurückführt?
+Versuchsplan:
+UV: Emotionale vs. Nichtemotionale Erklärung für physiologische Erregung
+AV: Erlebte Furcht= Dauer der Beschäftigung mit einer Aufgabe, bei deren Lösung man elektrischen Schlag vermeiden kann
+
+
+Interpretation: Das Erleben von Furcht wird durch die Attribution physiologischer Erregung auf eine nichtemotionale Ursache reduziert.
+
+5.6.4 Studie von Olson
+Grundfrage: Kann das Erleben von Sprechangst reduziert werden, wenn man die physiologische Erregung auf eine nicht-emotionale Ursache zurückführt?
+Versuchsplan
+UV: Information «subliminaler Lärm führt zu unangenehmer Erregung» vs. «subliminaler Lärm hat keine Auswirkung»
+AV: Subjektive Sprechangst; Sprechfehler; subjektiv berichtete physiologische Erregung; subjektive Auswirkung des Lärms
+Cover-Story: Physiologische Effekte von «subliminalem» Lärm auf kognitive Leistung; Information zu Nebeneffekten von Lärm: Unangenehme Erregung wie bei Angst vs. Keine Nebeneffekte
+Aufgabe: VPN sollen vor laufender Kamera eine Rede halten.
+
+
+Interpretation: Typischerweise durch Sprechangst bedingte Sprechfehler (Stottern, Ähs, Versprecher) wurden durch die Attribution physiologischer Erregung auf eine nichtemotionale Ursache (Lärm) reduziert. Es gab keinen Effekt auf die subjektiv erlebte Sprechangst (Erklärung: Items evtl. nicht geeignet zur Erfassung von Sprechangst).
+
+
+
+
+6. Die klassische kognitive Perspektive und ihre Weiterentwicklung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Die neurowissenschaftliche Perspektive
+Affective neuroscience: Studying the neural bases and correlates of emotions and related affective phenomena.
+
+Die zwei Hauptziele
+1. Welche Gehirnregionen sind bei den spezifischen Emotionen aktiv?
+a. 2 Ebenen: Psychologische & Neurologische Ebene
+2. Wie nimmt das Gehirn Einfluss auf Emotionen?
+
+
+7.1 A quick primer on brain anatomy: the limbic system
+7.1.1 Human neocortex: 4 Lappen
+Der menschliche Neocortex kann in 4 Hauptteile unterteilt werden:
+1. Parietallappen
+2. Frontallappen
+3. Temporallappen
+4. Occipetalkortex
+
+
+
+Der Hirnstamm ist evolutionär das älteste Gehirnteil, der Neocortex das jüngste.
+
+7.1.2 Das limbische System
+
+Cingulär-Kortex: Verbindung zwischen rechter und linker Gehirnhälfte
+Orbitofrontal Kortex: Direkt hinter den Augen.
+
+
+
+Nucleus accumbens: Sehr wichtig für gewisse Arten der Emotionen
+Amygdala: Zentrale Struktur des lymbischen Systems
+Hippocampus: Liegt hinter der Amygdala. Er ist das Netzwerk, dass verschiedene Gehirnregionen miteinander verbindet.
+Fornix: Faserverbindung, die Hippocampus mit Hypothalamus verbindet.
+Hypothalamus: 
+Mammillarkörper: 
+
+7.1.3 Papez Kreislauf
+
+Verbindung des Hippocampus mit den anderen Gehirnregionen.
+
+
+Schematische Darstellung des Papez-Kreislaufs. Hypothalamus ist hauptsächlich für die Emotionsregulation zuständig. Der Papez-Kreis steuert generell Emotionen.
+
+
+7.2 Classical cases in affective neuroscience: animal and clinical studies
+7.2.1 Vier Gehirnregionen & vier Emotionen
+
+
+
+Soziopathie: Orbitofrontal cortex (OFC)
+Eine Schädigung in diesem Gehirnbereich führt zu aggressivem, sozial unverträglichem Verhalten.
+
+
+Aggression: Stimulation des Hypothalamus
+Walter Hess: Manuelle Stimulation des Hypothalamus bei Katzen. Sobald diese Stimulation aktiv war, wurden die Katzen aggressiv.
+Die Aggressivität unterschied sich aber je nach Bereich des Hypothalamus, der stimuliert wurde.
+Medialer Teil:  Sie zeigen nur aggressives Verhalten, sind aber nicht tatsächlich aggressiv in Form von Angriffen. (Affektive Aggression)
+Lateraler Teil: Sie zeigt kein aggressives Verhalten, greift aber sofort an. (Beuteaggression)
+
+John Flynn (1967): Replikation der Studien von Walter Hess.
+
+Wohlbefinden: Nucleus accumbens
+Ratten wurden bei einem Druck eines Hebels mit einer Stimulation des Nucleus accumbens und Dopaminausschüttung «belohnt». Die Ratten wurden so süchtig danach, dass sie sogar bereit waren, über ein elektrisch geladenes Gitter zu laufen, nur um den Hebel zu drücken.
+
+Zwei Arten des Wohlbefindens
+Wanting (Erwartend, Dopaminausschüttung) & Liking (Konsumierend, Serotonin und Opioide werden ausgeschüttet.
+Angst: Amygdala-Läsionen und das Klüver-Bucy-Syndrom
+Klüver & Bucy: Untersuchungen mit Affen.
+Wenn die Amygdala herausgeschnitten wurde, hatten die Affen kein Angstgefühl mehr. Zudem werden sie emotional flach, also ihr generelles Emotionsempfinden wird reduziert. Ein weiterer Effekt ist Hypersexualität. Dadurch wird sich nicht mehr nur mit der eigenen Art fortgepflanzt, sondern auch mit anderen.
+
+
+
+7.3 Neural systems for emotions: neural biomarkers of emotions
+
+
+
+
+
+7.4 The role of the amygdala in emotional processing
+
+
+
+
+
+
+
+8. Emotionsregulation
+8.1 Die Bewältigung emotionaler Belastungen
+8.1.1 James Pennebaker’s Ansatz zur emotionalen Selbstoffenbarung
+James Pannebaker: Untersuchte natürliche Sprachen, Gruppendynamiken und Persönlichkeiten in unterschiedlichen Situationen. Er fand heraus, dass die physische Gesundheit und die Arbeitsleistung durch einfache emotionsexpressive Schreib- und Sprechübungen verbessert werden kann. Er untersuchte zudem, wie traumatische Ereignisse, Offenbarung von sich selbst und die Gesundheit zusammenhängen. Er kam zum Schluss, dass medizinische Kosten, Menge an Zeit bei Physiotherapeuten und biologische Stressmarker durch einfache Schreibübungen reduziert werden konnte.
+Schlüsse:
+* Belastende Lebensereignisse erhöhen das Risiko körperlicher und psychischer Störungen
+* Über belastende, emotionale Ereignisse zu sprechen oder zu schreiben reduziert das Gesundheitsrisiko
+* Die Effekte auf den Gesundheitszustand werden über physiologische, kognitive und soziale Prozesse vermittelt.
+
+8.1.2 Grundstruktur von Pennebaker’s Studien
+VPN schreiben oder sprechen an mehreren aufeinander folgenden Tagen über aktuelle bzw. vergangene emotional belastende Lebensereignisse oder neutrale Alltagshandlungen. Als abhängige Variablen werden Bewältigungshandlungen, physiologische Masse, Immunfunktion und Indikatoren des Gesundheitszustands erfasst.
+
+Studie zur emotionalen Selbstoffenbarung und Bewältigung des Arbeitsplatzverlustes (Spera et al., 1994)
+Stichprobe: 63 seit 5 Monaten arbeitslose Ingenieure.
+UV: Schreiben über emotionale Aspekte Arbeitsplatzverlust vs. Schreiben über Aktivitäten zur Jobsuche vs. Nicht-Schreiben.
+AV: Physiologische Parameter, Gesundheitsindikatoren, Finden eines neuen Arbeitsplatzes.
+-->Personen, die über die emotionalen Aspekte schrieben fanden wahrscheinlicher einen Job wie solche die nur über die Aktivitäten der Job-Suche schrieben oder gar nichts schrieben.
+
+Studie zur emotionalen Selbstoffenbarung und Gesundheit bei Hinterbliebenen eines Todesfalls (Pennebaker, 1989)
+Korrelative Fragebogenstudie mit 19 Personen, deren Partner/in verstorben war. Erfasst wurden die Häufigkeit des Sprechens über den Todesfall und Gesundheitsindikatoren.
+-->Je häufiger Personen über den Todesfall gesprochen haben, desto weniger Gesundheitsprobleme hatten sie im Jahr nach dem Todesfall und desto weniger grübelten sie über den Todesfall.
+
+
+Studie zu Unterdrückung von Gefühlen und physiologische Aktivierung (Gross & Levenson, 1997)
+UV1: Lustiger Film, trauriger Film, neutraler Film
+UV2: Emotionsausdruck unterdrücken: nein vs. ja
+AV: Verschiedene physiologische Masse
+-->Durch Emotionsunterdrückung verändert sich die Emotionsempfindung nicht, die kardiovaskuläre Erregung hingegen verstärkt sich stark, wenn der Film emotional war. Emotionsunterdrückung ist eine Emotionsstrategie mit Kosten.
+
+8.1.3 Was bewirkt das Sprechen über emotionale Ergebnisse?
+Da dem Impuls, sich über Erlebnisse zu äussern, nachgegeben wird, reduziert sich Stress. Die kognitive Verarbeitung des emotionalen Ereignisses ermöglicht es einem, eine neue Sichtweise einzunehmen & «Sinn zu finden».
+
+
+8.2 Die Klassifikation von Emotionsregulationsstrategien von Parkinson & Totterdell
+Definitionen Emotionsregulation
+1. Affect regulation … includes any process directed at modifying or maintaining moods or emotions whose operation depends on monitoring of affective information. Parkinson & Totterdell
+2. Emotion regulation refers to the processes by which we influence which emotions we have, when we have them, and how we experience and express them. Gross
+
+8.2.1 Klassifikation von Emotionsregulationsstrategien
+* Deskriptive Ansätze zur Systematisierung von Emotionsregulationsstrategien
+* Grundsätzliche Unterscheidungen:
+o Automatische vs. kontrollierte Regulation
+o Regulation positiver und negativer affektiver Zustände
+o Verstärkung vs. Abschwächung affektiver Zustände
+* Fokus der Forschung auf bewusste Herabregulation negativer affektiver Zustände
+
+8.2.2 Die Klassifikation von Emotionsregulationsstrategien von Parkinson & Totterdell (1999)
+Datenbasis: Fragebögen, Interviews, Gruppendiskussionen, Literaturrecherche
+162 verschiedene bewusst eingesetzte Strategien zur Regulation negativer affektiver Zustände.
+Parkinson & Totterdell benutzen ein zweidimensionales Klassifikationssystem:
+* Kognitive vs. verhaltensbezogene Strategien («Art der Strategie»)
+* Strategien der Vermeidung vs. des Engagements («Richtung»)
+Fazit: „Our hope for this provisional classification system is that it will facilitate principled comparison between different kinds of affect regulation in future studies. One of its main advantages is that it specifies categories that reflect people‘s spontaneous understandings of affect regulation“ 
+8.3 Das Prozessmodell der Emotionsregulation von James Gross (2002)
+Ausgangspunkt von Gross
+“Da Emotionen aus mehreren Komponenten bestehen, die sich mit der Zeit entfalten, besteht die Emotionsregulation darin, die Dynamiken der Emotionen zu verändern. Dies beinhaltet Latency (Wie lange dauert es zwischen Ereignis und Emotionsentstehung), die Geschwindigkeit der Entstehung und die Dauer der Emotion und führt zu Veränderungen von Verhalten, Empfinden und physiologischen Domänen.”
+
+8.3.1 Dimensionen im Prozessmodell von Gross
+* Zeitpunkt, an dem Emotionsregulation ansetzt
+o Fokus auf Antezedenzien
+o Fokus auf Reaktionen
+* Weitere Unterkategorien
+o Situationsauswahl
+o Situationsmodifikation
+o Aufmerksamkeitslenkung
+o Kognitive Veränderung
+o Reaktionsveränderung
+
+8.3.2 Das Prozessmodell der Emotionsregulation
+
+
+8.3.3 Beschreibung der Emotionsregulationsstrategien
+* Situationsauswahl: Aufsuchen/ Vermeiden bestimmter Situationen
+* Situationsmodifikation: Aktive Veränderung der Situation (-->problem-focused coping)
+* Aufmerksamkeitslenkung: Ablenkung, Konzentration, Grübeln
+* Kognitive Veränderung: Veränderung der Situationseinschätzung (-->reappraisal)
+* Reaktionsveränderung: Direkte Beeinflussung physiologischer, erlebnis- und verhaltensbezogener Reaktionen (z.B. Progressive Muskelrelaxation, Alkohol, Drogen, Unterdrückung des Emotionsausdrück)
+
+8.3.4 Grundlegende Frage der Forschung zu ausgewählten Emotionsstrategien
+Gibt es bessere und schlechtere Strategien der Emotionsregulation?
+Die Güte der Emotionsregulationsstrategien wird anhand von drei Kriterien evaluiert:
+* Affektive Konsequenzen
+* Kognitive Konsequenzen
+* Soziale Konsequenzen
+
+Auswahlkriterien für die untersuchten Regulationsstrategien
+* Verwendung im Alltag
+* Möglichkeit der experimentellen Variation im Labor
+* Je ein Beispiel einer antecedent-focused und einer response-focused Regulationsstrategie
+o kognitive Umbewertung
+o Unterdrückung des Emotionsausdrucks
+Kognitive Umbewertung (cognitive reappraisal): Veränderung der subjektiven Bedeutung der Situation.
+Unterdrückung des Emotionsausdrucks (expressive suppression): Unterdrückung des emotionalen Ausdrucksverhaltens.
+
+8.3.5 Vergleich von kognitiver Umbewertung und Unterdrückung von Emotionen bei negativen Emotionen
+Affektive Konsequenzen
+Hypothesen:
+* Reappraisal: Abschwächung des Emotionserlebens und der verhaltensbezogenen und physiologischen Reaktionen
+* Suppression: keine Veränderung des Emotionserlebens, Verstärkung physiologischer Reaktionen
+Studie
+UV: Fokus auf technische Details (reappraise), keine Gefühlsäusserung zeigen (suppress), keine zusätzliche Instruktion (Kontrollgruppe)
+AV: physiologische Indikatoren, Emotionserleben
+
+
+Veränderung des Erlebens von Ekel.
+
+Kognitive Konsequenzen
+Hypothesen:
+* Reappraisal: braucht keine kontinuierliche anstrengende Selbstregulation -->kognitive Ressourcen nicht beansprucht -->Gedächtnisleistung intakt
+* Suppression: braucht kontinuierliche anstrengende Selbstregulation -->kognitive Ressourcen beansprucht -->Gedächtnisleistung eingeschränkt
+Studie
+VPN sehen Farbfotos von schwer verletzten Personen und erhalten verbale Informationen zu den Personen (Name, Beruf, Art des Unfalls, ...)
+UV: Instruktion zum Betrachten der Fotos
+* Fokus auf sachliche Details (reappraise)
+* Keine Gefühlsäusserung zeigen (suppress)
+* Keine zusätzliche Instruktion (Kontrollgruppe)
+AV: Emotionserleben, Erinnerungsleistung für Information
+
+
+
+Soziale Konsequenzen
+Hypothesen
+* Reappraisal: reduziert negative Emotionen, braucht keine kognitive Kapazität, soziale Responsivität intakt -->positive Wirkung auf soziale Interaktion
+* Suppression: kommunikative Funktion der Mimik fehlt, braucht kognitive Kapazität, mangelnde soziale Responsivität, negative Wirkung auf soziale Interaktion
+Studie
+VPN sehen belastenden Film und sollen diesen danach mit einer unbekannten Person diskutieren.
+UV: Instruktion bei der Diskussion
+* Fokus auf sachlichen Details (reappraise)
+* Keine Gefühlsäusserung zeigen (suppress)
+* Natürliche Interaktion (Kontrollgruppe)
+AV: physiologische Masse beim Interaktionspartner
+
+
+
+9. Kognitive und behaviorale Korrelate von Emotionen in verschiedenen Kontexten
+9.1 Einfluss auf das Gedächtnis
+9.1.1 Inzidentelles Textlernen
+Inzidentell= Zufällig, beiläufig
+
+Studie von Bower et al.
+VPN werden in positive oder negative Stimmung versetzt. Danach lesen sie eine Geschichte über das Treffen zweier Männer, von denen einer glücklich und einer traurig ist.
+Fragen: Wer ist die Hauptperson? Mit wem identifizieren sie sich?
+Einen Tag später Erinnerungstest für Text in neutraler Stimmung
+Resultate: Positiv gestimmte VPN identifizieren sich mit glücklichem Mann und gaben an, dass der Text mehr Information zu glücklichem Mann enthielt, negativ gestimmte Personen identifizierten sich mit dem traurigen Mann und gaben an, dass der Text mehr Informationen über den traurigen Mann enthielt.
+
+
+
+
+9.1.2 biographische Erinnerungen
+
+
+
+
+
+9.2 Urteilsbildung
+
+
+
+
+9.2.1 Beurteilung von Objekten
+
+
+
+
+9.2.2 Risikowahrnehmung
+
+
+
+
+9.2.3 Personenwahrnehmung
+
+
+
+
+9.3 Einstellungsänderung
+
+
+
+
+
+9.4 Stereotypisierung
+
+
+
+
+
+
+
+
+
+
+
+Zusammenfassung Emotionspsychologie	HS18
+
+2
+
+
