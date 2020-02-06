@@ -171,76 +171,96 @@ INHEND
 
 
 
-çEinführung
-ççççWas ist Entwicklungspsychologie?
-Die Entwicklungspsychologie beschäftigt sich mit allen Bereichen der Psychologie, betrachtet aber die Unterschiede in verschiedenen Lebensabschnitten und den damit einhergehenden Veränderungen (Entwicklungen).
-Die Entwicklungspsychologie grenzt sich aber sowohl von der Lernpsychologie, welche Veränderungen im Sekunden- bis Stundenbereich betrachtet, als auch den anderen Bereichen der Psychologie, welche den erwachsenen Menschen in einem fertigen Endzustand ansehen, ab. Sie wird auf das gesamte Leben eines Menschen ausgeweitet und nicht nur auf die Kindheit und beschäftigt sich sowohl mit normaler Entwicklung als auch der von Sondergruppen (ADHS, Autismus, Hochbegabung, …).
+ç1Einführung
+ç2Was ist Entwicklungspsychologie?
+* Umfasst alle Bereiche der Psychologie
+* Betrachtet aber Unterschiede in verschiedenen Lebensabschnitten und den damit einhergehenden Veränderungen
+* Umfasst das ganze Leben
+* Sowohl normale Entwicklung als auch Sondergruppen
+* Abgrenzungen: 
+	- Lernpsychologie: Unterschiede im Sekunden- bis Stundenbereich
+	- Andere Bereiche: Mensch in fertigem Endzustand
 
-ççççGrundziele der Entwicklungspsychologie
+ç2Grundziele der Entwicklungspsychologie
 * Beschreiben des Entwicklungsverlaufes und Finden von Gesetzmässigkeiten
 * Beschreibung der Ursachen für Entwicklung oder nicht-Entwicklung von Eigenschaften
 * Erklärung der Zusammenhänge und Überführung in ein grosses theoretisches System
 * Anwendung: Störungen in Entwicklung erkennen, um diese danach vorbeugen zu können.
 
-ççççStufen der Entwicklung
-<0: Pränatal
-0-2 Jahre: Säuglings- und Krabbelalter
-2-6 Jahre: Frühe Kindheit
-6-11 Jahre: Mittlere Kindheit
-11-21 Jahre: Adoleszenz
-21-40 Jahre: Frühes Erwachsenenalter
-40-65 Jahre: Mittleres Erwachsenenalter
-65 Jahre-Tod: Hohes Erwachsenenalter
+ç2Stufen der Entwicklung
+* <0: Pränatal
+* 0-2 Jahre: Säuglings- und Krabbelalter
+* 2-6 Jahre: Frühe Kindheit
+* 6-11 Jahre: Mittlere Kindheit
+* 11-21 Jahre: Adoleszenz
+* 21-40 Jahre: Frühes Erwachsenenalter
+* 40-65 Jahre: Mittleres Erwachsenenalter
+* 65 Jahre-Tod: Hohes Erwachsenenalter
 
-ççççWarum ist die Kindheit so spannend in der Entwicklung?
-Die Entwicklung in der Kindheit ist sehr schnell und es entwickelt sich sehr viel auf einmal. Die Entwicklung im Kindesalter hat zudem starke Einflüsse auf das spätere Erwachsenenlebens.
+ç2Warum ist die Kindheit so spannend in der Entwicklung?
+* Sehr schnell & sehr viel
+* Starke Einflüsse auf Verhalten als Erwachsener
 
-ççççDiskontinuität von Entwicklung
-Entwicklung hat grundsätzlich keine Stufenform, sondern die Entwicklung findet durchgehend statt. Sie hat aber schnellere und langsamere Phasen, wodurch etwas stufenartiges entstehen kann.
-ççEntwicklungsmodelle
-çççTraditionell
+ç2Diskontinuität von Entwicklung
+* Keine Stufenform, durchgehende Entwicklung
+* Schnellere und langsamere Phasen, wodurch sich Stufen entstehen können
 
+ç2Entwicklungsmodelle
+ç3Traditionell
+ç4Traditionelle Definition der Entwicklung
+* Entwicklung beginnt bei der Geburt
+* Der Mensch entwickelt sich zu einem immer höheren Wesen
+* Er verbessert sich in allen Aspekten bis er am Zenitpunkt angelangt
+* Danach entwickelt er sich ins Negative, insbesondere körperlich, bis er stirbt
+* Es sind keine Rückschritte (Rückentwicklung) möglich
+* Die Veränderungen sind vom Alter anhängig aber nicht kulturgebunden.
 
-ççççDefinition
-Die Entwicklung nach der traditionellen Definition beginnt bei der Geburt und der Mensch entwickelt sich zu einem immer höheren Wesen. Er verbessert sich in allen Aspekten bis er am Zenitpunkt angelangt. Danach entwickelt er sich ins Negative, insbesondere körperlich, bis er stirbt.
-Es sind keine Rückschritte (Rückentwicklung) möglich. Die Veränderungen sind vom Alter anhängig aber nicht kulturgebunden.
-
-ççççKritik
-Der Endpunkt der Entwicklung ist nicht zwingend ein universeller Reife-/ Endzustand, der in allen Bereichen zum gleichen Zeitpunkt erreicht wird. Veränderungen sind im ganzen Leben möglich und Entwicklung ist durchaus reversibel. Viele Entwicklungen sind auch nicht eindeutig als Verbesserung oder Verschlechterung klassifizierbar (Entwicklung von persönlichen Werten, Interessen, Persönlichkeitsmerkmalen, …). Veränderungen sind zudem nicht immer zu etwas Höherwertigem. Entwicklung ist eine Kombination von Gewinnen und Verlusten während der gesamten Entwicklungszeit, während welcher unterschiedliche Bedingungen zu Unterschieden führen können. Zudem ist Entwicklung nicht in jeder Kultur gleich und ist oft unabhängig vom Lebensalter (Bsp.: Weisheit, soziales Verhalten, Expertise, kritische Lebensereignisse, …). Entwicklung ist in vielen Bereichen auch quantitativ und nicht nur qualitativ.
-
-
-çççModern
-Eine moderne Entwicklungspsychologie beschäftigt sich sowohl mit intraindividuellen als auch interindividuellen Veränderungen von Wesen. Entwicklung wird angesehen als lebenslanges Phänomen, das dynamisch in Gewinnen und Verlusten ist und das durch Plastizität gezeichnet ist.
-Zudem sind die Entwicklungen geschichtlich eingebettet zu betrachtet (sowohl historisch als auch kulturell).
-
-
-ççStreitfragen
-
-çççAnlage vs. Umwelt
-Diese Frage ist generell betrachtet unsinnig, da man die Frage nicht komplett beantworten kann. Gewisse Faktoren (z.B. Augenfarbe) werden komplett durch die Gene bestimmt, während andere komplett durch die Umwelt bestimmt werden (z.B. Sprache).
-
-Einfluss der Umwelt auf die Gene und Wechselwirkung zwischen den beiden Faktoren.
-
-
-Einfluss der Gene und der Umwelt, sowie des Phänotyps des Kindes.
-
-Phänotyp: Menge aller Merkmale eines Organismus.
-
-ççççFormen der Wechselwirkung
-Passiv: Eltern bieten für die Gene bereits eine entsprechende Umwelt, das Kind entwickelt sich also ohne viel eigenes Zutun.
-Aktiv: Das Kind führt eine Nischenwahl (Niche-Picking) durch, sucht sich also selbst eine Umwelt aus, in der es sich wohl fühlt und die den eigenen Fähigkeiten entspricht.
+ç4Kritik and der traditionellen Definition der Entwicklung
+* Endpunkt der Entwicklung nicht zwingend ein universeller Reife-/ Endzustand
+* Zenit wird nicht in allen Bereichen zum gleichen Zeitpunkt erreicht
+* Veränderungen sind im ganzen Leben möglich
+* Entwicklung ist durchaus reversibel
+* Viele Entwicklungen sind auch nicht eindeutig als Verbesserung oder Verschlechterung klassifizierbar
+* Veränderungen sind nicht immer zu etwas Höherwertigem
+* Entwicklung ist eine Kombination von Gewinnen und Verlusten
+* Entwicklung nicht in jeder Kultur gleich
+* oft unabhängig vom Lebensalter (Bsp.: Weisheit, soziales Verhalten, Expertise, kritische Lebensereignisse, …)
+* Entwicklung ist in vielen Bereichen auch quantitativ und nicht nur qualitativ.
 
 
-çççNomothetisch vs. Idiographisch
-Nomothetisch: Suche nach allgemeingültigen Gesetzen.
-Idiographisch: Suche nach Gesetzen, welche von Zeit und Raum eingegrenzt sind, daher nicht allgemeingültig sind.
+ç3Moderne Definition der Entwicklung
+* beschäftigt sich sowohl mit intraindividuellen als auch interindividuellen Veränderungen
+* Entwicklung wird angesehen als lebenslanges Phänomen
+* dynamisch in Gewinnen und Verlusten
+* durch Plastizität gezeichnet
+* Entwicklungen geschichtlich eingebettet zu betrachten (sowohl historisch als auch kulturell).
+
+
+ç2Streitfragen
+ç3Streitfragen: Anlage vs. Umwelt
+* Frage generell betrachtet unsinnig, da man die Frage nicht komplett beantworten kann
+* Gewisse Faktoren (z.B. Augenfarbe) komplett durch die Gene bestimmt
+* andere komplett durch die Umwelt bestimmt (z.B. Sprache).
+
+
+ç4Phänotyp
+* Menge aller Merkmale eines Organismus.
+
+ç4Formen der Gen/Umwelt-Wechselwirkung
+* Passiv: Eltern bieten für die Gene bereits eine entsprechende Umwelt, das Kind entwickelt sich also ohne viel eigenes Zutun.
+* Aktiv: Das Kind führt eine Nischenwahl (Niche-Picking) durch, sucht sich also selbst eine Umwelt aus, in der es sich wohl fühlt und die den eigenen Fähigkeiten entspricht.
+
+
+ç3Streitfragen: Nomothetisch vs. Idiographisch
+* Nomothetisch: Suche nach allgemeingültigen Gesetzen.
+* Idiographisch: Suche nach Gesetzen, welche von Zeit und Raum eingegrenzt sind, daher nicht allgemeingültig sind.
 
 
 
-çççAllgemein vs. Spezifisch
-Es gibt sowohl kulturübergreifende als auch kulturspezifische Merkmale.
+ç3Streitfragen: Allgemein vs. Spezifisch
+* Es gibt sowohl kulturübergreifende als auch kulturspezifische Merkmale.
 
-ççççDimensionen, in denen sich die Personen von verschiedenen Kulturen unterscheiden
+ç4Dimensionen, in denen sich die Personen von verschiedenen Kulturen unterscheiden
 1. Assertiveness: Wie durchsetzungsfähig wird innerhalb einer Gruppe gehandelt
 2. Future Orientation: Wie zukunftsorientiert ist die Person, wie gut plant sie voraus
 3. Gender Egalitarianism: Geschlechtliche Rollenverteilung innerhalb einer Kultur
@@ -251,106 +271,122 @@ Es gibt sowohl kulturübergreifende als auch kulturspezifische Merkmale.
 8. Power Distance: Akzeptanz von ungleicher Machtverteilung in der Gesellschaft
 9. Uncertainty Avoidance: Vermeidung von unsicheren Situationen durch Normen und Regeln
 
-ççVeränderung
-
-çççPhylogenese/ Ontogenese
-Die Phylogenese ist die Entwicklung einer Spezies von Lebewesen im Sinne der biologischen Evolution.
-Die Ontogenese ist die Entstehung der einzelnen Entität. Sie ist die Entwicklung vom Embryo zum ausgewachsenen Lebewesen inklusive der altersbedingten Abbauprozesse.
+ç2Veränderung
+ç3Phylogenese/ Ontogenese
+*Die Phylogenese ist die Entwicklung einer Spezies von Lebewesen im Sinne der biologischen Evolution.
+*Die Ontogenese ist die Entstehung der einzelnen Entität. Sie ist die Entwicklung vom Embryo zum ausgewachsenen Lebewesen inklusive der altersbedingten Abbauprozesse.
 
 Die Entwicklungspsychologie beschäftigt sich mehrheitlich mit der Ontogenese.
 
-çççFormen des Wandels
+ç3Formen des Wandels
 * Addition: Quantitativer, nicht qualitativer Wandel
 * Substitution: Strategiewechsel zur Lösung eines Problems
 * Modification
-o Differentiation: Von der groben Kategorie (Bsp.: Wauwau als alle Tiere) zu Unterscheidungen innerhalb der Kategorie (Muhmuh + Wauwau)
-o Generalization: Vom Individuum (der eigene Hund als Wauwau) zu allen Entitäten der gleichen Kategorie (Alle Hunde sind Wauwau)
-o Stabilization: Verfestigung von Verhaltensweisen (Bsp.: Von wackelnden Schritten zu festen Schritten (Elin)).
+	- Differentiation: Von der groben Kategorie (Bsp.: Wauwau als alle Tiere) zu Unterscheidungen innerhalb der Kategorie (Muhmuh + Wauwau)
+	- Generalization: Vom Individuum (der eigene Hund als Wauwau) zu allen Entitäten der gleichen Kategorie (Alle Hunde sind Wauwau)
+	- Stabilization: Verfestigung von Verhaltensweisen (Bsp.: Von wackelnden Schritten zu festen Schritten (Elin)).
 * Inclusion: Von isolierten und einzelnen zu koordinierten Handlungsabläufen (Bsp.: Auf Hände stützen und Knie heben alleine, danach zusammen zum Krabbeln.)
 * Mediation: Empathie führt zu Verständnis für andere Personen und deren Handeln
 
 
 
 
-çGeschichte, Methoden
+ç1Geschichte, Methoden
+ç2Geschichte
+ç3Philosophien der Kindheit
+ç4Platon vs. Aristoteles
+* Platon: Kinder kommen mit angeborenem Wissen auf die Welt und die Erziehung ist wichtig, um dieses Wissen in die richtigen Bahnen zu lenken.
+* Aristoteles: Alles Wissen kommt aus der Erfahrung, Kinder sind bei der Geburt also unbeschriebene Schiefertafeln (Tabula Rasa). Die Erziehung sollte also an die Bedürfnisse der Kinder angepasst werden.
+* Beide waren sich einig, dass das Wohlergehen der Gesellschaft auf lange Sicht davon abhängt, dass die Kinder anständig aufgezogen werden. Sie unterschieden sich aber in ihren Ansichten darüber, was die richtige Erziehung ist.
 
 
-ççGeschichte
+ç4Mittelalter
+*15. Jahrhundert:
+	- Präformationstheorie
+	- Kinder als kleine, fertig geformte Erwachsene betrachtet
+	- Dennoch gab es Gesetze zum Schutz vor Misshandlung und medizinische Anweisungen, wie Kinder zu versorgen waren. 
+	- Allerdings gab es keine Philosophie, welche die Kindheit als einzigartige Entwicklungsphase ansah.
 
-çççPhilosophien der Kindheit
-ççççPlaton vs. Aristoteles
-Platon: Kinder kommen mit angeborenem Wissen auf die Welt und die Erziehung ist wichtig, um dieses Wissen in die richtigen Bahnen zu lenken.
-Aristoteles: Alles Wissen kommt aus der Erfahrung, Kinder sind bei der Geburt also unbeschriebene Schiefertafeln (Tabula Rasa). Die Erziehung sollte also an die Bedürfnisse der Kinder angepasst werden.
+*16. Jahrhundert
+	- Glauben an die Erbsünde
+	- Bild des Kindes, welches moralisch verdorben war
+	- Restriktive Erziehungsmassnahmen wurden als bestes Mittel, um die Kinder zu zähmen, angesehen.
 
-Beide waren sich einig, dass das Wohlergehen der Gesellschaft auf lange Sicht davon abhängt, dass die Kinder anständig aufgezogen werden. Sie unterschieden sich aber in ihren Ansichten darüber, was die richtige Erziehung ist.
+ç4John Locke (1632-1704)
+* griff die Ideen von Aristoteles auf
+* Kinder als unbeschriebenes Blatt, welches nun beschrieben werden sollte
+* Der Erziehung wurde eine sehr wichtige Rolle zugeschrieben
+* Geist des Kindes konnte nur durch Erfahrung beschrieben werden
+* John Locke war einer der Vordenker des Behaviorismus
 
-
-ççççMittelalter
-15. Jahrhundert: Während dieser Zeit hatte die Präformationstheorie die Vorherrschaft. Nach ihr wurden Kinder als kleine, fertig geformte Erwachsene betrachtet. Dennoch gab es Gesetze zum Schutz vor Misshandlung und medizinische Anweisungen, wie Kinder zu versorgen waren. Allerdings gab es keine Philosophie, welche die Kindheit als einzigartige Entwicklungsphase ansah.
-
-16. Jahrhundert: Aus dem Glauben an die Erbsünde entstand ein neues Bild des Kindes, welches moralisch verdorben war. Restriktive Erziehungsmassnahmen wurden als bestes Mittel um die Kinder zu zähmen angesehen.
-
-ççççJohn Locke (1632-1704)
-John Locke griff die Ideen von Aristoteles auf und sah die Kinder ebenso als unbeschriebenes Blatt, welches nun beschrieben werden sollte. Der Erziehung wurde eine sehr wichtige Rolle zugeschrieben, da andere dieses unbeschriebene Blatt beschreiben mussten. Der bei Geburt leere Geist des Kindes konnte nur durch Erfahrung beschrieben werden. John Locke war einer der Vordenker des Behaviorismus.
-
-ççççJean-Jacques Rousseau (1712-1778)
-Rousseau griff die Ideen von Platon auf. Er sah Kinder als ungezähmte wilde Wesen. Nach ihm ist die Kindheit das Alter, in der man dem Naturzustand des Menschen am nächsten ist. Der natürliche Entwicklungsdrang des Kindes stand im Vordergrund, weshalb Entwicklung als negativer Einfluss angesehen wurde. Dem Kind sollten möglichst viele Freiheiten gegeben werden.
-
-
-çççAnfänge der Entwicklungspsychologie als empirische Wissenschaft
-çççç19. Jahrhundert: Industrielle Revolution
-Während der industriellen Revolution wurden viele billige Arbeitskräfte benötigt, weshalb die meisten Kinder bereits ab 5 Jahren in Fabriken arbeiten gehen mussten, meist unter sehr gefährlichen Bedingungen. Während dieser Zeit kam dann die Befürchtung auf, dass dies negative Auswirkungen auf die Entwicklung der Kinder haben könnte. So begann man die ersten systematischen Untersuchungen der Auswirkungen der Lebensbedingungen auf die Entwicklung. Nach diesen Untersuchungen wurden Gesetze eingeführt, welche die Arbeit unter 10 Jahren verbot.
-
-ççççCharles Darwin (1809-1882)
-Charles Darwin übernahm erneut die Denkweise von Platon. Er betrachtete Kinder im Angesicht der Evolution, besagte also, dass vieles im Voraus von den Genen bestimmt wurde. Der Mensch sucht sich dann einfach eine Nische, welche seinen Fähigkeiten entspricht. Da Darwin sehr viele Parallelen zwischen Entwicklung und Evolution sah, wurde er dazu angeregt, die Entwicklung systematisch zu untersuchen. Darwin veröffentlichte 1877 «A biological sketch on an infant». Diese Arbeit kann als die erste Entwicklungspsychologische Arbeit angesehen werden.
+ç4Jean-Jacques Rousseau (1712-1778)
+* Rousseau griff die Ideen von Platon auf
+* Kinder als ungezähmte wilde Wesen
+* Kindheit das Alter, in der man dem Naturzustand des Menschen am nächsten ist
+* Der natürliche Entwicklungsdrang des Kindes im Vordergrund
+* Entwicklung als negativer Einfluss angesehen
+* Dem Kind sollten möglichst viele Freiheiten gegeben werden
 
 
-ççççErnst Heinrich Philipp August Haeckel (1834-1919)
+ç3Anfänge der Entwicklungspsychologie als empirische Wissenschaft
+ç419. Jahrhundert: Industrielle Revolution
+* Während der industriellen Revolution wurden viele billige Arbeitskräfte benötigt
+* die meisten Kinder mussten bereits ab 5 Jahren in Fabriken arbeiten
+* Während dieser Zeit kam dann die Befürchtung auf, dass dies negative Auswirkungen auf die Entwicklung der Kinder haben könnte.
+* erste systematischen Untersuchungen der Auswirkungen der Lebensbedingungen auf die Entwicklung
+* Erste Gesetze eingeführt, welche die Arbeit unter 10 Jahren verboten
+
+ç4Charles Darwin (1809-1882)
+* Charles Darwin übernahm erneut die Denkweise von Platon
+* betrachtete Kinder im Angesicht der Evolution
+* vieles im Voraus von den Genen bestimmt wurde
+* Der Mensch sucht sich dann einfach eine Nische, welche seinen Fähigkeiten entspricht
+* Darwin veröffentlichte 1877 «A biological sketch on an infant»
+* Diese Arbeit kann als die erste Entwicklungspsychologische Arbeit angesehen werden.
+
+
+ç4Ernst Heinrich Philipp August Haeckel (1834-1919)
 Haeckel war ein deutscher Zoologe, Philosoph und Freidenker, der die Arbeiten von Charles Darwin im deutschen Raum bekannt machte. Zudem baute er diese zu einer speziellen Abstammungslehre aus. Er beobachtete, dass die Embryonen von verschiedenen Tieren sich sehr ähnlich entwickeln. Er sah das erwachsene Wesen bedingt durch die physiologischen Funktionen der Vererbung und der Anpassung.
 
-ççççDie Normative Epoche
+ç4Die Normative Epoche
 Stanley Hall (1846-1924) und Arnold Gesell (1880-1961) versuchten einen ersten normativen Ansatz zu erlangen. Sie stellten viele Messungen bei einer grossen Anzahl Menschen an, um präzise Mittelwerte zu erlangen. Die grundsätzliche Frage war «Was ist normal?». Dabei untersuchten sie Eigenschaften wie Körpergrösse und ermöglichten es so Ärzten & Eltern Kinder mit der Norm zu vergleichen. Insbesondere Gesell sah Entwicklung wie Rousseau als Reifungsprozess an.
 
-ççççDie Testbewegung
+ç4Die Testbewegung
 Alfred Binet (1857-1911) & Théodore Simon (1873-1961) hatten ein Interesse daran, Kinder mit Lernschwierigkeiten zu identifizieren. Deshalb entwickelten sie den ersten Intelligenztest (Binet-Simon-Test (1905)). Ihre Tests ermöglichten es Kinder in der Schule auf Normen zu prüfen und ein Intelligenzalter festzulegen.
 
-ççççBehaviorismus
+ç4Behaviorismus
 John B. Watson (1878-1958) und Burrhus F. Skinner (1904-1990) begründeten den Behaviorismus. Dieser besagte, dass die Gene keinen Einfluss auf das Wesen hat, sondern einzig die Umwelt eine Rolle spielt. Sie gingen also den Theorien von Aristoteles nach.
 
 Watson: Give me a dozen healthy infants, well formed, and my own specified world to bring them up in and I’ll guarantee to take any one at random and train him to become any type of specialist I might select – doctor, lawyer, artist, merchant-chief and, yes, even beggar-man and thief, regardless of his talents, penchants, tendencies abilities, vocations, and race of his ancestors.
 
-ççççPsychodynamik
+ç4Psychodynamik
 Sigmund Freud (1856 – 1939) entwickelte ein Stufenmodell, welches die psychosexuelle Entwicklung betont. Bei ihm standen die Sexualorgane im Vordergrund.
 
 Erik Erikson (1878 – 1958) sah Entwicklung als Bewältigung von Krisen, durch die man sich eine Identität erringt.
 
-ççççKontext / Kulturhistorische Schule
+ç4Kontext / Kulturhistorische Schule
 Alexander Lurija (1902-1977) ist einer der Begründer der modernen Neuropsychologie. Er verfasste Arbeiten zur Aphasie und zur Rolle der Sprache in der geistigen Entwicklung des Kindes.
 Lew Vygotsky (1896-1934) sah Kinder als Produkt ihrer Kultur. Er besagte, dass die Lernprozesse in allen Kulturen gleich sind, die Inhalte aber unterschiedlich sind. Er prägte die Begriffe Scaffolding (Soziale Stützung) und Zone proximaler Entwicklung.
-ççççKognitive Entwicklung / Kognitive Wende
+ç4Kognitive Entwicklung / Kognitive Wende
 Noam Chomskys (Geboren 1928) äusserte Kritik am Behaviorismus und an der wissenschaftlichen Psychologie: «It is quite possible – overwhelmingly probable, one might guess – that we will always learn more about human life and human personality from novels than from psychology.
 
 Jean Piaget (1896-1980) sah Entwicklung als Veränderung der kognitiven Kompetenzen.
 
 Albert Bandura (Geboren 1925) führte das «Bobo-doll-Experiment», dessen Ergebnisse nicht mehr mit behavioristischen Prinzipien erklärt werden konnten, durch.
 
-ççççPsychologie der Lebensspanne
+ç4Psychologie der Lebensspanne
 Paul B. Baltes (1939-2006) vertritt das moderne Entwicklungsbild mit einer lebenslangen, multidimensionalen und -direktionalen Entwicklung. Entwicklung ist gekennzeichnet durch Plastizität (und damit auch Grenzen) und ist geschichtlich eingebettet zu betrachten.
 
 
-ççMethoden
-
-çççMessen von Veränderung
-
-
+ç2Methoden
+ç3Messen von Veränderung
 Mikrogenetische Designs: Entwicklung wird begleitend untersucht, es wird sehr häufig gemessen. Dies hat den Vorteil, dass die Veränderungsprozesse beobachtet werden können und das kurzfristige Veränderungsmuster gut dargestellt werden. Allerdings ist es sehr aufwändig und liefert keine Aussage über langfristige Veränderungen.
 
 
 
-çTheorien
-
-ççWissenschaftstheorie
-ççççExperiment vs. Theorie
+ç1Theorien
+ç2Wissenschaftstheorie
+ç4Experiment vs. Theorie
 In vielen Wissenschaften sind Experiment und Theorie strikt getrennt (Bsp.: Theoretische Physik vs. Experimentalphysik). In der Psychologie sind diese beiden Bereiche vereint, experimentell arbeitende Psychologen arbeiten immer auch theoretisch.
 
 Fakt: Beobachtbares Phänomen
@@ -358,28 +394,25 @@ Hypothese: Eine mögliche testbare Erklärung des Phänomens
 Theorie: Sammlung an bestätigten Hypothesen im Rahmen des Phänomens
 Gesetz: Mathematische Darstellung des Zusammenhangs
 
-ççççWas macht eine gute Theorie aus?
+ç4Was macht eine gute Theorie aus?
 * Eine gute Theorie erklärt vorhandene Daten. Dies muss nicht zwingend alle aber einen Grossteil der Daten sein und die Theorie muss nachvollziehbar sein.
 * Eine gute Theorie ist testbar. Eine Theorie ist wertlos, wenn sie von jedem Ergebnis gestützt wird. Sie darf also nicht zu allgemein formuliert sein.
 * Eine gute Theorie ist nicht zu restriktiv. Je weniger Verhalten damit erklärt werden kann, desto weniger Gewicht hat die Theorie.
 * Eine gute Theorie sagt Verhalten in neuen Situationen voraus. Optimalerweise geht dies über den Bereich, für den die Theorie entwickelt wurde, hinaus.
 * Eine gute Theorie ist sparsam. Von mehreren möglichen Erklärungen desselben Sachverhaltes ist die einfachste Theorie allen anderen vorzuziehen. Eine Theorie ist einfach, wenn sie möglichst wenige Variablen und Hypothesen enthält, die in klaren logischen Beziehungen zueinanderstehen, aus denen der zu erklärende Sachverhalt logisch folgt.
 
-ççççNutzen von Theorien in der Wissenschaft
+ç4Nutzen von Theorien in der Wissenschaft
 * Verstehen von Verhalten und Prozessen
 * Anwendung auf Problemstellungen
 * Vorhersage von Verhalten und Prozessen
 * Organisation und Interpretation von Forschungsergebnissen
 * Generierung neuer Forschungsfragen
 
-ççççHermeneutischer Zirkel
-
+ç4Hermeneutischer Zirkel
 Deduktion: entwickelte Theorie wird durch ein Experiment überprüft
 Induktion: aus einem Experiment wird eine Theorie entwickelt
 
-ççEinteilung von Theorien in der Entwicklungspsychologie
-
-
+ç2Einteilung von Theorien in der Entwicklungspsychologie
 Exogenistische Modelle: Umwelt bewirkt alles, passives Subjekt lässt alles einfach auf sich wirken. Das passive Subjekt lernt nur das, was die Umwelt ihm bietet Bsp.: Behaviorismus
 
 Endogenistische Modelle: Man reift von alleine heran, alles entsteht aus den Genen. Das Subjekt geht von alleine nicht auf die Umwelt ein, das Subjekt lernt alles von alleine, da die Umwelt dem Subjekt auch nichts bietet. Bsp.: Reifungstheorien, Nativismus
@@ -389,11 +422,9 @@ Aktionale und konstruktivistische Modelle: Mensch reagiert nicht mechanisch auf 
 Interaktionalistische, transaktionale, systematische Modelle: Gestaltende Funktion haben sowohl Entwicklungssubjekt und Entwicklungskontext, System und Subjekt und beeinflussen sich gegenseitig.
 
 
-ççTheorien der kognitiven Entwicklung
-
-çççKonstruktivismus (Piaget)
-
-ççççGenetische Epistemiologie (Erkenntnistheorie)
+ç2Theorien der kognitiven Entwicklung
+ç3Konstruktivismus (Piaget)
+ç4Genetische Epistemiologie (Erkenntnistheorie)
 Zentrale Fragen:
 * Was ist Erkenntnis? Wie entsteht Wissen?
 * Was sind die Ursprünge des Wissens?
@@ -405,18 +436,18 @@ Piagets Grundannahme:
 * Aktivität trägt stark zur eigenen Entwicklung bei
 * Konstruieren aktiv ihr Denken --> Konstruktivismus
 
-ççççGrundkonzepte des Konstruktivismus
+ç4Grundkonzepte des Konstruktivismus
 Das Kind wird als Wissenschaftler angesehen, das Beobachtungen macht, Hypothesen bildet, experimentiert und schlussfolgert. Kinder sind von selbst motiviert zu lernen und lernen von selbst.
 
 Der Konstruktivismus geht davon aus, dass Anlage und Umwelt in der kognitiven Entwicklung zusammenspielen.
 Wissen wird geordnet, indem Beobachtungen in vorhandene, kohärente Wissensstrukturen (Schemata) integriert werden. Diese Schemata werden durch die direkte Interaktion mit der Umgebung geformt. Diese Adaption besteht aus zwei entgegengesetzten Aktivitäten: Assimilation & Akkommodation.
 
-ççççSchema
+ç4Schema
 Schema: Ein Schema ist ein organisiertes Wissens- oder Verhaltensmuster und ist ein Grundbaustein des menschlichen Wissens und Denkens.
 Verhaltensschema: Schema für Handlungen (Saugen, Krabbeln, Laufen, …)
 Kognitive Schemata: Schema für Gegenstände (Was ist eine Lampe?, Was ist ein Schrank?)
 
-ççççAssimilation, Akkommodation, Äquilibration
+ç4Assimilation, Akkommodation, Äquilibration
 Assimilation: Prozess, beim Menschen eintreffende Informationen in eine Form umzusetzen, die mit den bereits bestehenden Konzepten übereinstimmt.
 Akkommodation: Prozess, bei dem Menschen die vorhandenen Wissensstrukturen als Reaktion auf neue Erfahrungen anpassen.
 Äquilibration: Prozess, bei dem Kinder Assimilation und Akkommodation ausbalancieren, um ein stabiles Verstehen zu schaffen. Es gibt drei Zustände des Äquilibriums:
@@ -425,45 +456,44 @@ Akkommodation: Prozess, bei dem Menschen die vorhandenen Wissensstrukturen als R
 * (Re-)Äquilibrium: Differenzierteres Verständnis, stabileres Äquilibrium
 
 
-ççççStufenentwicklung ist gekennzeichnet durch…
+ç4Stufenentwicklung ist gekennzeichnet durch…
 * Qualitative Veränderung: Kinder verschiedenen Alters denken qualitativ unterschiedlich
 * Breite Anwendbarkeit: Jeweilige Art des Denkens universell über verschiedene Kontexte
 * Kurze Übergangzeiten: Vor einer neuen Stufe wird eine kurze Übergangszeit durchlaufen
 * Invariante Abfolge: Jeder durchläuft alle Stufen in derselben Reihenfolge.
 
-ççççStufen der geistigen Entwicklung
+ç4Stufen der geistigen Entwicklung
 1. Sensomotorisches Stadium (0-2 Jahre): Intelligenz der Kinder entwickelt sich durch ihre sensorischen und motorischen Fähigkeiten.
 2. Präoperationales Stadium (2-7 Jahre): Kinder werden fähig, ihre Erfahrungen in Form von Sprache, geistigen Vorstellungen und symbolischen Denken zu repräsentieren.
 3. Konkretoperationales Stadium (7-12 Jahre): Kinder können logische Schlussfolgerungen über konkrete Gegenstände und Ereignisse entwickeln.
 4. Formaloperatives Stadium (ab 12 Jahren): Fähigkeit über Abstraktionen und Hypothesen nachzudenken.
 
-ççççVermächtnis des Konstruktivismus
+ç4Vermächtnis des Konstruktivismus
 Entwicklung besteht zu einem grossen Teil Veränderungen von Denkprozessen. Dies wurde zuvor (z.B. im Behaviorismus) noch nicht so betrachtet. Entwicklung wird als Austauschprozess mit der Umwelt durch Akkommodation und Assimilation angesehen.
 
 Der Konstruktivismus findet Anwendung in pädagogischen Konzepten, indem man den Kindern Lernmöglichkeiten bietet und so die Eigeninitiative des Kindes fördert. Das Kind muss mit der Umwelt interagieren können. Zudem sollte der kognitive Entwicklungsstand des Kindes berücksichtigt werden.
 
-ççççKritik am Konstruktivismus
+ç4Kritik am Konstruktivismus
 Säuglinge und Kleinkinder sind kognitiv kompetenter als Piaget dachte. Zudem sah er das formaloperative Stadium als zu perfekt an, obwohl dort auch noch viele Denkfehler auftreten können.
 Das Denken von Kindern ist nicht so konsistent wie vom Stufenmodell dargestellt. Säuglinge und Kleinkinder werden unterschätzt, Jugendliche überschätzt. Zudem wird der Beitrag der sozialen Welt unterschätzt.
 
 
-çççSoziokulturelle Theorien
-
-ççççGrundzüge
+ç3Soziokulturelle Theorien
+ç4Grundzüge
 Die Kognitive Entwicklung vollzieht sich in sozialem Kontext. Andere Menschen und die umgebende Kultur tragen einen essentiellen Beitrag zur Entwicklung des Kindes.
 
-ççççGrundzüge: Sprache und Denken/ Einfluss von Kultur
+ç4Grundzüge: Sprache und Denken/ Einfluss von Kultur
 Unterschiedliche Sprachen/ Kulturen führen zu unterschiedlichem Denken. Kinder sind also ein Produkt ihrer Kultur. Die Lernprozesse sind zwar die gleichen, die Lerninhalte sind aber unterschiedlich, je nach Kultur.
 Kulturwerkzeuge sind Kompetenzen, die von basaler (Grundlage bildend) Bedeutung für das Zusammenleben innerhalb eines Kulturkreises sind (z.B. Beherrschung Schriftsprache, mathematische Kompetenzen)
 
-ççççGrundzüge: Intersubjektivität
+ç4Grundzüge: Intersubjektivität
 Intersubjektivität ist ein wechselseitiges Verständnis, das Menschen bei der Kommunikation füreinander aufbringen. Dabei konzentrieren sich alle Personen auf das gleiche Thema und die Reaktionen des Gegenübers. Dadurch entsteht geteilte Aufmerksamkeit und soziales Referenzieren.
 Gelenkte Partizipation: Informierte Individuen (Experten) gestalten die Situation so, dass Personen mit weniger Kenntnissen und Fähigkeiten etwas lernen können (z.B. Hilfe beim Zusammensetzen von Spielsachen, Puzzle).
 Kinder als Lehrende und Lernende: Wir bringen anderen etwas bei und bekommen von anderen etwas beigebracht. Das Lehren ist nicht auf Erwachsene beschränkt.
 Soziale Stützung (Scaffolding): Prozess in dem eine kompetentere Person zeitweilig ein Rahmengerüst bietet, welches das Denken des Kindes auf einer höheren Ebene ermöglicht, als das Kind selbst bewältigen könnte. Z.B. Erklärungen, Lösungswege aufzeigen, Hilfe bei schwierigen Teilaufgaben.
 Zone proximaler Entwicklung (ZPD): Bereich der Leistungsfähigkeit zwischen dem, was das Kind ohne Hilfestellung kann, und dem, was es mit optimaler Unterstützung bewältigt.
 
-ççççGrundzüge: Scaffolding
+ç4Grundzüge: Scaffolding
 1. Recruitment: Interesse an Aufgabe feststellen
 2. Direction maintenance: Problemlösung wird auf Aufgabe gerichtet
 3. Frustration control: Helfen bei Schwierigkeiten negative Emotionen zu kontrollieren
@@ -471,24 +501,24 @@ Zone proximaler Entwicklung (ZPD): Bereich der Leistungsfähigkeit zwischen dem, 
 5. Marking critical features: Hervorheben von wichtigen Aspekten
 6. Demonstration: Beispielhafte Lösung wird präsentiert
 
-ççççGrundzüge: Internalisierung (Sprache und Denken)
+ç4Grundzüge: Internalisierung (Sprache und Denken)
 Sprache wird als «Tool of Thought» verwendet. Das Verhalten wird zunächst von anderen Personen kontrolliert (z.B. durch Instruktionen von den Eltern), danach beginnen Kinder damit, mittels «Private Speech» ihr eigenes Verhalten zu kontrollieren indem sie zu sich selbst sprechen und sich so Anweisungen geben.
 Diese Sprache wird dann immer mehr verinnerlicht und zu «Inner Speech»/Gedanken.
 
-ççççWeiterentwicklung: Shared Intentionality
+ç4Weiterentwicklung: Shared Intentionality
 Die grundlegenden Motive für Kommunikation sind der Wunsch aufzufordern, zu informieren und sich mitzuteilen. Die menschliche sprachliche Kommunikation ist aus der gestischen Kommunikation hervorgegangen. Gestische Kommunikation hat den Nachteil, dass sie ein Verstehen der Intention des Gegenübers voraussetzt. Menschenaffen können deshalb nur auffordern, aber nicht kommunizieren um zu informieren und zu teilen.
 
-ççççVermächtnis der soziokulturellen Theorien
+ç4Vermächtnis der soziokulturellen Theorien
 Die soziokulturellen Theorien beschreiben sehr gut, wie der Mensch in einem sozialen Umfeld lehrt und lernt. Intersubjektivität ist essentiell für die Lernprozesse.
 
 Die Implikationen für den Unterricht sind deshalb das Lernen durch Interaktion (z.B. durch gemeinschaftliches Lernen) und dass der Lehrer in Bereichen, die geringfügig über dem Niveau des Lernenden sind, durch Aufzeigen möglicher Lösungswege, Hilfestellungen, etc. unterstützen soll.
 
-ççççKritik an den soziokulturellen Theorien
+ç4Kritik an den soziokulturellen Theorien
 Die Zone der proximalen Entwicklung ist nur sehr vage definiert.
 Zudem sind die Entwicklungsaspekte nur unzureichend berücksichtigt worden.
 
 
-çççTheorien der Informationsverarbeitung
+ç3Theorien der Informationsverarbeitung
 Die Theorien der Informationsverarbeitung konzentrieren sich auf geistige Prozesse, die dem Denken zu Grunde liegen. Das Kind wird als Problemlöser gesehen, der Ziele verfolgt und Strategien bildet, um Grenzen zu überwinden.
 Die Entwicklung reflektiert Fortschritte und Verbesserungen der Basisprozesse und des Inhaltswissens. 
 
@@ -501,44 +531,43 @@ Entwicklung entsteht durch
 
 Strategien erhöhen die Lern- und Gedächtnisleistungen über das Niveau der Basisprozesse hinaus. Neues Wissen wird mit bereits vorhandenem Wissen verknüpft, sodass es leichter gespeichert werden kann.
 
-ççççVergleich Mensch und Computer
+ç4Vergleich Mensch und Computer
 Das Kind ist ein Informationsverarbeitungssystem mit begrenzter Kapazität. Es hat ähnliche Eigenschaften wie ein Computer (RAM=Kurzzeitgedächtnis, Festplatte=Langzeitgedächtnis, CPU=Kognitive Ressourcen, …).
 
-ççççTheorien überlappender Wellen
+ç4Theorien überlappender Wellen
 Kinder besitzen zu unterschiedlichen Zeitpunkten mehrere Strategien, um ein Problem zu lösen von denen jeweils eine dominierend für einen Altersbereich ist. 
 
 Retrievale Lösungsmethoden, also Lösen eines Problems durch erinnern an gleiche/ähnliche Probleme und deren Lösungsmethoden und benutzen dieser, werden im Verlauf der Zeit immer mehr benutzt.
 
-ççççVermächtnis der Theorien der Informationsverarbeitung
+ç4Vermächtnis der Theorien der Informationsverarbeitung
 Die Theorien lieferten eine detaillierte Beschreibung davon, wie kognitive Prozesse (z.B. Aufmerksamkeit und Erinnerungsvermögen) sich mit dem Alter verändern, und wie sie das Denken des Kindes beeinflussen. Sie benutzten einen sorgfältigen Einsatz von Forschungsmethoden und unterstrichen die Kontinuität menschlichen Denkens vom Säuglingsalter bis ins Erwachsenenleben.
 
-ççççKritik an den Theorien
+ç4Kritik an den Theorien
 Die Zerlegung der Kognition in ihre Bestandteile (z.B. Aufmerksamkeit, …) erschwerte es, die Ergebnisse der Bestandteile wieder in eine umfassende Theorie zusammenzuführen. Die Geist-Computer Analogie unterschätzt die Vielfältigkeit menschlicher kognitiven Aktivitäten wie z.B. spekulieren und kreieren.
 
 
-çççDynamische Systeme
+ç3Dynamische Systeme
 Verhalten wird als nicht konstant angesehen, es verändert sich die ganze Zeit. Es gibt keine Periode in der Entwicklung in der etwas dauerhaft stabil ist.
 Das Individuum wird als ganzheitliches System angesehen. Um Ziele zu erreichen werden Wahrnehmungen, Handlungen, Kategorisierung, Motivation, Gedächtnis, Sprache, Wissen, physikalische und soziale Umwelt integriert.
 Entwicklung wird als ein sich selbst organisierender Prozess betrachtet. Verhalten und Denken emergiert aus diesem Prozess heraus.
 
-ççççGrundzüge von dynamischen Systemen
+ç4Grundzüge von dynamischen Systemen
 Ein System ist eine Menge von verschiedenen Elementen, die durch rekursive Beziehungen miteinander verbunden sind. Die Elemente sind von ihrer Umwelt abgegrenzt und haben eine innere Struktur (Systemstruktur).
 Die Systemtheorie wirft die Frage auf, welche Prozesse die Musterbildung und -veränderung bewirken und wie es möglich ist, dass dabei qualitativ neue Eigenschaften entstehen.
 Die Veränderung ist die einzige Konstante im System. Die Entwicklung enthält keine langen Zustände relativer Stabilität.
 
-ççççStabilität und Dynamik
-
+ç4Stabilität und Dynamik
 Um eine bessere Strategie zu erlernen muss Energie aufgewendet werden (2). Wenn eine Strategie fest verankert ist, ist sie in einem stabilen Zustand (1,3).
 
 
 
 Grundfrage: Wie kommen Kinder zu ihrer Strategie? Sie bewegen sich linear auf eine Strategie zu (links). Sie können bereits beim Erlernen Strategien wechseln oder später, allerdings muss bei letzterem mehr Energie aufgewendet werden, um eine neue Strategie zu erlernen (um symbolisch über den Hügel zu kommen).
 
-ççççGrundzüge der Dynamik
+ç4Grundzüge der Dynamik
 Multikausalität: Es wird davon ausgegangen, dass sich jedes Ereignis, das sich im entwickelten Kind oder in seiner Umwelt stattfindet, die Entwicklung des Kindes beeinflusst.
 Emergenz: Die Struktur wird weder von aussen in das System transferiert, noch ist sie angeboren. Sie emergiert spontan als das Ergebnis der Interaktion multipler interner und externer Faktoren.
 Selbstorganisation: Funktionale Eigenschaften von Ordnungsprozessen. Beobachtbare Eigenschaften und Strukturen entstehen als das spontane Produkt einer Vielzahl nichtbeobachtbarer Elemente.
-ççççVergleich zu anderen Theorien
+ç4Vergleich zu anderen Theorien
 Konstruktivismus (Piaget): Jedes Kind ist von sich selbst motiviert & neugierig zu lernen.
 Sozialkonstruktivismus (Wygotski): Formender Einfluss von sozialer Umgebung.
 Informationsverarbeitung (Siegler): Informationen werden verarbeitet, Problemlöse-Aktivität.
@@ -547,11 +576,11 @@ Kernwissen (Spelke): Kinder verfügen über überraschend sehr frühe Kompetenzen.
 
 
 
-çBiologie und Verhalten
-ççGrundlagen
+ç1Biologie und Verhalten
+ç2Grundlagen
 
-çççVom Gen zum Verhalten
-ççççWege von den Genen zum Verhalten
+ç3Vom Gen zum Verhalten
+ç4Wege von den Genen zum Verhalten
 
 1. Genotyp Eltern --> Genotyp Nachkommen: Chromosomen und Gene werden vererbt.
 2. Genotyp Individuum --> Phänotyp Individuum: Gene werden unterschiedlich ausgedrückt.
@@ -559,7 +588,7 @@ Kernwissen (Spelke): Kinder verfügen über überraschend sehr frühe Kompetenzen.
 4. Phänotyp Individuum --> Umwelt Individuum: Verhalten beeinflusst die Umwelt
 5. Umwelt Individuum --> Genotyp Individuum: Genexpression wird von der Umwelt beeinflusst
 
-çççTerminologie der Verhaltensgenetik
+ç3Terminologie der Verhaltensgenetik
 * Gen: Funktional bestimmte Abschnitte auf der DNA im Zellkern
 * Genom: Gesamtheit aller Gene eines Menschen
 * Genotyp: Das gesamte genetische Material eines Individuums. Genotyp steht im Verhältnis zum Phänotyp
@@ -576,66 +605,66 @@ Kernwissen (Spelke): Kinder verfügen über überraschend sehr frühe Kompetenzen.
 * Dizygotisch: Aus zwei verschiedenen befruchteten Eizellen entstanden (Zweieiige Zwillinge)
 
 
-ççççEpigenetik
+ç4Epigenetik
 Gene können zu bestimmten Zeitpunkten im Leben ein- oder ausgeschaltet werden. Diese Veränderung nennt man Genexpression. Es besteht eine epigenetische Software, welche bestimmt, wie die Hardware des Genoms funktioniert. Diese Programmierung der Gene ist so stabil, dass sie sogar an Tochterzellen & Nachkommen des Organismus weitergegeben werden kann. Die Gesamtheit aller epigenetischen Informationen einer Zelle nennt man Epigenom.
 
-ççççEpigenetische «Sprachen»
+ç4Epigenetische «Sprachen»
 * Methyl-Code: Der Methyl-Code besteht aus Methylgruppen, die an die DNA andocken und so die Gene deaktivieren. Ob ein Gen aktiv ist oder nicht hängt davon ab, ob es epigenetisch markiert worden ist oder nicht. Markierte Gene sind deaktiviert.
 * Histon-Code: Besteht aus verschiedenen Substanzen, die nicht die DNA direkt, sondern Proteine, welche die DNA umgeben (=Histone), modifizieren. Diese Substanzen regulieren dann die Aktivierbarkeit der benachbarten Gene.
 * RNA-Interferenz-Code: Micro-RNA verhindert, dass ein Gen ein bestimmtes Protein produziert. Kann als experimentelle Möglichkeit zur Stilllegung von Genen genutzt werden.
 
 
 
-ççMethoden der Verhaltensgenetik
+ç2Methoden der Verhaltensgenetik
 Die Verhaltensgenetik macht Grundannahmen:
 1. Einfluss der genetischen Anlage: Individuen, die genotypisch ähnlich sind, sind auch phänotypisch ähnlich.
 2. Einfluss der Umwelt: Individuen, die in einer ähnlichen Umwelt aufwachsen, sind sich ähnlicher als Individuen, die in einer unähnlichen Umwelt aufwachsen.
 
 
-çççZwillings- & Adoptionsforschung
+ç3Zwillings- & Adoptionsforschung
 Zwillingsstudien: Vergleich von eineiigen Zwillingen / zweieiigen Zwillingen / leiblichen Geschwistern und Adoptionsgeschwistern. Vergleich von gleichen Genen und gleicher Umwelt vs. Unterschiedlichen Genen und gleicher Umwelt.
 Adoptionsstudien: Vergleich mit biologischen Eltern / Geschwistern, Vergleich mit Adoptiveltern / Adoptivgeschwistern.
 
 
-ççGen-Umwelt-Wechselwirkung
-ççççFormen der Wechselwirkung
+ç2Gen-Umwelt-Wechselwirkung
+ç4Formen der Wechselwirkung
 Passiv: Eltern bieten eine Umwelt, die den Anlagen des Kindes entspricht
 Evokativ: Anlagen des Kindes rufen bei anderen Personen bestimmte Reaktionen hervor. Die Umwelt passt sich an die Anlagen des Kindes an.
 Aktiv: Nischenwahl, das Kind sucht sich seinen eigenen Platz, der seinen Anlagen entspricht.
 
-çççUmwelt --> Phänotyp
+ç3Umwelt --> Phänotyp
 Darunter wird der Einfluss der Eltern und der Bezugspersonen auf das Kind verstanden.
 
 Kinder mit fürsorglichen Eltern sind explorativer und werden selber zu fürsorglichereren Eltern. 
 
-ççççEinfluss der Aufmerksamkeit einer Mutter auf die Methylisierung der Gene
+ç4Einfluss der Aufmerksamkeit einer Mutter auf die Methylisierung der Gene
 Aufmerksame Eltern führen (bei Ratten zumindest) zu weniger methylierten Genen bei den Kindern. Eine stimulierende Umgebung führt zu mehr Synapsen pro Nervenzelle, mehr Synapsen insgesamt, mehr Dendriten und grösserer kortikaler Dicke.
 
-ççççUnterschiede im körperlichen Entwicklungstempo
+ç4Unterschiede im körperlichen Entwicklungstempo
 Bei Menschen findet eine Vorverschiebung und Beschleunigung der Entwicklung statt, die man Säkulare Akzeleration nennt. Die Körpergrösse nimmt von Generation zu Generation zu und die körperlichen Veränderungen in der Pubertät werden nach vorne verlegt.
 Die Ursachen dafür sind die Verbesserung der allgemeinen Umweltbedingungen, kalorienreicher Ernährung, wodurch sich der Körperfettanteil vergrössert, und die Verbesserung medizinischer Versorgung und der sanitären Bedingungen.
 
-ççççIndividuelle Unterschiede / Einflussfaktoren
+ç4Individuelle Unterschiede / Einflussfaktoren
 * Genetische Faktoren: Eineiige Zwillinge entwickeln sich ähnlicher als zweieiige Zwillinge. Zudem haben Mütter und Töchter ein ähnliches Menarchealter (Zeitpunkt der ersten Menstruation).
 * Ernährung führt zu erhöhtem / vermindertem Körperfett.
 * Psychosoziales Umfeld: Konfliktreiches Familienleben, die Strenge der Erziehung und die psychosozialen Merkmale des Umfelds nehmen alle Einfluss auf die Entwicklung.
 
-ççççEinflussfaktoren: Bezugspersonen
+ç4Einflussfaktoren: Bezugspersonen
 Die Bezugspersonen nehmen sehr starken Einfluss auf die Entwicklung des Kindes durch ihr Einfühlungsvermögen, also ihrer Fähigkeit, die Signale des Kindes wahrzunehmen, sie korrekt interpretieren und sofort angemessen darauf reagieren zu können.
 Kinder mit feinfühligen Müttern bilden ein Arbeitsmodell der Mutter als responsiv und verfügbar, während Kinder mit nicht feinfühligen Müttern ein Arbeitsmodell der Mutter als zurückweisend und nicht verfügbar bilden. Die Feinfühligkeit nimmt einen grossen Einfluss auf die Bindungssicherheit des Kindes.
 
-çççGenotyp/ Phänotyp --> Umwelt: Einflussfaktoren des Kindes
-ççççKindliches Temperament
+ç3Genotyp/ Phänotyp --> Umwelt: Einflussfaktoren des Kindes
+ç4Kindliches Temperament
 Temperamentsunterschiede haben Einfluss auf elterliches Verhalten und die Bindungssicherheit des Kindes. Schwierige Kinder evozieren negative Reaktionen und haben ein höheres Risiko, unsicher gebunden zu sein.
 
-ççççErwartungen von Lehrern
+ç4Erwartungen von Lehrern
 Die Erwartungen an andere Menschen haben signifikante Auswirkungen auf ihre künftige Leistung.
 Lehrer bilden ein Bild davon, wie leistungsfähig ein Kind ist. Die künstliche Induktion von Erwartungen funktioniert nur in den ersten zwei Wochen des Schuljahrs. Danach sind Lehrkräfte weniger empfänglich für Informationen, die nicht zum eigenen Bild passen. Metaanalysen gehen davon aus, dass Lehrererwartungen auf fünf bis zehn Prozent aller Schüler einen Einfluss ausüben.
 
 
 
 
-çççGenotyp/Phänotyp --> Umwelt: Wirkmechanismen
+ç3Genotyp/Phänotyp --> Umwelt: Wirkmechanismen
 1) Wenn Kinder im Einklang mit ihren genetischen Prädispositionen Erfahrungen auswählen und hervorrufen und diese wiederum ihre kognitive Entwicklung stimulieren, werden die frühen genetischen Einflüsse auf die Kognition verstärkt. Es wird erwartet, dass dieser Mischprozess beschleunigt wird, da die Kinder immer mehr Autonomie bei der Auswahl ihrer Altersgruppe, bei Aktivitäten nach der Schule, akademischen Kursen und anderen positiven Lernerfahrungen gewinnen. 
 2) „Neue“ Gene, die bisher die Kognition nicht beeinflusst haben, können später in der Entwicklung aktiviert werden. So können beispielsweise die biologischen Veränderungen der Pubertät Veränderungen in der Genexpression auslösen, oder genetische Unterschiede, die bisher nicht kognitionsrelevant waren, können mit der Veränderung der sozialen Kontexte von Kindern relevant werden.
 
@@ -643,10 +672,9 @@ Lehrer bilden ein Bild davon, wie leistungsfähig ein Kind ist. Die künstliche In
 
 
 
-çMotorik
-
-ççGehirn
-ççççBegriffe und Entwicklungsaspekte
+ç1Motorik
+ç2Gehirn
+ç4Begriffe und Entwicklungsaspekte
 Neuronale Plastizität: Potential von Nervenzellen sich in ihrer Anatomie und Funktion zu verändern.
 Synaptogenese: Entstehung neuer Synapsen an Nervenzellen
 Pruning: Synapsen werden reduziert (Gegenteil von Synaptogenese)
@@ -654,41 +682,26 @@ Wichtigkeit von Erfahrung: Gehirn ist in der Erwartung, dass gleich eine Erfahru
 Sensitive Periods/ Sensible Phasen: Gehirnregionen sind in einem bestimmten Zeitraum empfänglicher für einkommende Informationen
 Heterochronizität: Kortikale Veränderungen sind nicht synchron in allen Hirnregionen
 
-çççSynaptogenese, Pruning
-
+ç3Synaptogenese, Pruning
 Der präfrontale Cortex entwickelt sich langfristiger als der visuelle Cortex.
 
 
 Pruning (=Synapsenausdünnung im Verlaufe der Zeit). Es findet beschleunigtes Wachstum und Myelinisierung von stimulierten Nervenfasern statt, die die Verbindungen zwischen verschiedenen Bereichen, insbesondere zwischen den beiden Gehirnhälften und zwischen dem Frontallappen und den anderen Gehirnbereichen, stärkt.
 Schnellere Reizleitung und effizientere Informationsverarbeitung führt zu höherer Verarbeitungsgeschwindigkeit, verbesserter Aufmerksamkeit und insgesamt verbessertem Gedächtnis.
 
-çççHeterochronizität
-
-
-
-çççErfahrung
-
+ç3Erfahrung
 Zu Beginn findet ein sehr starker Anstieg statt, da noch nicht bekannt ist, welche Bereiche hoch ausgelastet sein werden. Deshalb wird überall stark ausgebaut, danach aber wieder an den Stellen reduziert, die nicht so stark benutzt werden.
 
 
-ççççEntwicklung: kritische / sensible Phasen
-
-
-
-
-ççççSynaptogenese / Pruning über die Lebensspanne
-
-
-ççKörper
-çççFormen der motorischen Entwicklung
+ç2Körper
+ç3Formen der motorischen Entwicklung
 Addition: Entwicklungsparameter wie Körpergrösse und Muskelkraft nehmen quantitativ zu.
 Substitution: Entwicklungsparameter verändern sich qualitativ
 --> Bsp.: Entwicklung der Lokomotion (Krabbeln -> Laufen)
 Differenzierung / Inclusion: Funktionelle Anpassung von Entwicklungsparametern an ihre Umwelt
 --> Bsp.: Motorik beim Schreiben, Sprache durch Erwerb der Muttersprache
 
-ççççKörperentwicklung
-
+ç4Körperentwicklung
 Wachstumsschub
 Mädchen: 10-14. Lebensjahr
 Jungen: 12.-15. Lebensjahr
@@ -699,7 +712,7 @@ Jungen: 17-19 Jahre alt
 
 Bei Jungen findet der Wachstumsschub später statt, sie werden aber insgesamt grösser.
 
-çççEntwicklungsrichtung
+ç3Entwicklungsrichtung
 Cephalo-caudal (vom Kopf zum Steiss)
 --> Organisation des motorischen Verhaltens beginnt am Kopf und schreitet über den Rumpf zu den Extremitäten fort.
 Proximo-distal (von körpernah zu körperfern / von Grobmotorik zu Feinmotorik)
@@ -708,9 +721,8 @@ Grobmotorik
 --> Bewegung und Koordination von Armen, Beinen und anderer grosser Körperteile (z.B. Laufen, Hüpfen, ...)
 Feinmotorik
 -> Bewegung und Koordination von kleinen Bewegungen z.B. im Handgelenk, in den Händen, Fingern, Zehen (z.B. Schreiben, einfädeln einer Nadel, ...)
-ççç4 Stufen der Entwicklung der Motorik
-
-ççççVorgeburtliche Motorik
+ç34 Stufen der Entwicklung der Motorik
+ç4Vorgeburtliche Motorik
 * Ab Woche 7: Selbstinitiierte Drehbewegungen
 * Ab Woche 10 (“Gestationswoche”): Armbewegungen unabhängig von Körperbewegungen. Oft auf den eigenen Körper gerichtet, vor allem Kopf und Gesicht (Däumeln, ins Gesicht fassen, ...)
 * Ab Wochen 12-16: Räkeln, Strecken, Gähnen
@@ -719,7 +731,7 @@ Feinmotorik
 * Ab Woche 38-40: Wach und Schlafzustände, gekoppelt an Rhythmus der Mutter
 * Bis ca. 2 Monate nach der Geburt: Vorwiegend fötale Bewegungen, angepasst an Schwerkraft. Leichtigkeit / Schwerelosigkeit, die im Mutterleib herrscht ist nicht mehr vorhanden.
 
-ççççAngeborene Reflexe
+ç4Angeborene Reflexe
 Reflex: Ungelernte Reaktionen ausgelöst durch eine spezifische Stimulation. Reflexe sind von Geburt an präsent und verschwinden teilweise wieder. Reflexe sind evolutionär stabil und vorteilhaft bei Nahrungsaufnahme (Rooting, Saugreflex) und Schutz vor Gefahr oder Verletzung (Blinzeln, Zurückziehen beim Anfassen von einer heissen Herdplatte, ...). 
 Gute Reflexe sind Indikatoren für die Gesundheit des zentralen Nervensystems.
 --> APGAR-Index: Methode zur Beurteilung des klinischen Zustands eines Neugeboren.
@@ -735,22 +747,21 @@ Suchreflex (Rooting): Berühren eines Mundwinkels führt zu Kopfdrehung in die ent
 Saugreflex: Reflex zum Herauspressen der Milch aus der Zitze/Brustwarze.
 Tonic Neck Reflex: Reflex, welcher dazu führt, dass bei seitlicher Kopflage des Neugeborenen, der Arm auf der Seite des Gesichtes ausgestreckt ist und der andere nach oben zeigt. Wird auch Fencing-Reflex genannt, da die Haltung der eines Fechters gleicht.
 
-ççççSind Reflexe automatisch oder zielgerichtet?
+ç4Sind Reflexe automatisch oder zielgerichtet?
 Rooting: Wird nicht ausgelöst, wenn das Kind satt ist, oder wenn es selbst den Reflex auslöst.
 Laufreflex: Ist abhängig vom Gewicht des Säuglings, modulierbar durch Gewichtsänderung und durch arousal.
 Reflexe ermöglichen es, in einfacher Form zu handeln. Dadurch werden sensomotorische und kognitive Systeme mit Input beliefert. Möglichkeiten und Beschränkungen des Handelns werden dem Kind aufgezeigt und es lernt diese Beschränkungen einzuschätzen. Reflexe sind aber keine fertiggestellten Fähigkeiten, eher etwas das der Entwicklung von Fähigkeiten vorgeht.
 
 
 
-ççççMeilensteine der Entwicklung der Motorik
+ç4Meilensteine der Entwicklung der Motorik
 * Greifen (Raum wird körperlich explorierbar)
 * Sitzen (Der Wahrnehmbare Raum wird vergrössert)
 * Lokomotion (Vergrössert den explorierbaren und wahrnehmbaren Raum)
 
 
-ççKoordination
-
-çççGreifen
+ç2Koordination
+ç3Greifen
 Benötigte Teilkomponenten
 * motorisch: Ausführung
 * kognitiv: Erwerb und Planung der jeweiligen Handlung
@@ -761,7 +772,7 @@ Verbesserungen
 * räumliche/zeitliche Genauigkeit
 * Zuverlässigkeit der Bewegungsausführung
 
-ççççMeilensteine des Greifens
+ç4Meilensteine des Greifens
 * Prereaching: Vorstufe des Greifens. Unkontrollierte Bewegungen in die grobe Richtung eines Zieles, die durch visuelle Wahrnehmung und Propriozeption kontrolliert wird. Bewegungen schon ähnlich aufgebaut wie bei Erwachsenen, mit typischem zweiteiligem Bewegungsmuster: eine lange geradlinige Bewegung; eine kurze Korrekturbewegung.
 * Palmares Greifen: Die Genauigkeit und die Häufigkeit von Greifbewegungen nehmen zu. Zielgerichtetes palmares Greifen wird möglich. Dies wird ermöglicht durch Reifung der Motorik, Verbesserungen der Aufmerksamkeit & Wahrnehmung und die Fähigkeit zur Planung von Handlungen.
 * Objekttransfer
@@ -777,39 +788,32 @@ o Zangengreifen (ab ca. 12 Monaten) --> Greifen mit gebeugtem Zeigefinger und op
 * Auge-Hand-Koordination: Neugeborene blicken auf ein Objekt, dies ist auch die grobe Richtung der Bewegung. Später ist abwechselndes Schauen auf Hand und Objekt, Bewegung auf antizipierten «Treffpunkt» ausgerichtet. Ab etwa 34-36 Wochen ist Fangen von Objekten mit 1,2 m/s möglich. AB 9 Monaten wird die Greifbewegung an die Objektgrösse angepasst.
 
 
-çççLokomotion
-
-ççççMeilensteine der Lokomotion
-
-
-
-ççççVom Krabbeln zum Laufen
+ç3Lokomotion
+ç4Vom Krabbeln zum Laufen
 
 Shuffling: Florian
 Crawling on hands and knees to standing up: Tim, Julien
 Rolling over: Rémy (Schildis)
 Standing up, first walking: Elin, Julien, Rémy (Flädis)
 
-ççççGrundlagen des Laufens
+ç4Grundlagen des Laufens
 Toddling gait: schwankender Gang von Neulaufenden. Die Füsse sind relativ weit auseinander, wodurch die Stabilität verbessert wird. Durch einen leichten Knick in Knie und Hüfte wird der Schwerpunkt nach unten verlagert und der Sturz wird weniger schmerzhaft. Beide Füsse sind etwa 60% der Zeit am Boden (gegenüber 20% bei Erwachsenen).
 
-ççççWichtigkeit von Lauferfahrung
+ç4Wichtigkeit von Lauferfahrung
 Die Lokomotionserfahrung ist immens im zweiten Lebensjahr. Ein Kind im Alter von 12 bis 19 Monaten macht etwa 2400 Schritte pro Stunde, legt etwa 700 Meter pro Stunde zurück und stürzt etwa 17 Mal. Kinder die gerade zu laufen beginnen bewegen sich mehr fort als gleichaltrige Kinder, die noch krabbeln.
 
 
 
 
 
-çWahrnehmung
-
-ççPerception & Action
-
-çççLokomotion und Wahrnehmung / Kognition
+ç1Wahrnehmung
+ç2Perception & Action
+ç3Lokomotion und Wahrnehmung / Kognition
 Neue Mobilität führt zu neuen Herausforderungen wie glatter oder weicher Boden, Hindernisse wie Treppen, Anstiege, …
 Kinder müssen andauernd entscheiden, ob ihr Können der Umgebung bereits angepasst ist (Selbsteinschätzung). Kinder lernen so zu lernen, Probleme zu lösen und Herausforderungen zu bewältigen.
 Die Entwicklung der Lokomotion muss flexibel und anpassungsfähig sein.
 
-çççVisual Cliff
+ç3Visual Cliff
 Sobald das Kind mit selbstständiger Lokomotion beginnt, findet bei der Wahrnehmung von Tiefe eine Angstreaktion statt. Zuvor nehmen die Kinder zwar Tiefe statt, sie zeigen aber noch keine Angstreaktion. 
 
 Vergleich von 7-monatigen Krabbler vs. Nicht-Krabbler
@@ -819,47 +823,46 @@ Vergleich Training von Lokomotion vs. Kontrollgruppe
 ? Angst nur bei Gruppe mit Training
 
 
-çççLokomotion auf schiefer Ebene
+ç3Lokomotion auf schiefer Ebene
 Zu Beginn der selbstständigen Lokomotion (sowohl beim Krabbeln als auch beim Laufen) wird die Steilheit einer Rampe meist falsch eingeschätzt. Kind sucht nach Methoden, um die Rampe bewältigen zu können. Kinder müssen erst lernen, die wahrgenommene Information zu verarbeiten. Diese Regel gilt bei jeder neu gelernten motorischen Fähigkeit.
 
-ççççKörperliche Voraussetzungen
+ç4Körperliche Voraussetzungen
 * Veränderte Proportionen, beweglichere Gelenke, Muskelkraft wird grösser und Balance besser
 * Informationen aus dem Gleichgewichtssinn und aus eigenen Bewegungen werden integriert
 
 Das Problem, wie man zu einem Ziel kommt wird anfänglich sehr unterschiedlich gelöst, im späteren Leben dagegen sehr ähnlich. Dies entspricht eher für das Problemlösen als für einen Reifungsvorgang. Babys, die früher laufen lernen, sind in der Regel unternehmungslustiger und weniger ängstlich.
 
 
-ççEntwicklung der Wahrnehmung
-
-çççGrundlagen
-ççççSinnesempfindung (sensation)
+ç2Entwicklung der Wahrnehmung
+ç3Grundlagen
+ç4Sinnesempfindung (sensation)
 ? Elementarer Prozess der Verarbeitung grundlegender Information aus der Aussenwelt durch die Sinnesorgane.
 
-ççççWahrnehmung (perception)
+ç4Wahrnehmung (perception)
 ? Höherer Prozess der Organisation und Interpretation der Reizaufnahme
 
-ççççKognition (cognition)
+ç4Kognition (cognition)
 ? Konglomerat verschiedener Formen der Informationsverarbeitung (Fokus der Aufmerksamkeit, kognitive Kontrolle, Gedächtnis, Problemlösen, ...)
 
 UNTERSCHIED: Sinnesempfindung in den Sinnesorganen, Wahrnehmung ist die Verarbeitung und Interpretation dieser.
 
-ççççNiedere Sinne
+ç4Niedere Sinne
 ? Schmecken, Riechen, Schmerzempfindung, Berührung, ...
 ? Interpretationsspielraum ist relativ gering
 ? Vorwiegend Sinnesempfindungen
 
-ççççHöhere Sinne
+ç4Höhere Sinne
 ? Hören, Sehen
 ? Relativ hoher Anteil an Organisation und Interpretation der Wahrnehmung
 
 
-çççNiedere Sinne - Geruch
+ç3Niedere Sinne - Geruch
 Schon bei Geburt: Unterschiedliche Reaktion auf positive Gerüche wie Erdbeer-, Banane, Vanilleduft und negative Gerüche wie faulen Eiern oder Fisch. Diese Reaktionen zeigten sich in unterschiedlichen Gesichtsausdrücken.
 Nach einer Woche: Unterscheidung des Geruchs der eigenen Mutter von dem einer anderen Frau
 Nach zwei Wochen: Kind kann zwischen stillenden und nicht stillenden Frauen unterscheiden und kann die Achselgerüche von Mutter und Vater erkennen
 
 
-çççNiedere Sinne - Geschmack
+ç3Niedere Sinne - Geschmack
 Bei Geburt: Unterschiedliche Reaktion auf süsse, salzige, saure und bittere Flüssigkeiten. Dies dient womöglich dem Schutz vor lebensgefährlichen Stoffen.
 
 Süsse Flüssigkeit (Saccharose, Zucker): Solche Flüssigkeiten haben Einfluss auf das Saugverhalten des Babys, sie wirken beruhigend.
@@ -869,13 +872,13 @@ Nach etwa 4 Monaten ändern sich die Präferenzen: Das Kind reagiert auch positiv 
 Nebenfact: Kinder, die mit Muttermilch ernährt wurden, essen mehr verschiedene Dinge wie Kinder, die Flaschenmilch bekommen haben. Dies kommt daher, dass die Muttermilch, je nachdem was die Mutter gegessen hat, unterschiedlich schmeckt und die Kinder mehr verschiedene Geschmäcker kennen.
 
 
-çççNiedere Sinne - Hautsinne
+ç3Niedere Sinne - Hautsinne
 Berührung: Kind reagiert von Geburt an auf Berührungen (siehe Grooting, Greifreflex, ...). Berührungen sind sehr wichtig zum Aufbau einer emotionalen Bindung zwischen Kind und den Bezugspersonen. Für Kinder sind Berührungen auch sehr wichtig zur Exploration von Objekten.
 
 Schmerz: Aus ethischen Gründen gibt es dazu nur sehr wenige Untersuchungen im Kindesalter. Kinder reagieren auf Schmerz (z.B. Impfen) aber meist mit hochfrequentem, plötzlichem Schreien, einer erhöhten Herzrate, sowie Bewegungen von Armen und Beinen.
 
 
-çççHöhere Sinne: Sinnesempfindung --> Wahrnehmung
+ç3Höhere Sinne: Sinnesempfindung --> Wahrnehmung
 Sinnesrezeptoren: Die Sinnesrezeptoren analysieren die im Stimulus enthaltene Information und zerlegen sie.
 
 Sensorisches System: Das sensorische System abstrahiert die enthaltene Information und repräsentiert sie im Gehirn in verschiedenen Gehirnregionen. Das sensorische System besteht aus Sinnessensoren und Gehirn.
@@ -883,42 +886,37 @@ Sensorisches System: Das sensorische System abstrahiert die enthaltene Informati
 Konstant ablaufende Verarbeitung von Information: führt zu scheinbar kontinuierlicher Wahrnehmung. Präzise und direkte Wahrnehmung ist allerdings eine Illusion, da jede Information direkt verarbeitet und interpretiert wird.
 
 
-ççVisuelle Wahrnehmung
-
-çççMethoden der Säuglingsforschung
-
-ççççForced-Choice Preferential Looking (Blickpräferenz)
+ç2Visuelle Wahrnehmung
+ç3Methoden der Säuglingsforschung
+ç4Forced-Choice Preferential Looking (Blickpräferenz)
 Methode: 2 Objekte werden gleichzeitig präsentiert. Es wird gemessen, wie lange das Baby jedes der beiden Objekte ansieht.
 
 Befund: Babys schauen strukturierte Bilder länger an als monotone Flächen.
 
 
-ççççSequentielle Blickpräferenz
+ç4Sequentielle Blickpräferenz
 Methode: Objekte werden nacheinander präsentiert, gemessen wird die Blickzeit.
 
 
-ççççHabituationsparadigma
+ç4Habituationsparadigma
 Wenn Kinder an einen Stimulus gewöhnt sind, sehen sie weniger lange hin, wie wenn es ein neuer unbekannter Stimulus ist. Wenn man einem Kind immer das gleiche Bild zeigt, ist es dann sehr überrascht, wenn es dann plötzlich ein anderes Bild sieht.
 
 
 
 
-çççVisuelle Wahrnehmung
-
-ççççEntwicklung der Sehschärfe
-
+ç3Visuelle Wahrnehmung
+ç4Entwicklung der Sehschärfe
 Sehschärfe wird verbessert, braucht aber lange um sich voll zu entwickeln.
 
 
 Test zur Messung der Sehschärfe: Wie lange werden die Platten angesehen. Bei Unterschied: Präferenz für Platte mit Streifen. Wenn kein Unterschied mehr gesehen wird, kann davon ausgegangen werden, dass das Kind beide Platten einfach als Grau sieht.
 
 
-ççççEntwicklung der Kontrastsensitivität
-
+ç4Entwicklung der Kontrastsensitivität
 Test zur Messung der Kontrastsensitivität
 
 
-ççççEntwicklung der Sehschärfe und Kontrastsensitivität
+ç4Entwicklung der Sehschärfe und Kontrastsensitivität
 * Messung der Sehschärfe und Kontrastsensitivität im Präferenzparadigma (z.B. Muster vs. graue Fläche)
 * Neugeborene haben eingeschränkte Sehschärfe, nur etwa 1/20 des Erwachsenenniveaus, mit 8 Monaten vergleichbar mit Erwachsenem.
 * Schwache Kontrastsensitivität in den ersten Monaten: Muster werden nur wahrgenommen, wenn ein hoher Kontrast vorhanden ist.
@@ -926,22 +924,18 @@ Test zur Messung der Kontrastsensitivität
 
 
 
-ççççEntwicklung des Farbsehens
-
-
+ç4Entwicklung des Farbsehens
 Farbsehen ist bei Geburt noch eingeschränkt, ab 3 bis 4 Monaten ähnlich wie bei einem Erwachsenen.
 
-ççççEntwicklung des Farbsehens: My Baby loves red?!
-
-
+ç4Entwicklung des Farbsehens: My Baby loves red?!
 Babys sehen rote und blaue Farben länger an als grün-gelbliche Farben.
 
 
-ççççGlatte Augenfolgenbewegungen
+ç4Glatte Augenfolgenbewegungen
 Glatte Augenfolgenbewegungen sind nur mögliche, wenn ein sich entsprechend bewegender Stimulus vorhanden ist. Ansonsten bewegt sich das Auge sprunghaft. Das Kind bewegt zuerst hauptsächlich den Kopf, um eine glatte Augenfolgenbewegung zu machen. Es beginnt erst später damit, die Augenbewegung zu integrieren.
 
 
-ççççAntizipatorische Augenbewegungen
+ç4Antizipatorische Augenbewegungen
 Experiment: Gesicht bewegt sich hin und her, wenn es hinter die Platte geht, bewegt sich der Blick bereits an den Punkt, wo es wieder hervorkommt.
 
 
@@ -950,7 +944,7 @@ Experiment: Gesicht bewegt sich hin und her, wenn es hinter die Platte geht, bew
 17 Wochen (unten): Kind antizipiert das Verhalten des Objektes, welches beobachtet wird
 
 
-ççççWahrnehmung von Gesichtern
+ç4Wahrnehmung von Gesichtern
 Kinder reagieren stärker auf komplexere Reize, symmetrische Objekte, runde Objekte, bewegte Objekte und reale Objekte (vs. Bilder von Objekten). Sie präferieren zudem gesichtsähnliche Strukturen.
 
 
@@ -973,11 +967,11 @@ Visuelles Abtasten des Gesichtes im Alter von ca. 1-2 Monaten
 2 Monate: Kind fixiert sich vor allem auf die innen liegenden Merkmale wie Augen und Mund
 
 
-ççççErkennen sozialer Akteure – Präferenz für zugewandten Blick
+ç4Erkennen sozialer Akteure – Präferenz für zugewandten Blick
 Kinder präferieren Personen, die ihnen Aufmerksamkeit geben, also solche, welche zu ihnen sehen.
 
 
-ççççPerceptual Narrowing / Perceptual Attunement
+ç4Perceptual Narrowing / Perceptual Attunement
 Definition: Entwicklungsänderungen, bei denen die Erfahrung das Wahrnehmungssystem verfeinert.
 
 Beispiele
@@ -987,33 +981,31 @@ Beispiele
 Narrowing: Beschreibt Veränderung als Einengung --> Defizitorientiert
 Attunement: Beschreibt Veränderung als Feinabstimmung --> auf nutzen orientiert
 
-ççççOther-Species-Effekt
+ç4Other-Species-Effekt
 Nach 6 Monaten können Kinder zwischen unterschiedlichen Menschen- und Affengesichtern unterscheiden. Kinder können die Gesichter von zwei Affenindividuen besser unterscheiden.
 
 9 Monate / Erwachsene: Kinder können nur Menschengesichter unterscheiden, da Unterscheidung von Affengesichtern verlernt wird/ es wird generalisiert.
 Mit Training: Unterscheidung bis 9 Monate, Feinabstimmung des Gesichter-Verarbeitungssystems mit spezies-spezifischer Erfahrung
 
 
-ççççMusterwahrnehmung
+ç4Musterwahrnehmung
 Bereits bei Geburt können zusammengehörende Lichtpunkte erkannt werden.
 
 
-ççççObjektwahrnehmung
+ç4Objektwahrnehmung
 Wahrnehmungskonstanz: Wir nehmen Objekte und Personen grössen- und formkonstant wahr, obwohl sich das retinale Abbild verändert.
 
 Objekttrennung: Objekte können einzeln identifiziert werden, wenn sie sich in einer sichtbaren Anordnung befinden.
 
-ççççPrinzipien der Objektwahrnehmung
 
-
-ççççObjektwahrnehmung und Vorwissen
+ç4Objektwahrnehmung und Vorwissen
 * Bereits zweimonatige Kinder benutzen gemeinsame Bewegung als Hinweis.
 * Ältere Kinder nutzen zusätzlich ihr Wissen über Schwerkraft.
 * (a): Nicht klar, ob ein oder zwei Objekte
 * (b): durch Wissen über Schwerkraft bekannt, dass eine Verbindung besteht, es also ein Objekt ist.
 
 
-ççççDistanzwahrnehmung
+ç4Distanzwahrnehmung
 Binokulare Disparität: Unterschied zwischen den Bildern eines Objektes auf den Netzhäuten der beiden Augen. Dies ist die Grundlage des räumlichen Sehens.
 
 Stereosehen: Prozess, bei dem der visuelle Cortex die leicht abweichende Information aus beiden Augen zu einer räumlichen Abbildung integriert.
@@ -1030,29 +1022,24 @@ Objektausdehnung: Das Abbild eines sich nähernden Objekts dehnt sich symmetrisch
 
 
 
-ççAuditorische Wahrnehmung
-
-çççGrundlagen
+ç2Auditorische Wahrnehmung
+ç3Grundlagen
 * Wir können im Schlaf hören
 * Wir können über weite Entfernungen kommunizieren
 * Wir nehmen Dinge wahr, die ausserhalb unseres Sichtfeldes sind oder im Dunkeln sind
 * Hören ist grundlegend für menschliche Kommunikation
 
-ççççDas Gehör
 
-
-
-ççççAkustische Illusion
+ç4Akustische Illusion
 Ein unterbrochener Ton wird als durchgehend empfunden, wenn während des Unterbruchs ein lauterer Ton ertönt.
 
-ççççSynaptogenese / Pruning
-
+ç4Synaptogenese / Pruning
 Der auditorische Cortex nimmt gleich stark zu wie der visuelle Cortex (bis cs, 1,5 Jahre), nimmt aber erst später ab, ähnlich wie der präfrontale Cortex.
 
-çççHören im Mutterleib
+ç3Hören im Mutterleib
 Kind im Mutterleib hört Herzschlag & Stimme der Mutter, alle anderen Geräusche können auch gehört werden, sind aber stark abgedämpft. Daher ? Auch wenn das Kind die Stimme einer anderen Person wie dem Vater öfters hört, ist die Stimme der Mutter viel vertrauter, da das Kind sie viel weniger gedämpft wahrnimmt.
 
-ççççCochlea (Schnecke)
+ç4Cochlea (Schnecke)
 ? Ungefähr im dritten Monat der Schwangerschaft morphologisch ausgebildet
 ? Erreicht volle Grösse in der 20. Schwangerschaftswoche
 
@@ -1061,13 +1048,13 @@ Ab dem 5. Bis 6. Schwangerschaftsmonat sind die Nervenzellen des Innenohrs funkt
 Schall aus der Umgebung dringt teilweise durch die Bauchdecke der Mutter. Dabei sind die Geräusche aber stark gedämpft durch den Bauch und Geräusche der Mutter selbst wie Herzschlag, Verdauungstätigkeit von Magen und Darm, etc. maskieren die externen Schallquellen zusätzlich.
 Die Stimme der Mutter ist durch die direkte Übertragung deutlicher zu hören als die Stimmen von anderen Personen. Die Sprachmelodie und die Silbenerkennung (Prosodie) sind jedoch erkennbar, die genauen Laute aber nicht.
 
-ççççWie wird das gemessen?
+ç4Wie wird das gemessen?
 * Der Herzschlag des Kindes beim Hören der Stimme der Mutter ist höher, wie wenn die Stimme einer anderen Frau gehört wird.
 * Auch nach der Geburt präferieren Kinder die Stimme der Mutter gegenüber der Stimme einer fremden Frau. Dies tun sie aber nicht bei der Stimme des Vaters.
 * Kinder präferieren auch Geschichten, die sie bereits kennen. Sie reagieren besser auf Textauszüge, die die Mutter vor der Geburt laut vorgelesen hat.
 * Messen der Präferenz anhand von Intensität des Nuckelns an Schnuller.
 
-ççççPräferenzen bei Hören im Mutterleib
+ç4Präferenzen bei Hören im Mutterleib
 * Stimme der Mutter > Stimme einer anderen Frau
 * Eigene Sprache > fremde Sprache
 * Vorgelesene, bekannte Geschichte > neue Geschichte
@@ -1079,19 +1066,19 @@ Keine Präferenz für:
 * Flüsternde Stimmen können nicht unterschieden werden
 
 
-çççFrühe Wahrnehmungsmuster / Entwicklung des Hörens nach der Geburt
+ç3Frühe Wahrnehmungsmuster / Entwicklung des Hörens nach der Geburt
 * Das Gehör ist bei Geburt bereits sehr weit entwickelt.
 * Kind allerdings leicht schwerhörig bei Geburt, leisestes Geräusch muss etwa 4x lauter sein um gehört zu werden wie bei einem Erwachsenen
 * Am besten wahrnehmbare Frequenz nahe der menschlichen Sprache
 * Das Erwachsenenniveau des Hörens wird etwa mit 5-8 Jahren erreicht.
 
-çççAkustische Lokalisation
+ç3Akustische Lokalisation
 * Horizontal: Lautstärkeunterschiede helfen beim Erkennen der horizontalen Position
 * Vertikale Ebene: Frequenz wird durch Ohrform verändert je nach Einfall ? 
 * Grösse des Ohrs führt zu unterschiedlicher Veränderung der Frequenz ? schwieriger Ton zu lokalisieren
 
 
-ççççAkustische Lokalisation bei Neugeborenen
+ç4Akustische Lokalisation bei Neugeborenen
 * Neugeborene wenden sich einem Geräusch zu, wenn sie dieses hören
 * Bereits 10 Minuten nach der Geburt findet eine Reaktion auf ein Click-Geräusch neben dem Ohr statt
 * Der minimal wahrnehmbare Abstand zwischen zwei Geräuschquellen:
@@ -1099,13 +1086,13 @@ o 6 Monate: 12-19°
 o 18 Monate: 4°
 o Erwachsene: 1-2°
 
-ççççFrühe Wahrnehmungsmuster - Klangmuster
+ç4Frühe Wahrnehmungsmuster - Klangmuster
 Auswirkung auf die eigene gesprochene “Sprache”:
 ? Französische: Betonung zum Ende des Wortes hin:
 ? Deutsch: Betonung des Anfangs des Wortes:
 ? Wirkt sich auf das Schreien von Neugeborenen aus: Betonung am Anfang/ Ende des Schreies
 
-ççççFrühe Wahrnehmungskompetenzen – Kategoriale Lautwahrnehmung
+ç4Frühe Wahrnehmungskompetenzen – Kategoriale Lautwahrnehmung
 Säuglinge hören menschlicher Sprache ausdauernder zu als ähnlich strukturierten nicht-menschlichen Lauten.
 Säuglinge können zwischen verschiedenen Lauten unterscheiden («ba» vs. «ga»).
 Säuglinge können zwischen verschiedenen Voice-Onset-Times unterscheiden («ba» vs. «pa»).
@@ -1115,12 +1102,12 @@ Phoneme (Vokale und Konsonanten) aus verschiedenen Sprachen können im Säuglingsa
 Die Menge an wahrgenommenen Lauten kann trainiert werden
 ? bilingual aufgewachsene Kinder
 ? Mit Mandarin trainierte Kinder
-ççççWahrnehmung von Rhythmus und Musik
+ç4Wahrnehmung von Rhythmus und Musik
 Überall auf der Welt singen Eltern zu ihren Kindern. Kinder im Alter von 7-10 Monaten hören dem Singen (auch in einer Fremdsprache) etwa doppelt so lange zu wie normalem Sprechen, bevor sie unruhig werden. 
 Kinder schauen sich ein Video ihrer singenden Mutter aufmerksamer an als ein Video ihrer sprechenden Mutter. Singen für Kinder ist ähnlich wie die sogenannte Infant-Directed Speech: langsamer, deutlicher, höhere Tonlage.
 
 
-ççççFrühe Wahrnehmungsmusterkompetenzen - Klangmuster
+ç4Frühe Wahrnehmungsmusterkompetenzen - Klangmuster
 Kinder können bereits in frühem Alter zwischen ähnlich klingenden Mustern unterscheiden
 ? Tonleiter aufwärts vs. abwärts
 ? Zwei Silben vs. drei Silben
@@ -1129,7 +1116,7 @@ Kinder können bereits in frühem Alter zwischen ähnlich klingenden Mustern unters
 -Kinder bevorzugen konsonante vs. dissonante Tonabfolgen 
 
 
-ççççPerceptual Attunement: Melodie und Rhythmus
+ç4Perceptual Attunement: Melodie und Rhythmus
 Melodie-Wahrnehmung
 ? Familiarisierung mit harmonischer Musik
 ? Test mit veränderter Note, in gleicher Tonart vs. in anderer Tonart
@@ -1139,7 +1126,7 @@ Melodie-Wahrnehmung
 Wahrnehmungssystem schränkt sich stark ein mit fortschreitendem Alter, es ist für ein Kind aber immer noch leichter, neue Rhythmen zu erlernen wie für einen Erwachsenen.
 
 
-ççççWahrnehmung von Rhythmus und Musik
+ç4Wahrnehmung von Rhythmus und Musik
 Kinder erkennen die Musik eines Liedes auch, wenn nur der Rhythmus mit einem Stock nachgemacht wird, also immer der gleiche Ton erklingt.
 Kinder orientieren sich einzig am Rhythmus, egal ob es nur ein Rhythmus oder wirkliche Musik ist.
 Rhythmische Bewegungen bei Kindern stärker bei Musik wie bei Sprache.
@@ -1148,11 +1135,11 @@ Rhythmische Bewegungen bei Kindern stärker bei Musik wie bei Sprache.
 
 
 
-ççIntermodale Wahrnehmung
+ç2Intermodale Wahrnehmung
 Intermodalität: Fähigkeit, Wahrnehmungsinhalte aus verschiedenen Sinnesgebieten miteinander zu verbinden.
 
-çççGrundlagen der intermodalen Wahrnehmung 
-ççççHypothesen zur Entwicklung der intermodalen Wahrnehmung
+ç3Grundlagen der intermodalen Wahrnehmung 
+ç4Hypothesen zur Entwicklung der intermodalen Wahrnehmung
 Hypothese 1:
 Zu Beginn: Verschiedene Sinnesmodalitäten getrennt
 Verknüpfung durch Erfahrung, dass Reize oft simultan mehrere Sinne gleichzeitig stimulieren
@@ -1162,20 +1149,19 @@ Verknüpfung verschiedener Sinnesmodalitäten ist eine fundamentale Charakteristik
 Von Beginn an vorhanden
 
 
-çççKombinationen von Modalitäten
-ççççHören --> Sehen
+ç3Kombinationen von Modalitäten
+ç4Hören --> Sehen
 Kinder drehen sich bei einem Geräusch zu diesem hin, um zu sehen, mit welchem Objekt dieses Geräusch verknüpft ist. Sie haben also schon eine Verknüpfung erstellt, dass dort wo etwas zu hören ist, auch etwas zu sehen ist.
 
-ççççSehen --> Hören
+ç4Sehen --> Hören
 Präferenz für Kontingenzen ab 4 Monaten. -->Kinder haben 2 verschiedene Töne gehört, sahen dann dorthin, wo der Ton dazupasste.
 
-ççççFühlen --> Sehen
-
+ç4Fühlen --> Sehen
 Kinder, die das Stabringpaar hatten, schauten das lockere Ringpaar länger an, Kinder die das lockere Ringpaar hatten, schauten das Stabringpaar länger an
 
 Wenn Kinder einen Schnuller im Mund hatten, schauten sie den entsprechenden Schnuller länger an als einen anderen Schnuller.
 
-ççççWeitere Kontingenten
+ç4Weitere Kontingenten
 Ab ca. Mitte des ersten Lebensjahres können Kinder…
 * sich bewegende Lippen zu den jeweiligen Sprechgeräuschen zuordnen.
 * das Alter der Stimme (Kind vs. Erwachsener) zuordnen
@@ -1183,41 +1169,39 @@ Ab ca. Mitte des ersten Lebensjahres können Kinder…
 * der Stimme ein Geschlecht zuordnen
 
 
-ççççMcGurk-Effekt bei Säuglingen
+ç4McGurk-Effekt bei Säuglingen
 Säuglinge sehen länger zum noch nicht bekannten Laut hin.
 
 
-ççççPerceptual Attunement bei intermodaler Wahrnehmung
+ç4Perceptual Attunement bei intermodaler Wahrnehmung
 4-6 Monate: Präferenz für das passende Gesicht
 8-10 Monate: Keine Präferenz mehr
 
 
-çççIntersensory Redundancy
+ç3Intersensory Redundancy
 Information unabhängig von aufnehmender Sinnesmodalität ? Amodal
 Informationen die über mehrere Sinne aufgenommen werden ? Multimodal
 Information, die über mehrere Sinne aufgenommen wird ? Redundant (mehrfach), Salient (=hervorstechend) & wird als wichtiger wahrgenommen.
 
 
-ççççMolyneux-Problem
+ç4Molyneux-Problem
 Frage: Können blinde Personen, welche durch ertasten zwischen verschiedenen Objekten unterscheiden können, diese nur visuell zuordnen, wenn sie plötzlich doch sehen können?
 Befund: Die Personen können die Objekte visuell nicht zuordnen, lernen den Unterschied aber schnell.
 
 
-ççMethodische Aspekte
-
-çççPräferenzen
-
-ççççFamiliar vs. Novel
+ç2Methodische Aspekte
+ç3Präferenzen
+ç4Familiar vs. Novel
 Visuelle Wahrnehmung: Komplexer oder sozialer Stimulus wird länger angeschaut als ein weniger komplexer Stimulus.
 Intermodale Wahrnehmung: Übereinstimmender (familiar) Stimulus wird länger angeschaut als nicht-übereinstimmender (unfamiliar) Stimulus
 
-ççççGoldilocks-Effekt
+ç4Goldilocks-Effekt
 Präferenz eines Säuglings, sich mit Ereignissen zu beschäftigen, die für ihn noch nicht zu schwierig aber auch nicht zu einfach sind.
 
-ççççNovelty Preference
+ç4Novelty Preference
 Indikator, dass Repräsentation des bekannten Stimulus aufgebaut wurde. Ein neuer Stimulus wird an bereits vorhandene Repräsentation angepasst.
 
-ççççFamiliarity Preference
+ç4Familiarity Preference
 Tritt vor allem auf, wenn der zu verarbeitende Stimulus nur teilweise mit der Repräsentation übereinstimmt.
 
 
@@ -1226,22 +1210,20 @@ Zuerst nimmt die familiar preference zu, da sich das Kind noch nicht ganz sicher
 
 
 
-çSprache
-
-ççGrundlagen
-
-çççSprache repräsentiert unser Weltbild
+ç1Sprache
+ç2Grundlagen
+ç3Sprache repräsentiert unser Weltbild
 Symbolisch: basierend auf sozialen Konventionen. Eine Gruppe an Menschen haben sich auf eine gewisse Menge an Symbolen (z.B. Alphabet) zur Darstellung ihrer Sprache geeignet.
 Arbiträr: (=dem Ermessen überlassen, willkürlich), ohne Gemeinsamkeiten mit dem Referenten
 Grammatisch: wobei Symbole zu einem bestimmten Muster angeordnet werden und so eine bestimmte Bedeutung bekommen. Es werden Regeln gemacht, wie genau Symbole zu Wörtern werden können und wie diese Worte dann zu Sätzen werden.
 
-çççGrundkomponenten der Sprache
+ç3Grundkomponenten der Sprache
 Sprache muss verstanden und produziert werden können. Wir müssen verstehen was andere sagen, schreiben und gebärden und wir müssen zu anderen sprechen, schreiben und gebärden können.
 Eine Sprache ist generativ, hat also eine endliche Anzahl an Zeichen, eine «endliche» Anzahl an Wörtern, eine unbegrenzte Anzahl an Sätzen und eine unbegrenzte Anzahl an Gedanken.
 
 Die Fähigkeit, die menschliche Sprache zu erlernen, ist eines der wesentlichen Merkmale unserer Spezies. Viele Tiere haben zwar Kommunikationssysteme, doch nur die menschliche Sprache erlaubt den Aufbau einer unendlich grossen Anzahl an Sätzen. In der menschlichen Sprache können nicht nur Bedürfnisse und Wünsche geteilt werden, sondern auch über die Vergangenheit und Zukunft kommentiert werden.
 
-çççç5 Grundkomponenten
+ç45 Grundkomponenten
 1. Phoneme: Laute, Buchstaben, Bsp.: /a/, /au/
 2. Morpheme: Worte oder kleinste bedeutungstragende Einheiten der Sprache, Bsp.: Haus
 3. Syntax: Regeln, wie die Worte in dieser Sprache korrekt angeordnet und kombiniert werden können.
@@ -1251,31 +1233,31 @@ Die Fähigkeit, die menschliche Sprache zu erlernen, ist eines der wesentlichen M
 Sprache hat eine hierarchische Struktur. Hier wird ersichtlich, dass Phoneme auch Morpheme sein können, wenn sie eine eigene Bedeutung haben.
 
 
-çççSprachproduktion und -rezeption
-ççççWas wird für den Spracherwerb benötigt?
+ç3Sprachproduktion und -rezeption
+ç4Was wird für den Spracherwerb benötigt?
 Das menschliche Gehirn muss…
 * Sprache wahrnehmen können.
 * Sprache produzieren können.
 Für dies benötigt das Gehirn oft andere Organe, um die Reize überhaupt aufnehmen & produzieren zu können (Ohren, Stimmbänder, …)
 
-ççççPhänomene: Automatische Ergänzung
+ç4Phänomene: Automatische Ergänzung
 Es kann mit Sprache bewusst Aufmerksamkeit auf ein Objekt gelenkt werden. Bsp.: «Wo ist der Kuchen?» --> Blick bleibt länger auf einem Bild eines Kuchens als auf dem Bild eines Autos.
 Wir ergänzen Sätze immer mit im Kontext logischen Wörtern. Bsp.: «Der Junge isst den leckeren Kuchen.» --> Blick bleibt ab Wort «isst» länger auf dem Kuchen wie auf dem Auto.
 
-ççççSprachproduktion: Broca-Areal
+ç4Sprachproduktion: Broca-Areal
 Patient “Monsieur Tan” (Paul Broca): Konnte nach einem Schlaganfall gesprochene und geschriebene Sprache verstehen, sie aber nicht mehr sprechen ? Broca-Aphasie: Broca-Areal, welches das motorische Sprachzentrum ist, funktionierte nicht mehr.
 
-ççççSprachperzeption: Wernicke-Areal
+ç4Sprachperzeption: Wernicke-Areal
 Betroffene bei einem Fehler im Wernicke-Areal (Carl Wernicke), dem sensorischen Sprachzentrum, sind nicht mehr in der Lage, Gesagtes zu verstehen. Sie produzieren daher nur noch einen Kauderwelsch, den weder der Zuhörende, noch ihnen selbst verständlich ist. Da sie selbst auch nicht mehr verstehen, was sie sagen, ist die gesprochene Sprache nur noch ein Kauderwelsch. Ein Aussetzen dieser Gehirnregion nennt man Wernicke-Aphasie.
 
-ççççBroca & Wernicke are dead
+ç4Broca & Wernicke are dead
 Moderne Sicht
 ? Verteilte Architektur, die kortikale und subkortikale Komponenten beinhaltet
 ? Verteilte anatomische Konnektivität
 ? Starke Abhängigkeit von domänenübergreifenden neuronalen Ressourcen
 
 
-çççLateralisierung der Sprache
+ç3Lateralisierung der Sprache
 Lateralisierung: Aufteilung auf die beiden Gehirnhälften.
 Bei 90% der Rechtshänder ist die linke Hemisphäre mehrheitlich für die Sprache zuständig. Diese Aufteilung besteht bereits bei Kindern. Die linke Hemisphäre wird aktiviert bei gesprochener Sprache, die rechte Hemisphäre bei nichtmenschlichen Geräuschen.
 Die Lateralisierung beginnt bereits bei Säuglingen und die Stärke der Lateralisierung steigt mit dem Alter.
@@ -1283,30 +1265,26 @@ Die Lateralisierung beginnt bereits bei Säuglingen und die Stärke der Lateralisi
 
 
 
-çççPlastizität
-ççççSensible Phase
+ç3Plastizität
+ç4Sensible Phase
 Es gibt starke Hinweise dafür, dass die ersten 5 Lebensjahre für die Sprachentwicklung von starker Bedeutung sind, da sie das Fundament für die weitere Sprachentwicklung bilden. Wenn sich die Sprache in der sensiblen Phase nicht gut entwickelt wird der spätere Spracherwerb erschwert und weniger erfolgreich.
 
 Deprivationsfälle: Victor, das «Wolfskind» (1800); Genie 1970
 
 Hirnverletzungen hinterlassen im Erwachsenenalter mit grösserer Wahrscheinlichkeit permanente Schäden wie im Kindesalter, da im Kindesalter die Funktionen noch von anderen Gehirnregionen übernommen werden können.
 
-ççççZweitsprachenerwerb
+ç4Zweitsprachenerwerb
 Je nach Zeitpunkt des Erlernens der Zweitsprache findet eine unterschiedliche kortikale Organisation statt. Bei frühem Erlernen ist generell die linke Hemisphäre mehrheitlich dafür zuständig und die Sprache wird dort organisiert. Bei späterem Erlernen findet eine weniger lokalisierte Verarbeitung statt.
 Die Qualität der Grammatik steht im Zusammenhang mit dem Alter des Beginns des Zweitspracherwerbs und NICHT mit der Dauer, mit der man mit der Sprache konfrontiert wird. Dies gilt auch für Gebärdensprache.
 
 Newport: Theorie des “Weniger-ist-mehr”: Kinder nehmen Sprache in kleineren Portionen auf und sind deswegen flexibler. Kinder nehmen Sprache nicht in ganzen Sätzen auf, sondern in einzelnen Worten.
 
-ççççEntwicklung der kritischen / sensiblen Phase
 
-
-
-çççEinfluss der Umwelt
+ç3Einfluss der Umwelt
 Das menschliche Gehirn muss Sprache aus der Umwelt wahrnehmen und verstehen und eigenen Sprache produzieren können. Die menschliche Umwelt muss die Sprache vermittelt bekommen und selbst die Sprache anwenden können.
 
 
-ççVorläufer der verbalen Kommunikation
-
+ç2Vorläufer der verbalen Kommunikation
 * Intersubjektivität: Mehrere Personen konzentrieren sich auf ein gleiches Thema um gut miteinander kommunizieren zu können.
 * Primäre Intersubjektivität: Dynamische Interaktion (face-to-face). Zwei Entitäten haben ein gemeinsames Erleben und teilen Gemütszustände. Der Inhalt ist die Interaktion per se.
 * Sekundäre Intersubjektivität: Triadische Interaktion. Zwei Entitäten haben eine gemeinsame Aufmerksamkeit und Kommunikation hinsichtlich einer dritten Entität unter der Berücksichtigung der mentalen Zustände des Anderen.
@@ -1315,9 +1293,8 @@ Das menschliche Gehirn muss Sprache aus der Umwelt wahrnehmen und verstehen und 
 * Directing Attention: Kinder sind in der Lage, die Aufmerksamkeit des Interaktionspartners aktiv auf ein Objekt ihres Interesses zu lenken.
 
 
-ççSpracherwerb
-
-çççInfant directed speech
+ç2Spracherwerb
+ç3Infant directed speech
 * Langsameres Sprechen
 * Höhere Tonlage
 * Grösserer Tonumfang
@@ -1332,41 +1309,41 @@ Man unterhält sich mit Kindern und Tieren unterschiedlich wie mit Erwachsenen. K
 
 
 
-çççSprachwahrnehmung
-ççççProsodische Kompetenz
+ç3Sprachwahrnehmung
+ç4Prosodische Kompetenz
 Prosodie: Charakteristischer Rhythmus, Tonfall, Melodie, Tempo und Intonation. Babys sind sehr sensitiv für die Prosodie der Sprache, die sie hören. Ihre Sprachwahrnehmung ist auf ihre eigene Sprache spezialisiert.
 Phoneme: Das Differenzieren von Phonemen scheint angeboren und unabhängig von Erfahrung zu sein. Im ersten Lebensjahr können Babys besser zwischen verschiedenen Lauten differenzieren wie Erwachsene. Ab etwa 8 bis 12 Monaten nimmt diese Differenzierungsfähigkeit stark ab.
 
-ççççEntwicklung bis 12 Monate
+ç4Entwicklung bis 12 Monate
 Es findet ein gewisses statistisches Lernen/ Verteilungscharakteristik statt. Bestimmte Laute treten mit höherer Wahrscheinlichkeit zusammen auf als andere (z.B. eigener Name, ...). Gewisse Laute treten meist innerhalb eines Wortes auf (S-T, S-P,...), gewisse treten fast nur bei aufeinander folgenden Wörtern auf (S-D (Das Dach),...).
 Es findet eine Familiarisierung von Lautabfolgen statt. Dadurch hören Kinder bekannten Lautabfolgen länger zu, wie solchen, die sie noch nicht kennen.
 
-ççççDie ersten Worte bei der Sprachwahrnehmung
+ç4Die ersten Worte bei der Sprachwahrnehmung
 Problem: Worte müssen erkannt und verstanden werden.
 Worterkennen: Ab etwa 4 Monaten können Babys ihren eigenen Namen erkennen, da dies mit Abstand das am meisten gehörte Wort ist.
 Wortverstehen: Problem der Referenz: Die Beziehung zwischen dem Wort und seiner Bedeutung muss erst gefunden werden. Ab etwa 6 Monaten finden erste Referenzfixierungen statt. Erste Wörter (Mama, Papa, …) werden also mit einer Bedeutung assoziiert.
 
 
-çççSprachproduktion
-ççççVorläufer
+ç3Sprachproduktion
+ç4Vorläufer
 * 0-2 Monate: Kinder schreien, niesen, seufzen, rülpsen, …
 * Ab 6-8 Wochen: Gurren: einfache sprachliche Laute wie «ooh» und «aah». Diese Laute dienen hauptsächlich der Selbstunterhaltung. Sie versuchen auch die Laute der Eltern zu imitieren.
 * 6-10 Monate: Kinder beginnen zu plappern.
 
-ççççPlappern
+ç4Plappern
 Produktion von Konsonant-Vokal-Verbindungen mit wortähnlicher Intonation. Es werden einfach Silben aneinandergehängt, so bekommen Kinder Kontrolle über ihre Sprachwerkzeuge. Sie nehmen die Merkmale der Muttersprache an.
 Auch gehörlose Kinder haben eine ähnliche Vokalisation wie hörende Kinder, aber das vokale Plappern ist spät und begrenzt. Sie adaptieren aber ein gebärdenhaftes, manuelles Plappern.
 
-ççççErste Worte
+ç4Erste Worte
 Erster Geburtstag
 Versteht etwa 25 Worte, kann etwa 1 Wort wirklich sprechen
 
 Die Sprachwahrnehmung entwickelt sich vor der Sprachproduktion. Die frühe Wortproduktion ist limitiert durch die Laute, die das Baby aussprechen kann. Die ersten Worte sind Benennungen von vertrauten Dingen (Personen, Haustieren, wichtigen Gegenständen, häufige Ereignisse und Routinen). Es findet sich ein hoher Anteil an Substantiven im frühen Produktionswortschatz.
 
-ççççÜberdehnung
+ç4Überdehnung
 Die Verwendung eines bestimmten Wortes in einem weiteren Kontext, als es angemessen wäre (z.B. Papa für alle Männer) ist kein Mangel an Wissen oder Verständnis, sondern eher ein Mangel an produktiven Möglichkeiten. Das Kind kennt das richtige Wort noch nicht.
 
-ççççDas Lernen von Wörtern
+ç4Das Lernen von Wörtern
 12 Monate: 1 Wort
 16 Monate: 40 Wörter
 18 Monate: 50 Wörter
@@ -1377,11 +1354,11 @@ Erwachsene: 20’000-50’000 Wörter
 Kinder lernen zwischen 18 Monaten und Schuleintritt etwa 5-10 neue Wörter pro Tag.
 
 
-çççSchnelles Wortlernen
-ççççVokabelspurt
+ç3Schnelles Wortlernen
+ç4Vokabelspurt
 Wenn ein Kind mit 24 Monaten noch weniger als 50 Wörter sprechen kann wird es als «Late-Talker» eingestuft. Die kritische Schwelle wurde bei 50 Wörtern gesetzt.
 
-ççççQuellen der Unterstützung
+ç4Quellen der Unterstützung
 Sprachliches Hervorheben von relevanten Begriffen durch besondere Betonung oder dass der relevante Begriff am Ende des Satzes platziert wird.
 Unsicherheit kann reduziert werden, indem die Objekte, die im Zentrum sind benennt.
 Wiederholungen helfen dem Kind sehr.
@@ -1389,7 +1366,7 @@ Wiederholungen helfen dem Kind sehr.
 Die Menge an Wörtern, die ein Kind hört und so auch gelernt hat, ist oft abhängig vom Sozioökonomischen Status.
 Kinder aus armen, aber kommunikativen Familien haben Sprachkenntnisse und Gehirnaktivitäten, welche denen aus reichen Familien gleichen.
 
-ççççSchnelle Bedeutungsbildung
+ç4Schnelle Bedeutungsbildung
 Fast Mapping: Kinder lernen Wörter oft durch ein einziges Benennungsereignis aus dem Kontext.
 Statistisches Lernen: Beziehungen zwischen Wörtern und Objekten werden eher über statistische Regularitäten gelernt.
 
@@ -1402,8 +1379,8 @@ Neue Wörter bezeichnen das ganze Objekt, nicht Teile von Objekten. Nur wenn das 
 
 
 
-çççSatzlernen
-ççççEin-Wort-Sätze
+ç3Satzlernen
+ç4Ein-Wort-Sätze
 Kinder verwenden ihren begrenzten Produktionswortschatz so, dass ihre Äusserungen aus einem einzigen Wort bestehen.
 Nur ein Wort wird geäussert, hat aber eine komplexe Bedeutung.
 	? Bsp.: Mattis: “Ball!” = “Gib mir den Ball, ich will damit spielen!”
@@ -1411,7 +1388,7 @@ Oft sind diese Sätze mit Gesten kombiniert.
 	? Bsp.: Mattis: “Ball!” + Hände nach dem Ball strecken
 Können sukzessiv geäussert werden ? Übergang zum Zweiwortstadium
 
-ççççZweiwortsätze
+ç4Zweiwortsätze
 Inhaltliche Beziehung ist zwischen den beiden Satzelementen erkennbar.
 Grammatische Bedeutungen:
 ? Handelnder - Handlung ? Papa schläft 
@@ -1422,14 +1399,14 @@ Grammatische Bedeutungen:
 ? Nichtexistenz ? Milch weg 
 ? Wiederauftreten ? mehr Saft
 
-ççççDrei- und Mehrwortsätze
+ç4Drei- und Mehrwortsätze
 Zu Beginn: Telegraphische Sprache, bei der gewisse grammatische Markierungen konsequent ausgelassen werden. Bsp.: “Ich schaue Autos.”, “Lege es Tisch.”, ...
 Erklärung: Die Länge einer Äusserung ist kognitiv begrenzt und die grammatischen Kategorien sind noch nicht erworben.
 
-ççççSatzlänge
+ç4Satzlänge
 Die verwendete Satzlänge nimmt mit dem Alter rapide zu. Die Satzlänge wird in Morphemen und nicht in Wörtern gemessen. Sie erfasst den grammatischen Fortschritt und nur produktive Äusserungen werden gemessen.
 
-ççççÜbergeneralisierungen
+ç4Übergeneralisierungen
 Das Kind wendet eine erlernte grammatische Form auch in nicht korrekten Kontexten an.
 ? Pferd - Pferden
 ? trinken - getrinkt
@@ -1444,12 +1421,9 @@ U-förmige Entwicklung
 
 
 
-çIntelligenz, Schule
-
-ççIntelligenz
-
-
-çççAnfänge der Intelligenzmessung
+ç1Intelligenz, Schule
+ç2Intelligenz
+ç3Anfänge der Intelligenzmessung
 Alfred Binet und Théodore Simon
 
 Ziel: Abschneiden in Intelligenztest soll als Prädiktor für schulische Leistungen dienen. Lehrer konnten nicht gut eine Vorhersage machen, da der Mensch oft voreingenommen ist durch persönliche Merkmale der Kinder. Es bestand auch ein Interesse daran, Kinder mit Lernproblemen identifizieren zu können.
@@ -1457,19 +1431,18 @@ Grundidee: Zentrale Kompetenzen der Intelligenz = höhere, komplexere Fähigkeiten
 1905: Binet-Simon-Test, Weiterentwicklung in Standford-Binet-Test (1916)
 
 
-çççWas ist Intelligenz?
+ç3Was ist Intelligenz?
 General Intelligence: Leistungen in verschiedenen kognitiven und neurophysiologischen Bereichen korrelieren häufig miteinander. Korrelation über viele Menschen vorhanden, bei Individuen aber häufig nicht anzutreffen.
 
 Intelligenz: Wenige grundlegende Fähigkeiten
 Fluide (logisches Denken, Verarbeitungsgeschwindigkeit, Schlussfolgern, Problemlösen) vs. kristalline (erlerntes Wissen über Zeit in Form von Welt- und Faktenwissen) Intelligenz
 Primary mental abilities: 7 Primärfaktoren: Wortflüssigkeit, Sprachverständnis, Schlussfolgerndes Denken, Räumliches Vorstellungsvermögen, Rechenfertigkeit, Merkfähigkeit, Wahrnehmungsgeschwindigkeit.
 
-ççççDrei-Schichten-Modell
-
+ç4Drei-Schichten-Modell
 Es gibt generelle Intelligenz, welche aber unterteilt wird in Fähigkeiten mittlerer Allgemeinheit. Diese Fähigkeiten folgen zu unterschiedlichen Leistungen in verschiedenen Prozessen.
 
 
-çççMessen von Intelligenz bei Kindern
+ç3Messen von Intelligenz bei Kindern
 Testaufgaben sind abhängig vom Alter des zu testenden Kindes.
 
 Bsp.: Hamburg-Wechsler Intelligenztest für Kinder (Wechsler Intelligence Scale for Children)
@@ -1483,41 +1456,36 @@ Handlungsteil:
 ? Arme, Beine, ... zu einem menschlichen Körper zusammenlegen.
 
 
-çççIntelligenzquotient
+ç3Intelligenzquotient
 IQ-Werte von grossen repräsentativen Gruppen von Kindern eines bestimmten Alters sind normalverteilt.
 Durchschnitt: 100
 Standardabweichung: 15
 
 
-
-
 IQ-Werte sind kontinuierlich. Das heisst dass der IQ-Wert eines Kindes im Alter von 5 Jahren ähnlich ist wie der Wert im Alter von 10 Jahren. Die Korrelation wird geringer, je weiter die Altersabstände sind. Die Korrelation wird aber stabiler mit steigendem Alter. Heisst: Der Unterschied zwischen 5 und 10 Jahren ist kleiner wie bei 5 und 15 Jahren. Der Unterschied ist aber kleiner zwischen 5 und 10 Jahren und 10 und 15 Jahren.
 
 
-çççEinflüsse auf die Intelligenz
-
+ç3Einflüsse auf die Intelligenz
 -IQ-Werte korrelieren mit Schulleistung, Beruf und späterem Einkommen, ...
 -IQ ist stärker korreliert mit späterem beruflichem Erfolg als SES des Elternhauses.
 -IQ ist allerdings nicht der einzige Prädiktor für Erfolg im Leben: Motivation Erfolg zu haben, Gewissenhaftigkeit, Neugierde, Kreativität, Physische und Psychische Gesundheit, soziale Kompetenzen, ... sind alles auch Faktoren.
 
 
 
-ççççEinfluss der Umwelt
+ç4Einfluss der Umwelt
 Sozioökonomischer Status hat Einfluss auf den IQ der Kinder, da oft bessere Schulen und bessere Förderung vorhanden sind.
 
 
-ççççEinfluss von Anlage und Umwelt
+ç4Einfluss von Anlage und Umwelt
 Der Einfluss der Gene wird im Alter stärker, der Einfluss der Umwelt wird im Alter schwächer.
 
-ççççEinfluss der Schulerziehung auf den IQ
-
+ç4Einfluss der Schulerziehung auf den IQ
 Kinder werden klüger, wenn sie in die Schule gehen. Kinder, die an den Grenzen der Klassen sind, sind beinahe gleich alt, können aber deutlich mehr, da sie ein Jahr mehr Schule hatten.
 
 
 IQ-Werte steigen während Schulzeit stärker als während der Sommerferien, besonders bei Kindern aus sozioökonomisch schwachen Familien. (Sommerferien-Effekt). In den Sommerferien kann die schulische Leistung über die Sommerferien sogar abnehmen, wenn das neu erlernte Wissen der Schule nicht mehr repetiert oder angewendet werden muss/ wird.
 
-ççççEinfluss der Geburtenreihenfolge
-
+ç4Einfluss der Geburtenreihenfolge
 Erstgeborene haben im Schnitt höheren IQ, wenn allerdings die älteren Geschwister gestorben sind, übernimmt das nun älteste Kind diesen Platz.
 
 Mögliche Gründe für den Effekt der Geburtenreihenfolge
@@ -1529,17 +1497,15 @@ Paradox: Jüngere kinder beginnen mit höheren IQs, da sie durch die älteren Gesch
 Mit etwa 12 Jahren findet aber eine Kehrtwende statt: Die älteren Kinder überholen ihre jüngeren Geschwister, da sie weniger Zeit mit ihren jüngeren Geschwistern verbringen und so die “intellektuelle Atmosphäre” wieder gesteigert wird.
 
 
-ççççKritik an den IQ-Tests
+ç4Kritik an den IQ-Tests
 In den IQ-Tests werden Aufgabenbereiche abgefragt, die auch in der Schule trainiert werden. IQ-Tests sind eher eine Leistungsvorhersage in der Schule. Zudem werden viele wichtige Aspkete der Intelligenz nicht erfasst (z.B. Kreativität, …).
 
 
-çççFlynn-Effekt
+ç3Flynn-Effekt
 Im Laufe des 20. Jahrhunderts fand in vielen Ländern ein Anstieg des durchschnittlichen IQs statt. Da der Genpool in dieser Zeit relativ stabil blieb, ist der Effekt auf veränderte Umwelt zurückzuführen. Der Effekt ist besonders stark in Familien mit niedrigem SES, da auch ihnen in dieser Zeit vermehrt bessere Gesundheit, bessere Ernährung und bessere Bildung zur Verfügung stand.
 
 
-
-
-çççGeschlechtsunterschiede & Erwartungen
+ç3Geschlechtsunterschiede & Erwartungen
 Es gibt keine generellen, sondern nur spezifische Geschlechtsunterschiede. Aber Jungen und Mädchen können in Teilbereichen unterschiedlich stark sein.
 
 Sprache: Mädchen leicht besser als Jungen
@@ -1554,19 +1520,19 @@ Mathematik: Erst Mädchen besser als Jungen, dann umgekehrt.
 ? Biologie: unbekannt, kein Grund gefunden nach heutigem Stand der Wissenschaft
 ? Umwelt: Erwartungen von Lehrern und Eltern
 
-ççççErwartungen von Lehrern: Der Pygmalion-Effekt
+ç4Erwartungen von Lehrern: Der Pygmalion-Effekt
 Definition: Die Erwartungen, die wir Menschen zeigen, haben signifikante Auswirkungen auf ihre künftige Leistung. 
 
 Stabilität: Künstliche Induktion von Erwartungen funktioniert nur in den ersten zwei Wochen des Schuljahres: Danach sind Lehrkräfte weniger empfänglich für Information, die nicht zum eigenen Bild passen.
 
-ççççMathematik, eine Domäne der Jungen?
+ç4Mathematik, eine Domäne der Jungen?
 Phänomen: Lehrkräfte, Eltern, auch Kinder und Jugendliche selbst halten Jungs fast von Beginn an für mathematisch begabter als Mädchen.
 Fähigkeiten und Interessen: Bei Schuleintritt sind sie noch dicht beieinander, Mädchen werden mit steigendem Alter schlechter in Mathematik.
 Erwartungen: Bereits in der 3. Klasse äussern Mädchen verstärkt Ängste und weniger Vertrauen in ihre Fähigkeiten (unabhängig von tatsächlichen Fähigkeiten). Lehrer trauen ihnen weniger zu als ihren Altersgenossen.
 Betragen, Fleiss und Arbeitsstil: Mädchen werden viel mehr gelobt als Jungen, diese werden hingegen mehr getadelt als Mädchen. 
 Ausnahme: Intellektuelle Leistungen: Wenn Jungen gelobt werden, und wenn Mädchen getadelt werden, dann für ihre intellektuellen Leistungen.
 
-ççççEin Effekt sozialer Kategorisierung?
+ç4Ein Effekt sozialer Kategorisierung?
 Biologie
 ? Jungen spielen eher aktivere Spiele als Mädchen. Mädchen bevorzugen soziale Spiele.
 ? Ist auch in der Tierwelt zu beobachten zum beispiel bei Makaken, Schimpansen und Ratten.
@@ -1575,36 +1541,33 @@ Umwelt
 ? Kinder schauen genau hin, wie die Welt funktioniert und was andere geschenkt bekommen, was sie für Kleidung tragen, ...
 
 
-
-
-çççMotivation / Kognition
+ç3Motivation / Kognition
 ? Kinder orientieren sich in Bezug zu Freundschaften zum Beispiel sehr stark an Ähnlichkeit
 ? Sie wollen ähnlich sein wie ihre Freunde oder Freundinnen also wählen sie möglicherweise Kleidungsstücke oder Spielzeuge aus, die auch ihre Freunde / Freundinnen haben.
 ? Identifikation mit der InGroup (In der Kindheit überwiegend gleichgeschlechtlich).
 
 
-ççLesen und Schreiben
-
-çççSchriftsysteme
-ççççPhonologisches Schriftsystem
+ç2Lesen und Schreiben
+ç3Schriftsysteme
+ç4Phonologisches Schriftsystem
 Jedes Phonem entspricht grundsätzlich einem Graphem (Buchstaben). Es gibt aber keine 1:1-Korrespondenz zwischen Phonem und Graphem. Das gleiche Phonem kann durch unterschiedliche Grapheme ausgedrückt werden. Bsp.: Fass, fast, weiss, … haben alle ein scharfes S, werden aber unterschiedlich geschrieben.
 Das gleiche Grapheme kann unterschiedliche Phoneme ausdrücken. Bsp.: Valdis und Vogel haben beide ein V, es wird aber unterschiedlich ausgesprochen.
 Phonem: kleinste, bedeutungsunterscheidende lautliche Einheit der Sprache
 Graphem: kleinste bedeutungsunterscheidende grafische Einheiten des Schriftsystems einer Sprache
 
-ççççLogographisches Schriftsystem
+ç4Logographisches Schriftsystem
 Willkürliche Zuordnung von Bedeutung zu ikonischem Zeichen. Jedem Zeichen wird eine phonemische, Bedeutung tragende Einheit zugeordnet. Die Zeichen geben nicht das Phoneminventar einer gesprochenen Sprache wieder.
 
-ççççSilbenbasiertes Schriftsystem
+ç4Silbenbasiertes Schriftsystem
 Teile der Zeichen entsprechen den Silben des Wortes.
 
 
-çççVorläuferfähigkeiten des Lesens
+ç3Vorläuferfähigkeiten des Lesens
 Lernen, dass man von links nach rechts liest, dass Wörter durch Leerzeichen getrennt sind und man am Ende einer Zeile an den Anfang der nächsten Zeile springt.
 
 Buchstaben des ABCs lernen: Korrelation mit späterer Leseleistung (bis zur 7. Klasse). Es besteht aber keine direkte, kausale Beziehung. Reines Buchstabentraining hilft nicht.
 
-ççççPhonologisches Bewusstsein
+ç4Phonologisches Bewusstsein
 Phonologisches Bewusstsein: Die Fähigkeit, lautliche Bestandteile in gesprochenen Wörtern zu identifizieren.
 
 ? Segmentierung: Silben trennen, Silben zählen, Phoneme zählen, ...
@@ -1616,7 +1579,7 @@ Phonologisches Bewusstsein: Die Fähigkeit, lautliche Bestandteile in gesprochene
 
 Zu erzielender Effekt: Wer besser liest, hat mehr Freude am Lesen, liest mehr, versteht mehr, hat es einfacher in der Schule.
 
-çççProzesse der schriftlichen Worterkennung
+ç3Prozesse der schriftlichen Worterkennung
 Kinder, die Schwierigkeiten bei der Worterkennung haben, sind beim Lesen schneller frustriert, haben keinen Lesespass.
 
 phonologische Rekodierung
@@ -1625,7 +1588,7 @@ Schriftliche, visuelle Form wird in phonologische Form umgewandelt. Von der phon
 Direkt visuell gestützter Abruf
 Man greift von der visuellen Form direkt auf die Bedeutung des Wortes zu.
 
-ççççEntwicklung der Prozesse
+ç4Entwicklung der Prozesse
 Strategiewahlprozess: Kinder wählen die Strategie aus, die sie am wahrscheinlichsten zur richtigen Lösung bringt.
 
 Entwicklung:
@@ -1637,39 +1600,37 @@ Entwicklung:
 -Positive Korrelation zwischen Fähigkeit zur Rekodierung und direktem Abruf.
 
 
-çççTextverständnis
+ç3Textverständnis
 -Mentales Modell der Situation
 -Fortlaufende Aktualisierung
 -Allgemeine kognitive Faktoren: Basisprozesse, Strategien, Metakognition und Inhaltswissen
 -Je weniger Ressourcen für das Erkennen von Wörtern, desto mehr Ressourcen für den Verstehensprozess.
 
-ççççEinflüsse auf das Textverständnis
+ç4Einflüsse auf das Textverständnis
 * Wie viel Kinder lesen.
 * Wie viel ihnen vorgelesen wurde
 Begründung: Kinder lernen neue Wörter, lernen, wie Geschichten aufgebaut sind. Da Geschichten komplexere Sätze haben, lernen Kinder neue Satzstrukturen.
 
 
-
-
-çççSchreiben
-ççççLow-Level Ziele (Basisprozesse)
+ç3Schreiben
+ç4Low-Level Ziele (Basisprozesse)
 ? Buchstaben richtig schreiben
 ? Rechtschreibung (Wörter richtig schreiben)
 ? Gross- und Kleinschreibung
 ? Zeichensetzung
 
-ççççHigh-Level Ziele
+ç4High-Level Ziele
 ? Aussagen auch ohne Intonation und Gestik verständlich machen ? Reine Sprache reicht zum Verständnis aus: Wortschatz und Wissen über Satzstrukturen benötigt.
 ? Einzelne Punkte zu einem Ganzen ordnen und eine kohärente Geschichte erzählen
 ? Nötige Hintergrundinformationen geben, sodass der Kontext klar wird
 
-ççççAutomatisierung der Low-Level-Prozesse gibt Ressourcen frei für High-Level-Prozesse.
+ç4Automatisierung der Low-Level-Prozesse gibt Ressourcen frei für High-Level-Prozesse.
 ? Positive Korrelation zwischen Beherrschung der Low-Level Fähigkeiten wie Rechtschreibung und Qualität der Aufsätze
 ? Verbesserung mit Alter: Mechanik, Wissen, Strukturierung und Revision sind besser
 
 Metakognition: Der Schreiber muss wissen, welche Informationen der Leser hat bzw. nicht hat, sodass ein verständlicher Satz gebildet werden kann. Diese Fähigkeit bildet sich zum Teil erst in der High School, also in der Pubertät.
 
-ççççLesen durch Schreiben vs. Lernfibel
+ç4Lesen durch Schreiben vs. Lernfibel
 Fibelansatz: Kinder lernen strukturiert Buchstabe für Buchstabe. Wörter werden in einzelne Laute zerlegt. Direkte Korrektur bei Fehlern.
 
 Lesen durch Schreiben: Kinder werden ermuntert, ungestört zu schreiben, ohne Korrekturen befürchten zu müssen.
@@ -1677,19 +1638,16 @@ Lesen durch Schreiben: Kinder werden ermuntert, ungestört zu schreiben, ohne Kor
 Rechtschreibwerkstatt: Lernmaterialien werden vorgegeben, Kinder können sie in beliebiger Reihenfolge auswählen und in selbst gewähltem Tempo anwenden.
 
 
-ççRechnen
+ç2Rechnen
 Kognitive Vorläufer des mathematischen Denkens sind z.B. die Diskriminierung von kleinen Mengen (<4), ab 6 Monaten. Kinder sind anfangs nicht dazu in der Lage, kleine Mengen zu unterscheiden (grosse jedoch schon), deshalb z.B. auch 1+1=1 oder 2. Ebenfalls haben Kinder ein analoges, approximatives Grössenrepräsentationssystem. Das heisst, dass Kinder kleine und grosse Mengen voneinander unterscheiden können, aber nur wenn der Abstand gross genug ist. Dies tritt bei Säuglingen im ersten Jahr auf und ebenfalls bei nicht-menschlichen Primaten. Ab 3-4 Jahren können Kinder dann auch grössere Mengen vergleichen und diskriminieren.
 
 
 
 
-çExekutive Funktionen
-
-ççGrundlagen
-
-çççDas Phänomen
-ççççAufmerksamkeit
-
+ç1Exekutive Funktionen
+ç2Grundlagen
+ç3Das Phänomen
+ç4Aufmerksamkeit
 Orienting
 ? Aufmerksamkeit auf ein bestimmtes Objekt / an einen bestimmten Ort richten
 
@@ -1700,13 +1658,13 @@ Exekutive Funktionen
 ? Kognitive Aktivität beteiligt an Planung zielgerichteten Handelns und Problemlösen. Sie sind auch daran beteiligt, dass man etwas nicht tut, dass nicht hilfreich wäre.
 
 
-çççDefinition Exekutive Funktionen
+ç3Definition Exekutive Funktionen
 Exekutive Funktionen sind kognitive Kontrollprozesse, welche sensorische, motorische, emotionale und kognitive Prozesse so modulieren, dass eine optimale Anpassung an aktuelle Aufgabenforderungen oder Zielsetzungen möglich wird.
 Es ist die Fähigkeit, eine passende Strategie auszuwählen und aufrechtzuerhalten, um ein Problem zu lösen oder ein Ziel zu erreichen.
 Exekutive Kontrolle wird immer dann benötigt, wenn automatische Prozesse nicht zum Ziel führen.
 Sie sind die Fähigkeit passende Strategien auszuwählen und aufrechtzuerhalten, um ein Problem zu lösen und ein Ziel zu erreichen.
 
-ççççExekutive Funktionen sind wichtig bei neuen Aufgaben…
+ç4Exekutive Funktionen sind wichtig bei neuen Aufgaben…
 * die Konzentration benötigen
 * bei denen irrelevante Information unterdrückt werden muss
 * die Planung und Koordination beinhalten
@@ -1716,7 +1674,7 @@ Sie sind die Fähigkeit passende Strategien auszuwählen und aufrechtzuerhalten, u
 * bei denen automatische Prozesse nicht zum Ziel führen
 
 
-çççEinfluss von (zunehmender) Erfahrung
+ç3Einfluss von (zunehmender) Erfahrung
 Erfahrung spielt eine entscheidende Rolle. Bsp.: Autofahren, Tanzen, ...
 Anfänger brauchen viel exekutive Kontrolle, Experten wenig
 
@@ -1726,22 +1684,14 @@ TMS (Transkranielle Magnetstimulation; zu einem gewissen Grad ein “Ausschalten”)
 
 
 
-ççEntwicklung
-
-çççNeurophysiologie
-
-ççççNeuronale Grundlagen
-
+ç2Entwicklung
+ç3Neurophysiologie
+ç4Neuronale Grundlagen
 Dorso-lateraler (DLPFC, blau) und ventrolateraler (VLPFC, grün) präfrontaler Kortex empfangen die verarbeiteten, sensorischen Signale und integrieren sie mit Gedächtnisinhalten und emotionalen Bewertungen. Aufgrund von dieser Basis initiieren sie Handlungen.
-
-
 
 Der präfrontale Kortex gilt als oberstes Kontrollzentrum für eine situationsangemessene Handlungssteuerung. Er ist gleichzeitig auch intensiv an der Regulation emotionaler Prozesse beteiligt.
 
-
-
-
-çççTheoretische Sichtweisen
+ç3Theoretische Sichtweisen
 * Ein gemeinsamer übergeordneter Mechanismus, analog zu Baddeley
 * Zumindest teilweise dissoziierte Mechanismen, analog zu Diamond
 * Integration: Drei wesentliche Mechanismen, analog zu Miyake
@@ -1750,25 +1700,21 @@ Der präfrontale Kortex gilt als oberstes Kontrollzentrum für eine situationsange
 
 
 
-çççAlter 0 bis 5
-
-
-ççççArbeitsgedächtnis
+ç3Alter 0 bis 5
+ç4Arbeitsgedächtnis
 Ermöglicht das Behalten und Ausführen von eigenen Plänen und den Instruktionen Anderer
 Erlaubt das Berücksichtigen verschiedener Antwortalternativen und das Verknüpfen von verschiedenen Ideen.
 Ermöglicht kreatives Verbinden von nicht offensichtlich zusammengehörendem oder die Verknüpfung von Zukünftigem mit Vergangenem
 
-ççççKognitive Flexibilität / Planung
+ç4Kognitive Flexibilität / Planung
 Fähigkeit zur effizienten Anpassung an wechselnde Aufgabenanforderungen
 Mangelnde kognitive Flexibilität wird häufig durch eine Neigung zur sogenannten Perseveration sichtbar. Die Perseveration ist die Tendenz bei einer Aufgabe zu verharren, auch wenn die Bearbeitung einer neuen Aufgabe erforderlich ist.
 Ermöglicht das Planen von Aufgaben sowie das Ändern von Plänen und die Anpassung an neue Anforderungen / Gegebenheiten.
 
-ççççInhibition / Inhibitorische Kontrolle
+ç4Inhibition / Inhibitorische Kontrolle
 Erlaubt das selektive Fokussieren der Aufmerksamkeit auf relevante Aspekte.
 Ermöglicht flexibles Verhalten durch das “Nicht-Ausführen” von präpotenten, vorrangigen Tendenzen wie z.B. Höflichkeit, Diplomatie.
 Ermöglicht es, unsere Aufmerksamkeit und unser Verhalten zu kontrollieren und nicht einfach stimulusgetrieben Handlungen auszuführen.
-
-
 
 
 AlterArbeitsgedächtnisKognitive FlexibilitätInhibition5-12 Monate-Nach ca. 8 Monaten entwickelt sich vor allem die Zeit, wie lange eine Repräsentation aufrechterhalten werden kann, und die Anzahl der Objekte die repräsentiert werden können.
@@ -1784,8 +1730,7 @@ Kind sucht nun zunächst bei Ort A, obwohl es gesehen hat, dass das Objekt an Ort
 -Haben noch wenig Selbstregulation, Erwachsene als Regulatoren2-5 Jahre-Können mehr Informationen aufrecht halten, können so Erfahrungen wiedergeben. 
 -Können einzelne Ereignisse einer Geschichte behalten.-Gedanken über das Hier und Jetzt hinaus.
 -Die Planungsfähigkeit im Spiel wird stark verbessert-Fokussierte Aufmerksamkeit: Können die fokussierte Aufmerksamkeit länger aufrechterhalten
-ççççAltersbereich 3-5 Jahre: Arbeitsgedächtnis
-
+ç4Altersbereich 3-5 Jahre: Arbeitsgedächtnis
 Rückwärtsspanne
 Kinder können mit 3 Jahren ca. 1,5 Objekte in umgekehrter Reihenfolge wiedergeben. Verbessert sich auf ca. 2,9 Objekte im Alter von 5 Jahren. Dies gilt sowohl für räumliche als auch für phonologische Objekte.
 
@@ -1793,7 +1738,7 @@ Kinder können mit 3 Jahren ca. 1,5 Objekte in umgekehrter Reihenfolge wiedergebe
 Kinder werden konstant besser
 
 
-ççççAltersbereich 2-5 Jahre: Inhibition
+ç4Altersbereich 2-5 Jahre: Inhibition
 Simple Response Inhibition Tasks: Enthalten keinen (oder nur einen minimalen) Anteil an Arbeitsgedächtnisfunktionen. 
 Bsp.: Man sagt dem Kind, dass es mit einer Aktivität aufhören soll; Marshmallow-Test (“Wenn du wartest bekommst du 2 Marshmallows!”)
 
@@ -1805,7 +1750,7 @@ Response Inhibition = Reaktionshemmung
 Kompetenzen für einfache Aufgaben entwickelt sich schon schnell mit 3 Jahren. Komplexere Aufgaben (Bsp.: Simon Says) werden entsprechend später gelöst. Selbst Kinder im Alter von 4-5 Jahren haben noch Schwierigkeiten.
 
 
-ççççAltersbereich 2-5 Jahre: Kognitive Flexibilität
+ç4Altersbereich 2-5 Jahre: Kognitive Flexibilität
 Shifting:
 Formieren einer mentalen Aufteilung, danach Wechseln der mentalen Aufteilung.
 Fehlerrate: 
@@ -1813,23 +1758,20 @@ Fehlerrate:
 4 Jahre: 24-52%
 
 
-
-
-ççWeiteres
-çççLangfristige Effekte
-ççççLangfristige Auswirkungen der Selbstkontrolle
-
+ç2Weiteres
+ç3Langfristige Effekte
+ç4Langfristige Auswirkungen der Selbstkontrolle
 Hohe Selbstkontrolle führt zu gesundem Lebensstil, weniger Drogenkonsum und vor allem weniger Drogenabhängigkeit. 
 Es führt ebenfalls zu höherem SES, weniger finanziellen Problemen, ...
 Hohe Selbstkontrolle führt zu weniger alleinerziehenden Eltern und weniger Kriminalität.
 
-ççççExekutive Kontrolle und Schulleistungen
+ç4Exekutive Kontrolle und Schulleistungen
 Exekutive Funktionen sind während der gesamten Schulzeit wichtig für die schulische Leistungsfähigkeit.
 Selbstkontrolle und Selbstdisziplin haben grossen Einfluss auf die schulische Leistungsfähigkeit und unabhängig von und sogar stärker als der IQ.
 Stärke des Arbeitsgedächtnisses und der Inhibition sagen Leseleistung und mathematische Leistung voraus.
 Exekutive Funktionen sind bei Schuleintritt noch lange nicht vollkommen ausgebildet.
 
-ççççEinfluss des Sozioökonomischen Status
+ç4Einfluss des Sozioökonomischen Status
 Kinder in Armut…
 * sind im Vergleich zu ihren einkommensstärkeren KollegInnen weniger “schulreif” bei Eintritt in die Schule.
 * haben weniger Zugang zu einer qualitativ hochwertigeren ausserfamiliären Betreuung und Vorschule, die eine optimale Selbstregulierung emotional und kognitiv unterstützen.
@@ -1842,14 +1784,14 @@ Wichtig ist, dass die elterliche Betreuung teilweise die Auswirkungen der Armut 
 ? weniger sensible Erziehung ist mit höherem Niveau an Cortisol assoziiert
 ? höheres Mass an Cortisol korreliert mit schlechteren Exekutiven Funktionen
 
-ççççTraining der exekutiven Funktionen
+ç4Training der exekutiven Funktionen
 REDI-Programm: Verbesserter Sprachunterricht sowie Training der sozial-emotionalen Fähigkeiten der Kinder.
 
 CSRP: Fokus auf Lehrerausbildung und das Coaching durch einen Berater für psychische Gesundheit wurde entwickelt, um das emotionale Klima im Klassenzimmer, das Konfliktniveau der Kinder mit Gleichaltrigen und den Stress der Lehrer verbessern um ein Klassenzimmerumfeld zu schaffen, in dem Kinder besser in der Lage wären, schwierige Situationen zu bewältigen.
 
 Tools of Mind: Fördert gezielt die Entwicklung von EF als Mittel zur Verbesserung des Lernens und Engagements der Schüler. Scaffolding durch soziodramatisches Spiel, die die Fähigkeit der Kinder fördert, sich abzuwechseln, die Perspektive anderer zu nehmen.
 
-çççMotivationale Effekte
+ç3Motivationale Effekte
 Cool EF: Emotional neutral: Arbeitsgedächtnis-Aufgaben
 Hot EF: Beinhalten motivationalen Aspekt: Belohnungs-, Delay-Aufgaben
 
@@ -1859,33 +1801,27 @@ Cool EF ? Hot EF:
 * Wenn vor Delay-Aufgabe gesagt wird, dass es “gut ist zu warten” dann warteten die Kinder tatsächlich länger als in einer Kontrollbedingung
 * Dissoziation zwischen Rat an den VL (Cool EF) und eigener Handlung bei Delay-of-Gratification (Hot EF)
 
-ççççExekutive Funktionen vs. Emotionsregulation
+ç4Exekutive Funktionen vs. Emotionsregulation
 Exekutive Funktionen sind Aspekte der Kognition, also die willentliche Kontrolle des Denkens in zielgerichteten, zielorientierten Aktivitäten.
 
 Emotionsregulation ist hingegen die intra- und interpersonelle Modulation einer aktivierten Emotion durch eine Vielzahl von kognitiven und verhaltensorientierten Strategien.
 
-ççççEmotionsregulation: Effekte bezüglich Schule
+ç4Emotionsregulation: Effekte bezüglich Schule
 Gute Emotionsregulation ermöglicht Interaktionen mit Lehrern und Gleichaltrigen. Sie fördert als das Schulengagement, die Freude am Besuch der Schule und das Lernen und die Leistung.
 Kinder, die (positive und negative) Emotionen angemessen regulieren können, haben bessere Leistungen in Mathematik und Lesen.
 Kinder, die Schwierigkeiten mit der Emotionsregulation haben, werden eher eine Ablehnung von Gleichaltrigen erfahren.
 
-ççççIntegratives Modell zu Exekutiven Funktionen und Emotionsregulation
 
 
-
-
-
-çSelbst
-
-ççGrundlagen
-
-çççWas ist das Selbst?
+ç1Selbst
+ç2Grundlagen
+ç3Was ist das Selbst?
 Das Selbst besteht aus dem Wissen und Gefühlen über sich selbst, und in der persönlichen Überzeugung etwas bewirken zu können.
 Es ist ein Konzeptsystem, das aus Gedanken und Einstellungen über sich selbst besteht.
 Es hat die Grundlegende Funktion das Individuum zu definieren und die Antworten auf die Frage “Wer bin ich?” herauszufinden. Zudem hat es das Ziel herauszufinden, was uns als Menschen einzigartig macht.
 
 
-ççççZentrale Begriffe
+ç4Zentrale Begriffe
 * Selbsterkennung: Wissenserwerb über die eigene Persönlichkeit. Die eigene Wahrnehmung der eigenen Person unterscheidet sich von der Wahrnehmung von anderen Menschen und Objekten.
 * Selbstaufmerksamkeit: Ausmass, in dem man seine Aufmerksamkeit auf innere oder äussere Aspekte der eigenen Person richtet.
 * Selbstdefinition: Teilmenge selbstbezogenen Wissens, die stabil und biographisch bedeutsam sind und einen von anderen Personen unterscheidet.
@@ -1894,15 +1830,15 @@ Es hat die Grundlegende Funktion das Individuum zu definieren und die Antworten 
 * Selbstkonzept: Kognitive Generalisierungen von Aspekten der eigenen Person, die in überdauernden Wissensstrukturen organisiert sind.
 
 
-çççTheoretische Sichtweisen
-ççççDas Selbstkonzept nach William James (1890)
+ç3Theoretische Sichtweisen
+ç4Das Selbstkonzept nach William James (1890)
 James unterscheidet zwischen Subjekt, also wie eine Person sich selbst sieht, und Objekt, wie andere Personen es beurteilen.
 Das Selbstkonzept besteht also aus einer individuellen und einer sozialen Komponente.
 Das Selbstkonzept hat drei Informationsquellen: Verhalten, Gespräche und eigene Einschätzung.
 
 James unterscheidet zudem zwischen dem Private Self, also jenen inneren oder subjektiven Aspekte des Selbst, die nur dem Individuum bekannt sind und einer öffentlichen Überprüfung durch andere Personen nicht zugänglich sind, und dem Public Self, also jenen Aspekten des Selbst, die andere sehen oder aus dem Verhalten oder der Erscheinung der Person ableiten können.
 
-ççççSelbstkonzept: Looking-glass self nach Cooley (1902)
+ç4Selbstkonzept: Looking-glass self nach Cooley (1902)
 Das Selbstkonzept ist das Abbild, das durch den sozialen Spiegel geworfen wird. Es wird durch die Reaktionen anderer auf einen bestimmt.
 Die Person weiss / nimmt an, dass sie beobachtet wird und dadurch stellen sich folgende Fragen:
 * Wie wird die Person von anderen gesehen/erlebt?
@@ -1910,20 +1846,19 @@ Die Person weiss / nimmt an, dass sie beobachtet wird und dadurch stellen sich f
 * Was für Gefühle erlebt sie aufgrund dieser Bewertung?
 Die Antworten auf diese Fragen ergeben das Selbstkonzept.
 
-ççççSozialer Interaktionismus: Das Selbst als soziales Phänomen
+ç4Sozialer Interaktionismus: Das Selbst als soziales Phänomen
 Individuen antizipieren die Reaktionen ihrer Sozialpartner durch Perspektivenübernahme (Das “ME”) und adjustieren das eigene Verhalten aufgrund der antizipierten Reaktion der Anderen (Das “I”). Es kommt zu einer Internalisierung des wahrgenommenen Bildes der eigenen Person durch Sozialpartner über die Zeit und die eigene Person wird das Objekt der Wahrnehmung und Reflexion.
 
 
-ççEntwicklung: Frühe Kindheit
-
-ççç4 Thesen
+ç2Entwicklung: Frühe Kindheit
+ç34 Thesen
 1. Entwicklung des Selbst als sozialer Konstruktionsprozess: Erfahrungen des Kindes mit seinem sozialen Umfeld sind notwendig für die Entstehung und Entwicklung seines Selbst.
 2. Fortschreiten beim Selbstverstehen stehen in engem Entwicklungszusammenhang mit dem Verstehen von anderen Menschen, da wir durch die Interpretation der Ansichten anderer über uns viel über unsere Person erfahren.
 3. Die Entwicklung des Selbst ist ein natürlicher, spontan ablaufender Entwicklungsprozess.
 4. Die Entwicklung des Selbst ist ein stetiger Prozess ohne grosse Hindernisse und schwierigen Übergängen.
 
 
-çççMeilensteine
+ç3Meilensteine
 Geteilte Aufmerksamkeit: Mit etwa 3 Monaten entwickelt das Kind einen gemeinsamen Fokus mit einer anderen Person die mit dem Kind interagiert. “Geben und nehmen Spiele” entstehen.
 
 Fremdeln: Mit etwa 8 Monaten erkennt das Kind, dass es von seinen Bezugspersonen unabhängig ist, es also eine eigene Entität ist, die sich nicht mit der Mutter zusammen wegbewegt. Es fühlt sich unwohl, wenn diese Bezugspersonen nicht mehr in der Nähe sind, da es so alleine und weniger sicher ist.
@@ -1931,16 +1866,16 @@ Fremdeln: Mit etwa 8 Monaten erkennt das Kind, dass es von seinen Bezugspersonen
 Krabbeln und Laufen: Mit etwa 10 Monaten findet zunehmende Selbstregulation statt und das Kind beginnt die selbstständige Erkundung der Umwelt.
 
 
-ççç5 Levels/Ebenen of Self Awareness
-ççççGrundlagen
+ç35 Levels/Ebenen of Self Awareness
+ç4Grundlagen
 Nach Philippe Rochat (2003)
 Diese Ebenen sind nicht zeitlich geordnet, also jedes Kind erreicht die verschiedenen Stufen zu einem unterschiedlichen Zeitpunkt. Die Ebenen sind nach Komplexität geordnet.
 
-ççççEbene 0: Confusion
+ç4Ebene 0: Confusion
 Das Spiegelbild ist vermengt mit der Realität. Man erkennt sich im Spiegel nicht. Spiegel als Partnerersatz bei gewissen Tieren, gewisse Tiere feinden ihr eigenes Spiegelbild an oder erschrecken teilweise.
 Ebene 0 bei Menschen praktisch nicht vorhanden. Kann aber auch vorkommen, Bsp. nach Beauty-Maniküre mit Gesichtsmaske, dass man sich im ersten Moment nicht erkennt.
 
-ççççEbene 1: Differentiation
+ç4Ebene 1: Differentiation
 Unterscheiden zwischen Eigenem und Fremden. Bsp. Rooting: Kinder zeigen häufigeres Suchen, wenn sie von einer fremden Hand an der Wange berührt werden, als wenn sie sich selbst berühren.
 Elementare wahrnehmungsbasierte Differenzierung zwischen Selbst und Umwelt.
 Kinder können zwischen eigenen Bewegungen und Bewegungen Anderer unterscheiden.
@@ -1948,13 +1883,13 @@ Es besteht perfekte Kontingenz zwischen gesehenen und gefühlten Bewegungen (Wenn
 Evidenz für Kontingenzwahrnehmung bei Propriozeption (Wahrnehmung der eigenen Bewegungen), Exterozeption (Wahrnehmung von Berührungen) und Interozeption (Wahrnehmung von internen Bewegungen wie Herzschlag, Atmen, …).
 Im Alter von 7-10 Monaten beginnen Kinder zu differenzieren. 
 
-ççççEbene 2: Situation
+ç4Ebene 2: Situation
 Positionierung der eigenen Person in Relation zu anderen Dingen in der Umwelt.
 Wahrnehmung von sich selbst als ein von der Umwelt differenziertes Wesen, das mit seinen Handlungen Veränderungen in der Umwelt bewirken kann.
 Erste Zeichen der kontemplativen Haltung sind, wenn der Körper das Objekt der Intention ist oder die Handlungen Selbstwirksam sind. 
 30: 80% der Kinder saugen mehr, wenn ein analoger Ton durch das Saugen entsteht vs. unanalog.
 
-ççççEbene 3: Identification
+ç4Ebene 3: Identification
 Erkenntnis, dass das eigene Spiegelbild sich auf den eigenen Körper bezieht (ab ca. 18 Monate)
 Es beginnt das Auftreten von ersten selbstbezogenen Emotionen (Selbstbewunderung & Verlegenheit) Das Kind beginnt mit der Bezugnahme auf sich selbst.
 33: Kinder sehen Videos von sich selbst ab etwa 3 Monaten ein wenig länger an als das Video eines fremden Kindes.
@@ -1967,42 +1902,40 @@ Ab 12 Monaten: Beginn der Selbstbewunderung und Verlegenheit
 20 bis 24 Monate: bis zu 65% erkennen sich selbst im Spiegel.
 
 
-
-ççççEbene 4: Permanence
+ç4Ebene 4: Permanence
 Dauerhaftigkeit: Erkenntnis, dass das Selbst dauerhaft ist und über Zeit und Raum invariant bleibt. Das Kind erkennt sich selbst auch auf Bildern und Filmen, die in der Vergangenheit aufgenommen wurden. Sie erkennen sich auch trotz Unterschieden in Ort, Alter und Kleidung von sich selbst auf den Fotos und Filmen.
 Das Erkennen des Selbst ist also nicht mehr an die räumliche und zeitliche Kontingenz und Gleichzeitigkeit gekoppelt.
 Überwinden des “Me but not Me Dilemma”: Das Spiegelbild ist nicht sie selbst als jemand anderes, sondern sie selbst.
 
-ççççEbene 5: Self-consciousness oder “meta” self-awareness
+ç4Ebene 5: Self-consciousness oder “meta” self-awareness
 Das Selbst wird nun nicht mehr nur aus der eigenen Perspektive wahrgenommen, sondern auch aus der Perspektive Dritter. Kinder beginnen wahrzunehmen, wie sie von anderen wahrgenommen werden und erlangen so auch mehr Verständnis für Andere. Sie betrachten sich selbst unter Berücksichtigung der sozialen Umwelt um sich herum.
 
-ççççFazit
+ç4Fazit
 -5 Ich-Bewusstseinsebenen
 -Eine Nicht-Bewusstseinsebene
 -Die Entwicklung des Selbst hat seine Wurzeln in der frühesten Kindheit und beginnt nicht mit einer anfänglichen Verwirrtheit hinsichtlich eigenem Körper und Umwelt. Das Selbst entwickelt sich von einem frühen impliziten Ich-Bewusstsein zu einem späteren expliziten Ich-Bewusstsein.
 -Das Ich-Bewusstsein wird in der Interaktion mit der Umwelt konstruiert und ist mehrschichtig. Auch als Erwachsene bewegen wir uns zwischen den einzelnen Bewusstseins-Ebenen hin und her.
 
 
-ççEntwicklung: Identität
+ç2Entwicklung: Identität
 Entwicklung von Selbst und Identität in der Jugend
 Es findet eine Revision und Reorganisation des Selbst statt. Körperbild, Autonomie, Ideologien und Selbstwertgefühl bekommen zunehmende Wichtigkeit. 
 
 
-çççErik Erikson
-ççççTheorie der psychosozialen Entwicklung
+ç3Erik Erikson
+ç4Theorie der psychosozialen Entwicklung
 
 
 
-ççççUrvertrauen vs. Misstrauen
+ç4Urvertrauen vs. Misstrauen
 Ur-Vertrauen: Gefühl des Sich-Verlassen-Dürfens ist stark ausgeprägt. Dazu ist das Kind auf die Verlässlichkeit der Bezugspersonen angewiesen.
 Ur-Missvertrauen: Werden Forderungen nach körperlicher Nähe, Sicherheit, Geborgenheit, Nahrung, ... verweigert entwickelt das Kind Bedrohungsgefühle und Ängste, sowie das Gefühl, seine Umwelt nicht beeinflussen zu können.
 
-ççççIdentität vs. Identitätsdiffusion
+ç4Identität vs. Identitätsdiffusion
 In dieser Phase entwickeln Jugendliche entweder eine kohärente (zusammenhängende) Identität oder es gelingt ihnen nicht, unterschiedliche Rollen in einem einheitlichen und stabilen Identitätsgefühl zu integrieren.
 
 
-çççJohn Marcia
-
+ç3John Marcia
 Verpflichtetheit: Bei niedriger Verpflichtung: Man fühlt sich zu keinen Werten verpflichtet oder kann sich nicht so richtig für eine Gruppe entscheiden. Man weiss nicht so recht, wo man jetzt dazu gehört.
 Bei hoher Verpflichtung: Man fühlt sich zu einer Gruppe zugehörig und teilt die entsprechenden Werte.
 
@@ -2018,7 +1951,7 @@ Moratorium: Auszeit während der Jugendliche noch keine festen Werte entwickelt h
 Erarbeitete Identität: Integration verschiedener Aspekte des Selbst in ein kohärentes Ganzes, das über die Zeit hinweg stabil ist.
 
 
-ççççWeiterentwicklungen
+ç4Weiterentwicklungen
 Commitment: Andauernde Entscheidungen eines Individuums in verschiedenen Entwicklungsdomänen und das dadurch entstandene Selbstvertrauen.
 
 In-depth exploration: Aktives Nachdenken über die getroffenen Entscheidungen
@@ -2032,9 +1965,9 @@ Dual-Cycle-odell – Five Statuses
 
 
 
-çEmotionen & Bindung
+ç1Emotionen & Bindung
 
-ççEmotionen
+ç2Emotionen
 Definition
 Emotionen sind eine Kombination aus physiologischen und kognitiven Reaktionen auf Gedanken und Erfahrungen.
 
@@ -2045,7 +1978,7 @@ Beobachtbares Verhalten (Gefühlsausdruck, Reaktionen)
 
 Emotionen sind von grundlegender Bedeutung für den Aufbau von Beziehungen, der Erkundung der Umwelt und der Entdeckung des eigenen Selbst.
 
-çççGrundemotionen
+ç3Grundemotionen
 5 Basisemotionen: Freude, Furcht, Ärger, Traurigkeit, Ekel. Diese Basisemotionen sind universell sowohl beim Menschen als auch bei Primaten anzutreffen. Evolutionär gesehen sind sie sehr vorteilhaft für das Überleben.
 
 Bei Säuglingen sind überwiegend zwei Grundemotionen / Erregungszustände zu beobachten:
@@ -2055,7 +1988,7 @@ Bei Säuglingen sind überwiegend zwei Grundemotionen / Erregungszustände zu beoba
 Eltern helfen, durch Eingehen auf die anfänglich undifferenzierten emotionalen Ausdrucksformen, diese auszudifferenzieren auf die fünf Basisemotionen. Eltern helfen, diese Emotionen wieder auszugleichen, z.B. bei Wut.
 
 
-çççAusdrücken
+ç3Ausdrücken
 Positive Emotionen äussern sich ab 2-3 Monaten durch ein “soziales Lächeln”. Soziales Lächeln findet sich bei der Interaktion mit anderen Personen wieder. Ab 3-4 Monaten lacht das Kind bei Aktivitäten, die ihm Freude machen. Ab 7 Monaten findet sich auch ein selektives Lächeln zu vertrauten Personen. Das selektive Lächeln findet sich nicht, wenn die Person unvertraut ist.
 
 Negative Emotionen äussern sich zu Beginn durch allgemeines Missbehagen. Ab 4-6 Monaten gibt es Indizien für eine Unterscheidung von Ärger und Trauer. Ab 8 Monaten etwa kann auch Angst klar differenziert werden. Fremdeln entsteht auch in dieser Phase, was wohl mit der Angstentstehung zusammenhängt.
@@ -2068,7 +2001,7 @@ Selbstbewusste Emotionen
 * Ab ca. 7 Jahren: Kinder zeigen Bedauern, generell werden die Emotionen immer komplexer.
 
 
-çççWahrnehmen / Verstehen von Emotionen
+ç3Wahrnehmen / Verstehen von Emotionen
 * 4-7 Monate: Kinder unterscheiden Freude, Überraschung und Trauer. Der Gesichtsausdruck wird als organisiertes Muster wahrgenommen, dass sich in seiner Struktur verändern kann.
 
 * 8-12 Monate: Soziales Referenzieren. Nehmen die Emotionen von anderen Personen wahr und nutzen diese Information, um ihr Verhalten entsprechend anzupassen.
@@ -2085,67 +2018,65 @@ Selbstbewusste Emotionen
 
 * 8-12 Jahre: Verständnis emotionaler Ambivalenz, also von widersprüchlichen oder mehrdeutigen Gefühlen.
 
-ççççMoralische Emotionen - Beispiel Schuld
+ç4Moralische Emotionen - Beispiel Schuld
 Definition moralische Emotionen: 
 -Kinder können bereits ab ca. 3 Jahren zwischen hilfsbereiten und nicht hilfsbereiten Akteuren unterscheiden. Sie helfen den hilfsbereiten Akteuren mehr wie den nicht hilfsbereiten Akteuren.
 -Sie teilen ihr Spielzeug eher mit Kindern, die zuvor ebenfalls ihr Spielzeug teilten.
 
-ççççEntSCHULDigen
+ç4EntSCHULDigen
 4-5 Jahre: Beobachten lieber Situationen, in denen sich ein Akteur entschuldigte im Vergleich zu Situationen, in denen das nicht der Fall war. Sie schreiben negative Gefühle der Person zu, die sich entschuldigte und positive der, die eine Entschuldigung bekam. ? Entschuldigen wird angesehen als eine Besserungsmöglichkeit einer schlechten Situation.
 
 6 Jahre: Kinder zeigen weniger Vorwürfe & Bestrafen, dafür mehr Vergeben und Mögen gegenüber Akteuren, die sich entschuldigen.
 
 Mit ca. 4-6 Jahren entsteht also das Verstehen von Schuld.
 
-ççççFunktion von Schuld und Scham
+ç4Funktion von Schuld und Scham
 -Das negative Gefühl von Schuld/Scham bzw. die Antizipation davon ist ein starker Mechanismus, der verhindert, dass Individuen Normen übertreten und dass beobachtete Normenübertretungen korrigiert werden.
 -Schuldbewusstsein erzeugt Sympathie, Sorge und Mitgefühl
 -Moralische Emotionen liefern die Motivation Gutes zu tun und Schlechtes zu vermeiden.
 -Schuld zeigt Potential für alternatives Verhalten in der Zukunft. Sie wird als selbstregulierend, zuverlässig und kooperativ wahrgenommen.
 
 
-çççRegulieren
-ççççDefinition
+ç3Regulieren
+ç4Definition
 -Prozess der Initiierung, Hemmung und Modulierung innerer Gefühlszustände und der mit diesen Zuständen verbundenen physiologischen Prozesse, Kognitionen und Verhaltensweisen.
 -Es sind Strategien, die wir anwenden, um unseren emotionalen Zustand auf ein angenehmes Mass an Intensität zu bringen, damit wir Ziele erreichen können.
 
-ççççStrategien zur Emotionsregulation
+ç4Strategien zur Emotionsregulation
 -Ändern der Situation, durch Bewegung andere Situation aussuchen (Weglaufen, ...)
 -Aufmerksamkeitsfokus ändern / Ablenken (Wegsehen, ...)
 -Response modification: Eigene Reaktion verändern, Kontrolle wiedererlangen (Selbstberuhigung durch Daumenlutschen schon sehr früh vorhanden; Emotionsunterdrückung sehr stark kulturell unterschiedlich)
 
-ççççEntwicklung der Emotionsregulation
+ç4Entwicklung der Emotionsregulation
 -Eltern helfen bei Emotionsregulation durch beseitigen der Ursachen von negativen Emotionen.
 -Ab 6 Monaten beginnen Babys, sich selbst zu beruhigen durch Ablenkung und Selbststimulation.
 -Motorische Entwicklung der Emotionsregulation durch Annäherung / Wegbewegen
 -Nutzen von Sprache zur Emotionsregulation kommt zusammen mit der Sprachentwicklung
 
-ççççSoziales Referenzieren
+ç4Soziales Referenzieren
 Kinder versuchen neue Situationen/ Objekte durch die Reaktion der Bezugspersonen darauf einzuschätzen. Kind wendet sich einem neuartigen Spielzeug zu, wenn die Mutter lächelt. Das Kind wendet sich hingegen vom Spielzeug ab, wenn die Mutter ängstlich schaute.
 
 
-ççTemperament
-
-çççDefinition
+ç2Temperament
+ç3Definition
 Veranlagungsbedingte, individuelle Unterschiede in der emotionalen, motorischen und aufmerksamkeitsbezogenen Reagibilität (=Eigenschaft oder Fähigkeit sehr sensibel zu reagieren) und in der Selbstregulierung, die über Situationen hinweg konsistent sowie über die Zeit hinweg stabil sind.
 
 
-çççCluster
+ç3Cluster
 Drei charakteristische Merkmals-Cluster
 Temperamentstypen: New York longitudinal Study
 DimensionBeschreibungAktivitätsniveauVerhältnis aktiver zu inaktiver ZeitRhythmizitätRegelmässigkeit der Körperfunktionen; z.B. Schlaf-Wach-Rhythmus, Hungrig werdenAblenkbarkeitAusmass, zu dem Stimulation aus der Umwelt das Verhalten verändert; aufhören zu weinen, wenn Spielzeug angeboten.Annäherung/ RückzugReaktionen auf ein neues Objekt, eine neue Person, Nahrungsmittel, ...AnpassungsfähigkeitLeichtigkeit der Anpassung an Veränderungen in der Umwelt; Schlafen, Essen an anderem Ort, ...Aufmerksamkeitsspanne / BeharrlichkeitZeit, die auf eine Aktivität verwendet wirdReaktionsintensitätEnergieniveau von Reaktionen wie Lachen, Weinen.ReaktionsschwelleIntensität der notwendigen Stimulation, um eine Reaktion hervorzurufen.Quelle der StimmungAusmass an freundlichem und fröhlichem Verhalten im Vergleich zu unangenehmem und unfreundlichem Verhalten.
-çççTemperamentstypen
+ç3Temperamentstypen
 Das problemlose/einfache Kind (ca. 75%): Entwickelt relativ rasch regelmässige Gewohnheiten in der frühen Kindheit, ist zumeist fröhlich und passt sich leicht an neue Situationen an. (Rémy)
 
 Das schwierige Kind (ca. 10%): Zeigt Unregelmässigkeiten in seinen Gewohnheiten, akzeptiert neue Erfahrungen nur langsam und neigt dazu, irritiert und sehr intensiv zu reagieren. (Alexander)
 
 Das langsam auftauende Kind (ca. 15%): Ist passiv, zeigt schwache zurückhaltende Reaktionen auf Umweltreize, eine negative Stimmungslage und passt sich nur schwerfällig an neue Erfahrungen an. (Laure)
 
-çççMary Rothbart
-
-ççççTemperamentstypen
+ç3Mary Rothbart
+ç4Temperamentstypen
 DimensionBeschreibungReaktivitätAktivitätsspanneAusmass der Aktivität und GrobmotorikAufmerksamkeitsspanne / BeharrlichkeitDauer der Orientierung oder es InteressesÄngstliches UnbehagenMisstrauen und Unbehagen als Reaktion auf intensive oder neue Stimuli sowie erhöhter Zeitbedarf für eine Anpassung an neue Situationen.Reizbares UnbehagenAusmass an Nörgelei, Weinen und Unbehagen, wenn das Kind seinen Willen nicht bekommt.Positive GestimmtheitHäufigkeit der Äusserung von Freude und VergnügenSelbstregulationAktive SelbstregulationFähigkeit, eine dominante Reaktion aus eigenem Antrieb zu unterdrücken, um eine bessere angepasste Reaktion zu planen und zu zeigen.
-ççççDrei Merkmals-Cluster nach Rothbart
+ç4Drei Merkmals-Cluster nach Rothbart
 Surgency/extraversion: Begeisterungsfähigkeit/Extrovertiertheit. Kind ist glücklich, körperlich und verbal aktiv, sucht nach Stimulation.
 
 Negative Affect: Negative Emotionen. Kind ist verärgert, ängstlich, frustriert, schüchtern, lässt sich nicht beruhigen.
@@ -2155,7 +2086,7 @@ Effortful control: Aktive Emotionsregulation: Fokussieren der Aufmerksamkeit, ni
 Revised Infant Behavior Questionnaire (IBQ-R)
 Fragebogen zur Messung des Temperamentes des Kindes.
 
-ççççBsp. von Items des IBQ-R
+ç4Bsp. von Items des IBQ-R
 Ängstliches Unbehagen: Wie oft während der letzten Woche schrie das Baby oder zeigte Unbehagen bei einem lauten Geräusch (Mixer, Staubsauger, ...)? Wie oft während der letzten Woche schrie das Baby oder zeigt Unbehagen bei Veränderungen im Aussehen der Eltern (Brille, Duschhaube, ...)
 
 Aufmerksamkeitsspanne: Wie oft während der letzten Woche schaute das Baby fünf Minuten oder länger Bilder in Büchern und/oder Zeitschriften an? Wie oft während der letzten Woche spielte es zehn Minuten oder länger mit einem Spielzeug oder einem?
@@ -2165,7 +2096,7 @@ Konstanz: Frühes und späteres Temperament korrelieren moderat
 Plastizität: Temperament verändert sich mit zunehmendem Alter und Kompetenzen
 
 
-çççEinflussfaktoren
+ç3Einflussfaktoren
 Genetische Einflüsse
 -Genetik: ca. 50% der Temperamentsunterschiede sind auf die unterschiedliche genetische Ausstattung zurückzuführen
 -Geschlechtsunterschiede: Jungen sind aktiver, wagemutiger, reizbarer und impulsiver als Mädchen. Einer der Gründe warum sich Jungen in der Kindheit mehr verletzen.
@@ -2179,7 +2110,7 @@ Gene und Umwelt interagieren
 Jungen und Mädchen werden bereits kurz nach Geburt unterschiedlich wahrgenommen.
 
 
-ççBindung
+ç2Bindung
 Definition: Bindung ist die vertrauensvolle, emotionale Beziehung zwischen Eltern/ Bezugsperson und dem Kind. Es handelt sich um eine emotionale Beziehung zu einer bestimmten Person, die räumlich und zeitlich Bestand hat.
 
 Psychoanalyse: Füttern wurde als primärer Kontext betrachtet, in dem die Bezugspersonen und der Säugling ein enges emotionales Band knüpfen.
@@ -2191,8 +2122,8 @@ Harry Harlow: Verhaltensforschung von Rhesusaffen
 -Wenn diese getrennt von ihren Artgenossen aufgezogen wurden entwickelten sie soziale Störungen, konnten nicht mit Artgenossen kommunizieren und hatten kein Interesse für den eigenen Nachwuchs.
 
 
-çççBindungstheorie
-ççççDie ethologische Bindungstheorie nach John Bowlby
+ç3Bindungstheorie
+ç4Die ethologische Bindungstheorie nach John Bowlby
 Nach dieser Theorie handelt es sich bei der emotionalen Bindung zu den Bezugspersonen um eine evolutionär entstandene, dem Überleben dienende Reaktion.
 
 Diese Theorie nimmt Bezug auf die Forschung von vielen anderen:
@@ -2202,32 +2133,32 @@ Charles Darwin: Der Mensch ist mit Verhaltenssystemen ausgestattet, die das Über
 
 Konrad Lorenz: Der Säugling (wie auch die Jungtiere) verfügt über Verhaltensweisen, die dazu führen, dass Eltern in der Nähe bleiben, vor Gefahr schützen und Explorationsverhalten unterstützen.
 
-ççççExkurs: Theorie der psychosozialen Entwicklung (Erik Erikson)
+ç4Exkurs: Theorie der psychosozialen Entwicklung (Erik Erikson)
 Urvertrauen und Autonomie entwickeln sich in einer warmherzigen, einfühlsamen Beziehung der Eltern zum Kind. Sie entwickeln sich auch durch realistische Erwartungen hinsichtlich der Impulskontrolle im zweiten Lebensjahr.
 Sind diese Voraussetzungen und die Entwicklung von Urvertrauen und Autonomie nicht gegeben entsteht fehlendes Gefühl seiner eigenen Individualität, es entwickeln sich übermässige Abhängigkeit von anderen Personen und Infragestellung der eigenen Fähigkeiten.
 
-çççç4 Phasen der ethologischen Bindungstheorie
-1. Vorphase (Preattachment)
+ç34 Phasen der ethologischen Bindungstheorie
+ç41. Vorphase (Preattachment)
 -Geburt bis 6. Lebenswoche
 -Angeborene Signale verhelfen zu Kontakt mit anderen Menschen
 -Nähe wirkt beruhigend auf Säugling
 -Noch keine Bindung zu den Eltern
 
-2. Beginnende Bindungsphase (Attachment in the making)
+ç42. Beginnende Bindungsphase (Attachment in the making)
 -6. Lebenswoche bis 6./8. Lebensmonat
 -Andere Reaktion auf bekannte als auf unbekannte Person
 -Entwicklung eines Gefühls des Vertrauens
 -Erwartung, dass die Bezugsperson reagiert, wenn Signal gesendet
 -Noch kein Protest wenn getrennt
 
-3. Eindeutige Bindung (True Attachment)
+ç43. Eindeutige Bindung (True Attachment)
 -6./8. Lebensmonat bis 18./24. Lebensmonat
 -Klar erkennbare Bindung zur Bezugsperson
 -Trennungsangst ? Abhängig von Temperament des Kindes
 -Versuch, die Gegenwart der Bezugsperson nicht zu verlieren
 -Mutter als sichere Basis zum Erkunden der Umwelt
 
-4. Reziproke Bindung (Reciprocal relationships)
+ç44. Reziproke Bindung (Reciprocal relationships)
 -18. Lebensmonat bis zum 2. Lebensjahr und darüber hinaus
 -Mentale Repräsentationen ermöglichen es, zu verstehen, warum Personen Kommen und Gehen.
 -Gefühle, Ziele und Motive der Eltern können verstanden werden.
@@ -2236,21 +2167,19 @@ Sind diese Voraussetzungen und die Entwicklung von Urvertrauen und Autonomie nic
 
 Ergebnis dieser 4 Phasen: Dauerhafte emotionale Verbindung zu Bezugsperson
 
-ççççInneres Arbeitsmodell von Bindung
+ç3Inneres Arbeitsmodell von Bindung
 Erwartungen an die Verfügbarkeit der Bezugspersonen und an die Wahrscheinlichkeit, dass diese Unterstützung bieten. Das innere Arbeitsmodell wird zu einem entscheidenden Bestandteil der Persönlichkeit und dient als Modell für alle zukünftigen engen Beziehungen.
 
 
-çççBindungsqualität
-ççççDas Messen von Bindungssicherheit im Kleinkindalter
+ç3Bindungsqualität
+ç4Das Messen von Bindungssicherheit im Kleinkindalter
 Mary Ainsworth führte naturalistische Beobachtungen von Eltern und Kindern in Uganda durch und untermauerte Bowlbys Theorien durch empirische Befunde. Sie entwickelte die “Fremde Situation” zur Erfassung der Bindungsqualität im frühen Kindesalter.
 
 Kinder nutzen die Bezugspersonen als sichere Ausgangsbasis, von der aus sie die Welt explorieren und zu der sie immer wieder zurückkommen. Wenn die Bezugsperson ihre Welt (einen Raum, ...) verlässt, wirkt sich dem Kind eine fremde Person weniger beruhigend aus als die Bezugsperson.
 
 
 
-
-
-çççBindungstypen
+ç3Bindungstypen
 
 Sichere Bindung: Nutzen die Mutter (Bezugsperson) als sichere Basis und explorieren ihre Umwelt. Die Mutter wird einer fremden Person vorgezogen. Die Kinder sind durch die Trennung von der Mutter emotional betroffen und freuen sich über die Rückkehr. Diese Kinder suchen aktiv den Körperkontakt und lassen sich leicht von der Mutter beruhigen. (Aylin)
 
@@ -2261,7 +2190,7 @@ Unsicher-ambivalente Bindung: Diese Kinder haben kein Interesse, die Umgebung zu
 Unsicher-desorganisierte Bindung: Diese Kinder reflektieren die grösste Unsicherheit. Bei Rückkehr der Mutter zeigen sie konfuse, widersprüchliche Verhaltensweisen. Zu diesen gehören Wegsehen, wenn im Arm gehalten, Annäherung mit depressivem Gefühl, benommener Gesichtsausdruck, Ausbruch in Tränen. Diese Kinder haben einen Konflikt zwischen dem Bedürfnis nach Sicherheit und Furcht. Sie sind schwer klassifizierbar. (Elsa, vermeidend bei Abschied, sicher bei Rückkehr)
 
 
-ççççBindungstypen der Eltern
+ç4Bindungstypen der Eltern
 Erwachsene beantworten Fragen zu ihren Beziehungen zu ihren Eltern.
 Autonom-sichere Eltern: Offener, glaubwürdiger, kohärenter und ausgeglichener Bericht. 
 Abwertende/abweisende Eltern: Idealisierung oder Abwertung; keine genaue Beschreibung.
@@ -2269,22 +2198,20 @@ Ambivalente/verstrickte Eltern: Widersprüchlicher, nicht kohärenter Bericht.
 Ungelöste Eltern: Merkwürdige Entgleisungen, keine Verarbeitung der Beziehungserfahrungen.
 
 
-
-
-çççEinflussfaktoren
-ççççBezugspersonen
+ç3Einflussfaktoren
+ç4Bezugspersonen
 Einfühlungsvermögen
 Fähigkeit, die kindlichen Signale wahrzunehmen, sie richtig zu interpretieren und prompt und angemessen darauf zu reagieren. Es besteht ein Zusammenhang zwischen der Feinfühligkeit der Bezugspersonen und der Bindungssicherheit der Kinder.
 Feinfühlige Mutter ? Mutter wird als responsiv und verfügbar wahrgenommen
 Nicht feinfühlige Mutter ? Mutter wird als zurückweisend und nicht verfügbar wahrgenommen
 
-ççççKind
+ç4Kind
 Kindliches Temperament
 Temperamentsunterschiede haben einen Einfluss auf elterliches Verhalten und die Bindungssicherheit des Kindes. Schwierige Kinder evozieren negative Reaktionen und haben ein höheres Risiko, unsicher gebunden zu sein.
 
 Bezugspersonen: sind Eltern, Geschwister, Grosseltern, Betreuungspersonen in Tageseinrichtungen. Zu jeder dieser Personen hat das Kind eine unterschiedliche Beziehung, aber alle können Sicherheit vermitteln.
 
-çççEffekte der Bindungsqualität
+ç3Effekte der Bindungsqualität
 Die Bindungsqualität hat einen langfristigen Effekt auf die Emotionen, Beziehungen und Leistungen der Kinder.
 Sicher gebundene Kinder haben ein positives inneres Arbeitsmodell, einen adäquaten Emotionsausdruck und höhere sozio-emotionale Kompetenzen. Eine sichere Bindung ist nicht gleichzusetzen mit psychischer Gesundheit. Sie bietet aber einen wichtigen Schutzfaktor davor.
 
@@ -2293,19 +2220,17 @@ Unsicher gebundene Kinder inhibieren emotionale Expressivität, suchen keinen Tro
 
 
 
-çSoziale Kognition 1
-
-ççSoziale Kognition
+ç1Soziale Kognition 1
+ç2Soziale Kognition
 Soziale Kognition ist das Verstehen von Absichten, Wünschen und Überzeugungen anderer Personen.
 -Absichten: Liegen Handlungen zu Grunde. Das mentale Ziel führt zu einer realen Handlung.
 -Wünschen: Wünsche können von der Realität unabhängig sein.
 -Überzeugungen: Beziehen sich auf die Realität, führen zu Handlungen.
 
 
-ççImitation
-
-çççGrundlagen
-ççççDefinition Imitation
+ç2Imitation
+ç3Grundlagen
+ç4Definition Imitation
 Imitation ist das Erwerben einer neuen Fähigkeit durch die Beobachtung eines Modells, welches das Verhalten vormacht. Die Neuheit der Fähigkeit ist essentiell. Wenn die Fähigkeit bereits im Verhaltensrepertoire vorhanden ist, dann kann das Nachmachen durch andere Faktoren wie Stimulus Enhancement oder Local Enhancement erklärt werden.
 Imitation einer Handlung zeigt ein Verständnis der Intention des Ausführenden. Sie beinhaltet sowohl die Reproduktion eines externen Ereignisses als auch die Reproduktion des internen Ziels des Modells.
 
@@ -2313,14 +2238,14 @@ Neuartigkeit einer Handlung: Die Handlung wurde noch nie gesehen, ausgeführt ode
 Stimulus Enhancement: Die Aufmerksamkeit des Beobachters wird auf ein bestimmtes Objekt gelenkt, mit dem sich das Modell beschäftigt hat.
 Local Enhancement: Die Aufmerksamkeit des Beobachters wird auf eine bestimmte Position gelenkt, in der sich das Modell aufgehalten hat, in der das Modell etwas gemacht hat.
 
-ççççAbgrenzungen zur Imitation
+ç4Abgrenzungen zur Imitation
 Imitation: Reproduktion des Ziels mit dem Mittel und Verständnis für das Ziel.
 Emulation: Reproduktion des Ziels mit unterschiedlichem Mittel.
 Mimikry: Reproduktion des Mittels ohne Verständnis für das Ziel.
 
 
-çççTheorien
-ççççImitation als soziales Lernen (Albert Bandura)
+ç3Theorien
+ç4Imitation als soziales Lernen (Albert Bandura)
 Entstand aus der Kritik an der herkömmlichen Lerntheorie, die nur die klassische (Direkter Reiz zusammen mit Handlung oder Objekt führt zu Lernen) und die operante (Konsequenz einer Handlung ändert die Häufigkeit der Handlung) Konditionierung betrachtete, aber das Lernen durch Beobachtung komplett ignorierte.
 
 Kinder sahen Video von Person, die mit unterschiedlichen Mitteln Gewalt an einer Puppe ausübt. Danach wurde die Person entweder gelobt oder bestraft.
@@ -2328,15 +2253,14 @@ Gemessen wurde wie viele dieser Mittel imitiert wurden. Den Kindern wurde dann e
 
 Die Konsequenzen (Bestrafen/ Verstärkung des Modells) sind massgeblich daran beteiligt, ob eine Imitation stattfindet. Nicht die Verstärkung selbst, sondern die Erwartung der Verstärkung ist wichtig für die Performanz (=Leistungsfähigkeit) von Verhalten.
 
-ççççImitation bereits bei Neugeborenen
+ç4Imitation bereits bei Neugeborenen
 Person streckt Zunge raus vor Baby, das Neugeborene macht das dann auch. Anzeichen für Imitation.
 
-ççççEvidenz gegen die Imitation von Neugeborenen
+ç4Evidenz gegen die Imitation von Neugeborenen
 Neugeborene strecken die Zunge oft auch ohne Stimulus raus. Imitation ist bei Neugeborenen also noch nicht vorhanden.
 
 
 Imitation zu Beginn des Lebens noch nicht vorhanden, entwickelt sich erst später. Zwischen 6 und 12 Monaten beginnen Kinder erst mit Imitieren.
-
 
 
 -Die Einzige Geste, die konsistent imitiert wird, ist das Herausstrecken der Zunge.
@@ -2345,49 +2269,47 @@ Imitation zu Beginn des Lebens noch nicht vorhanden, entwickelt sich erst später
 -Tongue Protrusion wird dann häufiger gezeigt, wenn kein Stimulus zu sehen ist.
 -Lässt Zweifeln, ob es so etwas wie Imitation bei Neugeborenen gibt.
 
-çççEntwicklung
-ççççImitation als Verständnis von Intention
+ç3Entwicklung
+ç4Imitation als Verständnis von Intention
 
 Hand versucht, Ende von Hantel abzuziehen, rutscht aber ab. Kind macht dann die Bewegung nach und zieht das Ende ab, das Kind hat also die Intention verstanden.
 Wenn nun ein Roboter das Gleiche vormacht und abrutscht, macht das Kind die Abrutschbewegung nach.
 
 Durch verbale Kommunikation (“Hoppla”, wenn unerwünschtes Ergebnis, oder Aussagen von Freude, bei erwünschtem Ergebnis) können Kinder verstehen, ob das Ergebnis das Ziel war oder nicht.
 
-ççççÜberimitation
+ç4Überimitation
 Nicht für das Erreichen des Ziels notwendige Aktivitäten werden ebenfalls imitiert. Ziel ist zwar verstanden, aber das Kind kann noch nicht erkennen, welche der getätigten Handlungen für das Erreichen notwendig sind.
 
 Automatic causal encoding account: Automatische Tendenz, alle Elemente einer beobachteten Handlung als relevant zu erachten.
 Affiliation accounts: Soziale Motivation, durch die Imitation eine Beziehung zu einer anderen Person aufzubauen / zu bestätigen.
 Rational normative action interpretation accounts: Flexibles und rationales Handlungsverständnis: Auch wenn Handlungselemente irrelevant erscheinen, können sie Teil einer grösseren Sequenz sein.
 
-ççççFunktionen von Imitation
+ç4Funktionen von Imitation
 Kognitive Funktion: Ermöglicht es, in einem pädagogischen Kontext etwas Neues zu erlernen.
 Soziale Funktion: Dient einem nonverbalen, kommunikativen Austausch zwischen zwei Interaktionspartnern. Ermöglicht es vorsprachlichen Kindern, miteinander zu kommunizieren. Verringert sich mit verbesserten verbalen Fähigkeiten.
 
 
 
 
-çSoziale Kognition 2
-
-ççSoziale Kognition
-
-çççTheory of Mind
+ç1Soziale Kognition 2
+ç2Soziale Kognition
+ç3Theory of Mind
 Soziale Kognition ist das Verstehen von Absichten, Wünschen und Überzeugungen von anderen.
 -Absichten: Liegen Handlungen zu Grunde. Das mentale Ziel führt zu einer realen Handlung.
 -Wünschen: Wünsche können von der Realität unabhängig sein.
 -Überzeugungen: Beziehen sich auf die Realität, führen zu Handlungen.
 
-ççççÜberzeugungen: soziale Kognition im engeren Sinne
+ç4Überzeugungen: soziale Kognition im engeren Sinne
 Überzeugungen beziehen sich auf einen Zustand in der Welt. Der Zustand wird als wahr angenommen, muss jedoch nicht wahr sein. Überzeugungen können also wahr oder falsch sein.
 
 Ausschlaggebend für die Entstehung einer Theory of Mind ist sowohl das Verständnis, dass Überzeugungen und Realität sich unterscheiden können, als auch das Verständnis, dass Überzeugungen zu Handlungen führen. Auch muss man sich bewusst sein, dass Überzeugungen wahr oder falsch sein können.
 
 
-çççDefinition
+ç3Definition
 Theory of Mind bezeichnet die Fähigkeit, eine Annahme über Bewusstseinsvorgänge in anderen Personen vorzunehmen und diese in der eigenen Person zu erkennen – d. h. Gefühle, Bedürfnisse, Ideen, Absichten, Erwartungen und Meinungen bei anderen zu vermuten.
 
 
-çççMessmethoden
+ç3Messmethoden
 AufgabentypErforderliche RepräsentationenAufgabenbeispielFalse-Belief-eigene richtige Überzeugungen
 -falsche Überzeugung anderer Person
 -Eine Person hat eine falsche Überzeugung-die Schokolade ist im grünen Schrank
@@ -2397,12 +2319,9 @@ AufgabentypErforderliche RepräsentationenAufgabenbeispielFalse-Belief-eigene
 -Die Schachtel enthält einen BleistiftAppearance- Reality- Distinction-Erscheinung
 -IdentitätApfelkerze
 -sieht wie ein Apfel aus
--ist eine Kerze
+-ist eine Kerze
 
-
-ççççFalse Belief: Sally und die Murmel
-
-
+ç4False Belief: Sally und die Murmel
 Unerwarteter Ortswechsel
 -Testet, ob ein Kind versteht, dass andere Menschen in Übereinstimmung mit ihren eigenen Überzeugungen handeln, auch wenn das getestete Kind weiss, dass diese Annahmen falsch sind.
 
@@ -2413,21 +2332,9 @@ Unerwarteter Ortswechsel
 -Kontrollfrage: Wo ist die Murmel wirklich?
 
 
-
-
-
-
-
-
-
-
-
-
-
-ççççRepresentational-Change: Unerwarteter Inhaltswechsel
-
+ç4Representational-Change: Unerwarteter Inhaltswechsel
 Kind erkennt, dass der Inhalt unerwartet war und seine Aussage, wenn zwar falsch, eigentlich die logische Antwort gewesen ist und andere genauso nicht über das Wissen verfügen, um die Frage korrekt beantworten zu können. Eigenes Wissen wird nicht auf Andere übertragen.
-ççççAppearance-Reality
+ç4Appearance-Reality
 
 -Unterscheiden zwischen Identität und dem diskrepanten Aussehen eines Objekts?
 -Realistischer und phänomenalistischer Fehler ist erst ab dem vierten Lebensjahr nicht mehr vorhanden.
@@ -2439,52 +2346,42 @@ Kind erkennt, dass der Inhalt unerwartet war und seine Aussage, wenn zwar falsch
 -Test: Was denkt ein anderes Kind, was das ist?
 
 
-
-ççEntwicklung von Theory of Mind
+ç2Entwicklung von Theory of Mind
 Erst mit 4 Jahren?
 Diverse Aussagen unter anderem auch von Piaget wurden empirisch widerlegt. Kinder können sich auch schon vor dem Alter von 4 Jahren in Andere versetzen und so erkennen, dass andere etwas noch nicht wissen.
 
-
-çççVorläuferkompetenzen
-
+ç3Vorläuferkompetenzen
 Verstehen von zielgerichteten (Greif-)Handlungen. Zentrale Frage: Lernen Kinder, ob das Zielobjekt oder der Pfad ausschlaggebend ist? Kinder sahen Objektwechsel länger an, wodurch sich ihre Überraschung zeigen. Wenn nach dem Ball gegriffen wurde, wurde weniger lange zugesehen, wodurch Erwartung der Handlung geschlossen wurde.
 
 
-
-
-çççGemeinsames Handeln
+ç3Gemeinsames Handeln
 Art und Weisen, in denen sich gemeinsames Handeln zeigen kann:
 -Synchronisation: Eigenes Handeln wird mit dem Handeln einer anderen Person nach bestimmten Regeln koordiniert.
 -Helfen: Helfende Person versteht, dass zu helfende Person ein Ziel hat, welches sie nicht erreichen kann. Zudem muss auch eine Motivation, Hilfe zu leisten, vorhanden sein.
 -Kooperation: Das eigene Handeln wird mit dem einer anderen Person koordiniert, um ein gemeinsames Ziel zu erreichen, welches alleine nicht erreicht werden kann.
 
-ççççHelfen
-
-
-
+ç4Helfen
 -Person zeigt Probleme mit diversen Aktivitäten (Bücher in Schrank räumen, Wäscheklammer auflesen). Kinder können der Person helfen. Balken: Anteil an Kindern, die in den entsprechenden Situationen geholfen haben.
 -Experimental: Person hat Problem.
 -Control: Es wird kein Problem gezeigt, es wird beobachtet, wie viele der Kinder auch ohne Problem der Person mit dem Objekt interagieren.
 
 
-ççççHelfen mit vs. ohne Belohnung
+ç4Helfen mit vs. ohne Belohnung
 -Forschungsfrage: Einfluss von Belohnungen auf das Hilfsverhalten von 20 Monate alten Kindern.
 -Familiarisierungsphase: Helfen wird belohnt (Reward), gelobt (Praise) oder bleibt ohne Konsequenz (Neutral).
 -Testphase: weitere Hilfeaufgaben
 -Ergebnisse: Kinder, die zuvor soziales Lob oder gar keine Belohnung erhalten hatten, helfen mehr als Kinder, die belohnt wurden.
 
 
-
-ççççKooperation
-
+ç4Kooperation
 Kinder erkennen, dass sie zusammenarbeiten müssen, um ein Ziel erreichen zu können. Sie sind sich auch bewusst, dass sie das Ziel alleine nicht erreichen können, weshalb sie die andere Person dazu animieren, mitzumachen, wenn diese sich nicht von alleine an der Aktivität beteiligt.
 
-ççççVerständnis divergenter Wünsche
+ç4Verständnis divergenter Wünsche
 Ab ca. 18 Monaten: Verstehen, dass eigene Präferenzen von denen anderer unterschiedlich sein können.
 
 Kinder geben mit 14 Monaten einer Person, die Broccoli mehr mag al Kekse Kekse, da sie selbst Kekse lieber haben und Broccoli nicht mögen. Ab ca. 18 Monaten wird vermehrt Broccoli gegeben.
 
-ççççSymbolspiel / Als-ob-Spiel
+ç4Symbolspiel / Als-ob-Spiel
 Das Symbolspiel ist die Vorstellung, dass ein Gegenstand ein anderes Objekt darstellt. Das Kind funktioniert den Gegenstand um und sieht in ihm etwas, was er gar nicht darstellt. Es ersetzt den Gegenstand durch einen Anderen und stellt sich nicht vorhandene Dinge bildhaft vor.
 -Beginnt im 2. Lebensjahr. 
 -Interaktion mit nur in der Vorstellung existierenden Repräsentationen, aber gleichzeitig: Existenz der realen Repräsentation.
@@ -2494,39 +2391,25 @@ Das Symbolspiel ist die Vorstellung, dass ein Gegenstand ein anderes Objekt dars
 -Akteur: Selbstbezug ? Bezug auf andere Personen. Imitiert deren Verhalten, kann sich aber noch nicht in deren Rollen versetzen. Dies ist erst ab dem 3. Lebensjahr beim Rollenspiel der Fall.
 
 
-ççççLüge und Täuschung
+ç4Lüge und Täuschung
 Aufgabe: Versuchsleiter verlässt den Raum und die Kinder durften nicht ein Spielzeug anschauen, während der Versuchsleiter ausserhalb des Raumes war.
 Ergebnis: Ab dem Alter von ca. 3 Jahren können Kinder Lügen und dabei ihre Emotionen kontrollieren.
 
 
-ççççVoraussetzung für Theory of Mind: Perspektivenübernahme
+ç4Voraussetzung für Theory of Mind: Perspektivenübernahme
 -Level 1: Unterschied in WAS gesehen wird.
 -Level 2: Unterschied in WIE etwas gesehen wird.
 -Kinder sind auf Level 2, wenn sie verstehen, dass eine Person dasselbe Objekt anders wahrnimmt wie das Kind selbst. Dies kann abhängig sein von Perspektive, Position der anderen Person oder Objekten, die die Sicht verdecken könnten.
 
 
-çççVor 4 Jahren
-ççççFalse Belief mit 18 Monaten
-
+ç3Vor 4 Jahren
+ç4False Belief mit 18 Monaten
 
 Melone wird in Schachtel versteckt, danach Sicht verdeckt. Person sucht dann in der Schachtel, in der sie die Melone versteckt hat.
-
 
 True belief: Person sieht, wie Melone in die gelbe Box geht.
 False belief: Person sieht nicht, wie Melone zurück in die grüne Box geht.
 
 Die Person sollte in beiden Fällen davon ausgehen, dass die Melone in der linken Box ist. Das Kind ist überrascht, wenn die Person entgegen dieser Erwartung handelt.
 Das “falsche” Verhalten wird länger angesehen wie das “richtige” Verhalten.
-
-
-
-
-
-Zusammenfassung Entwicklungspsychologie 1	      HS19
-
-
-   
-
-1
-   
 

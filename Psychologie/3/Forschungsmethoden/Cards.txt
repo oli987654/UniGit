@@ -1,0 +1,34 @@
+
+INHEND
+ç1Psychologie als empirische Wissenschaft
+ç2Definition empirische Wissenschaft
+Eine empirische Wissenschaft ist daran interessiert, Hypothesen und Theorien zu den Fragen zu entwerfen, mit denen man sich gerade beschäftigt. Diese werden nun mit der Realität konfrontiert. Man vergleicht also die gedankliche Antwort auf die Frage mit den in der Realität diesbezüglich vorfindbaren Sachverhalten.
+ç2Alltagspsychologie
+Die Wahrnehmung in der Alltagspsychologie ist selektiv, nicht wertfrei und hängt von Kontext und den Hypothesen ab. Sowohl die Wahrnehmung als auch die zugrundeliegenden Hypothesen werden im Alltag häufig nicht reflektiert, sondern intuitiv übernommen.
+Kritik: Die Begriffe der Alltagspsychologie sind meist ungenau & inkonsistent. Die Erklärungen sind meist unvollständig und es findet keine systematische Überprüfung statt.
+ç2Wissenschaftliche Psychologie
+Systematische Forschung führt zu Überwindung von Wahrnehmungsverzerrungen und präziser Realitätserfassung. Dafür werden wissenschaftliche Methoden benutzt.
+2 Wege der Erkenntnis: induktives oder deduktives Vorgehen
+ç3Induktion
+von wiederholten Einzelbeobachtungen oder sorgfältiger Einzelfallanalyse wird eine generelle Regel für die Allgemeinheit gemacht.
+Problem: Induktive Schlüsse haben nur Wahrscheinlichkeitscharakter und lassen sich nicht richtig begründen und beweisen.
+ç3Deduktion
+Von einer Regel für die Allgemeinheit wird auf den Einzelfall geschlossen.
+ç2Wissenschaftstheorie
+Bei der Wissenschaftstheorie handelt es sich um jene Disziplin, die sich mit dem Begriff und der Einteilung von Wissenschaften, ihren Erkenntnisprinzipien und Methoden, sowie ihrer Sprache beschäftigt. Ziel der Wissenschaftstheorie liegt "in der Klärung wissenschaftlicher Begriffe, Aussagen, Methoden und Theoriebildungen".
+ç3Logik
+Lehre des vernünftigen Schlussfolgerns
+ç3Empirismus
+Wissenschaftliche Erkenntnisse sind auf Beobachtung und Experiment zurückzuführen
+ç3Phänomenologie
+Wissenschaft, Lehre, die von der geistigen Anschauung des Wesens der Gegenstände oder Sachverhalte ausgeht, die die geistig-intuitive Wesensschau (anstelle rationaler Erkenntnis) vertritt.
+ç3Kritischer Rationalismus
+Deduktion wird als einzig mögliche Vorgehensweise angesehen (Mit Ausnahme der Theoriebildung, wo auch Induktion erlaubt ist). Alles ist theoriegeleitet und aus der Theorie werden Hypothesen abgeleitet, die empirisch prüfbar sind. Der kritische Rationalismus besagt auch, dass nur Falsifikation möglich ist, aber nie Verifikation.
+ç3Konstruktivismus
+Lehre, die den konstruktiven Aufbau besonders der Mathematik und der Logik vertritt
+ç3Strukturalismus
+Sammelbegriff für interdisziplinäre Methoden und Forschungsprogramme, die Strukturen und Beziehungsgefüge in den weitgehend unbewusst funktionierenden Mechanismen kultureller Symbolsysteme untersuchen.
+ç3Systemtheorie
+soziologische Theorie, durch die Gesellschaft als ein "umfassendes soziales System, das alle anderen sozialen Systeme in sich einschliesst" beschrieben und erklärt wird.
+
+
