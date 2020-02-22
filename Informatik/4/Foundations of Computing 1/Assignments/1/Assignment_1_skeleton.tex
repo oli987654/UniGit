@@ -1,0 +1,122 @@
+\documentclass{exercise}
+\setcounter{exercise}{1}
+\title{ \line(1,0){415} \\ Formale Grundlagen der Informatik I -\\ Assignment \theexercise\\
+\line(1,0){415}}
+
+\lefttitle{Universität Zürich\\Institut für Informatik \newline \\Student Name: \\Matrikel-Nr:}
+\righttitle{FS 2020}
+\lowerright{}
+
+\usepackage{a4wide}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[german]{babel}
+\usepackage{courier}
+\usepackage{etoolbox}
+\usepackage{graphicx}
+\usepackage[scaled=.95]{helvet}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{siunitx}
+\usepackage[DIV11]{typearea}
+\usepackage{tikz}
+
+\sloppy
+\begin{document}
+\maketitle
+
+\begin{center}
+  Hand out: 20.02.2020 - Due to: 05.03.2020\\\vspace{1em}
+  Please upload your solutions to the Olat system.\\
+\end{center}
+
+\task{Sets and Subsets}
+
+  \subtaskTime{1} Write in your own words how to read the following sets:
+    \begin{enumerate}
+      \item $\{ n \in \mathbb{Z} \: | \: n \notin \mathbb{N} \} $
+
+      \item $\{ x \in \mathbb{R}^{-} \: | \: x > -10 \} $
+
+    \end{enumerate}
+
+  \subtaskTime{3} Answer the following questions with a short explanation:
+    \begin{enumerate}
+      \item Is $\emptyset \in \{\} $?
+      
+      \item How many elements does the set $\{ 1, 1, 1, 2, 2 \} $ contain?
+      
+      \item How many elements does the set $\{ 1, 2, \{ 1, 2 \}, \{\{1, 2\}, \{1, 2\}\}, \{2, 1\} \}$ contain?
+      
+      \item Is $\{2\} \in \{ \{ 1 \} , \{ 2 \} \} $?
+      
+      \item Is $0 \in \{ \{ 0 \} , \{ 1 \} \} $?
+      
+      \item Is $\{2\} \in \{ \{ 1, 2 \} \} $?
+
+    \end{enumerate}
+
+\task{Relations and Functions}
+  \subtaskTime{1} What is the difference between a function and a relation?
+
+  \subtaskTime{5} Let $A = \{ 2, 4 \} $ and $B = \{ 1, 3, 5 \} $. Define the nonempty and pairwise different relations $U, V, W \subseteq A \times B$. Is your solution unique?
+    \begin{itemize}
+      \item $x \cdot y \geq 7 \rightarrow (x, y) \in U$.
+
+      \item $(x, y) \in V \rightarrow x > y$.
+
+      \item $x > y \rightarrow (x, y) \in W$.
+
+    \end{itemize}
+
+    \begin{enumerate}
+      \item For wich of the above tasks would the empty set be a valid solution if the additional constraints (pairwise difference and nonemptiness) weren't given?
+
+      \item Determine if the relations $U, V$ and $W$ are functions and reason in a few words.
+
+    \end{enumerate}
+
+  \subtaskTime{2} Which attributes (left/right-total, left/right-unique) do the following relations $A, B, C, D \subseteq \mathbb{N} \times \mathbb{N}$ have?
+    \begin{itemize}
+      \item $A = \{(n, 1) \: | \: n \in \mathbb{N}\}$
+      
+      \item $B = \{(1, n) \: | \: n \in \mathbb{N}\}$
+      
+      \item $C = \{(n, m) \: | \: n,m \in \mathbb{N}\}$
+      
+      \item $D = \{(n, n) \: | \: n \in \mathbb{N}\}$
+
+    \end{itemize}
+
+\task{Logical Equivalence}
+  \subtaskTime{4} Write down the truth table for the following logical statement:
+    $$(a \wedge \neg b) \vee (\neg a \wedge b) \leftrightarrow \neg (a \wedge b) \vee (a \wedge b)$$
+
+  \subtaskTime{2} Please determine (in a plausible way) if the following statements are tautologies or contradictions.
+    \begin{enumerate}
+      \item $((p \wedge \neg q \wedge \neg r) \vee (p \wedge \neg q \wedge r)) \leftrightarrow \neg(p \vee q)$
+
+      \item $(p \vee q) \vee \neg(p \wedge q)$
+
+    \end{enumerate}
+
+  \subtaskTime{1} With a few words of explanation, determine if the following statements are mutually excluding.
+    \begin{itemize}
+      \item Susan speaks German and English. Oliver only speaks English.
+      \item It is not the case that Oliver and Susan both speak German and English.
+    \end{itemize}
+    
+\task{Conditional Statements}
+  \subtaskTime{4} Write each of the following three statements in symbolic form and determine which pairs are logically equivalent. Please define the variables you use at least once.
+    \begin{enumerate}
+      \item If it walks like a duck and it talks like a duck, then it is a duck.
+
+      \item Either it does not walk like a duck or it does not talk like a duck, or it is a duck.
+
+      \item If it does not walk like a duck and it does not talk like a duck, then it is not a duck.
+      
+      \item If it walks like a duck and doesn't talk like a duck, it is a duck, but if it doesn't walk like a duck and talks like a duck it's not a duck.
+
+    \end{enumerate}
+\end{document}
