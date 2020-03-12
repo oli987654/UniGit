@@ -1,0 +1,217 @@
+\documentclass{exercise}
+\setcounter{exercise}{2}
+\title{ \line(1,0){415} \\ Formale Grundlagen der Informatik I -\\ Assignment \theexercise\\
+\line(1,0){415}}
+
+\lefttitle{Universität Zürich\\Institut für Informatik \newline \\Student Name: \\Matrikel-Nr:}
+\righttitle{FS 2020} 
+\lowerright{}
+
+\usepackage[DIV11]{typearea}
+\usepackage[german]{babel}
+\usepackage{graphicx}
+\usepackage{a4wide}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[scaled=.95]{helvet}
+\usepackage{courier}
+\usepackage{listings}
+\usepackage{siunitx}
+
+\usepackage{tikz}
+\usepackage[american]{circuitikz}
+\usepackage{etoolbox}
+\usepackage[utf8]{inputenc}
+
+\newrobustcmd*{\mysquare}[1]{\tikz{\filldraw[draw=#1,fill=#1] (0,0)
+rectangle (0.2cm,0.2cm);}}
+
+\newrobustcmd*{\mycircle}[1]{\tikz{\filldraw[draw=#1,fill=#1] (0,0) circle [radius=0.1cm];}}
+
+\newrobustcmd*{\mytriangle}[1]{\tikz{\filldraw[draw=#1,fill=#1] (0,0) --
+(0.2cm,0) -- (0.1cm,0.2cm);}}
+
+\usetikzlibrary{arrows,shapes.gates.logic.US,shapes.gates.logic.IEC,calc}
+\tikzstyle{branch}=[fill,shape=circle,minimum size=4pt,inner sep=0pt]
+
+\newcommand{\answer}[1]{\vspace{0.25cm}\\\textbf{Answer:}~#1\vspace{0.25cm}}
+
+\sloppy
+\begin{document}
+\maketitle
+
+\begin{center}
+	Hand out: 05.03.2020 - Due to: 19.03.2020\\\vspace{1em}
+  Please upload your solutions to the Olat system.
+\end{center}
+
+\task{Circuits}
+  \subtaskTime{6} Given the following truth table, derive and draw the corresponding circuit for the output $s$.
+    \begin{center}
+      \begin{tabular}{lll|c}
+        $a$ & $b$ & $c$ & $s$ \\
+        \hline
+        0 & 0 & 0 & 0\\
+        0 & 0 & 1 & 0\\
+        0 & 1 & 0 & 1\\
+        0 & 1 & 1 & 1\\
+        1 & 0 & 0 & 1\\
+        1 & 0 & 1 & 1\\
+        1 & 1 & 0 & 0\\
+        1 & 1 & 1 & 0\\
+      \end{tabular}
+    \end{center}
+    \answer{
+
+    }
+
+
+\task{The Logic of Quantified Statements}
+  \subtaskTime{3} Consider the following grid and colored figures:
+    \begin{center}
+      \begin{tabular}{ | c | c | c | c | c | }
+        \hline			
+        \mycircle{red} & \mysquare{red} & & & \mycircle{green} \\ \hline
+        \mycircle{green} & & \mycircle{blue} & & \\ \hline
+        \mysquare{red} & \mycircle{blue} & \mytriangle{black} & & \\ \hline
+        & \mysquare{red} & & \mycircle{black} & \mytriangle{black} \\ \hline
+        & \mysquare{red} & \mycircle{blue} & & \mytriangle{black} \\ \hline
+      \end{tabular}
+    \end{center}
+    The domain of variables ($V$) is the set of all figures on the grid. Function names can be figure forms (eg. $\mathrm{Triangle}(x)$ means $x$ is a triangle), figure positions, colors or other attributes.\\
+    For example, $\mathrm{IsLeftOf}(x,y)$ returns true if $x$ is on the left field of $y$.\\
+    $\mathrm{IsNextTo}(x,y)$ returns true if $x$ is a neighbour of $y$ (horizontally or vertically, but not diagonally). 
+    
+    Decide if the following statements are true or false for the grid given above. Please give a short reason for your decision.
+    \begin{enumerate}
+	    \item $\exists \, x \in V: \mathrm{Hexagon}(x)$
+      \answer{
+
+      }
+	    
+	    \item $\exists \, x \in V: \mathrm{Red}(x) \wedge \mathrm{Square}(x)$
+      \answer{
+
+      }
+	    
+	    \item $\forall \, x \in V: \neg \mathrm{Yellow}(x) \wedge \mathrm{Square}(x)$
+      \answer{
+
+      }
+	    
+	    \item $\forall \, x \in V: \neg \mathrm{Green}(x) \vee \mathrm{Circle}(x)$
+      \answer{
+
+      }
+	    
+	    \item $\exists \, x, y \in V: \mathrm{Square}(x) \wedge \mathrm{Triangle}(y) \wedge \mathrm{IsLeftOf}(x,y)$
+      \answer{
+
+      }
+	    
+	    \item $\forall \, x, y \in V: \neg \mathrm{Square}(x) \wedge \neg \mathrm{Circle}(y) \wedge \mathrm{IsNextTo}(x,y)$
+      \answer{
+
+      }
+	    
+    \end{enumerate}
+
+  \subtaskTime{3} Which of the following is contradicting ``For all cats there exists a dog, who hates this cat.''? More than one answer may be correct.
+    \begin{enumerate}
+	    \item Every cat hates every dog.
+      \answer{
+
+      }
+	    
+	    \item Every dog likes the same cat.
+      \answer{
+
+      }
+	    
+	    \item Every dog hates the same cat.
+      \answer{
+
+      }
+	    
+	    \item Every dog likes every cat.
+      \answer{
+
+      }
+	    
+	    \item One cat is liked by all dogs.
+      \answer{
+
+      }
+	    
+	    \item Some cats are hated by some dogs.
+      \answer{
+
+      }
+	    
+	    \item All cats are liked by some dogs.
+      \answer{
+
+      }
+	    
+	    \item Every cat is liked by every dog.
+      \answer{
+
+      }
+	    
+	    \item No dog likes every cat.
+      \answer{
+
+      }
+    \end{enumerate}
+
+\task{Number Theory and Proofs}
+  \subtaskTime{2} Prove the following statement: There are distinct integers $m$ and $n$ such that $\frac{1}{m} + \frac{1}{n}$ is an integer.
+  \answer{
+
+  }
+
+  \subtaskTime{3} Prove that the product of any two consecutive positive integers is even.
+  \answer{
+
+  }
+
+  \subtaskTime{3} Use proof by contradiction to show that for all positive integers $m$, $7m + 1$ is not divisible by $7$.
+  \answer{
+
+  }
+
+  \subtaskTime{7} Given are $a,b, c \in \mathbb{Z}$. Prove or disprove the following statements:
+    \begin{enumerate}
+      \item If $b\ \mathrm{mod}\ a = 0$ and $c\ \mathrm{mod}\ a = 0$, then $(b + c)\ \mathrm{mod}\ a = 0$.
+      \answer{
+
+      }
+      
+      \item If $c\ \mathrm{mod}\ a = 0$ and $c\ \mathrm{mod}\ b = 0$, then $c\ \mathrm{mod}\ (a\cdot b) = 0$.
+      \answer{
+
+      }
+      
+      \item If $n \in \mathbb{N}$ is even, then $n^3$ is even too.
+      \answer{
+
+      }
+      
+      \item If $n \in \mathbb{N}$ is odd, then are $a, b \in \mathbb{N}$ so that $n = a^2 - b^2$.
+      \answer{
+
+      }
+      
+      \item If $p$ is a prime number and $n \in \mathbb{N}$ is smaller than $p$, then $\binom{p}{n}\ \mathrm{mod}\ p = 0$.
+      \answer{
+
+      }
+    
+      \item If $n \in \mathbb{N}$, then $\binom{2n}{n}$ is even.
+      \answer{
+
+      }
+      
+    \end{enumerate}
+\end{document}
