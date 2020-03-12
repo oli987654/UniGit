@@ -1,0 +1,167 @@
+\documentclass{exercise}
+\setcounter{exercise}{1}
+\title{ \line(1,0){415} \\ Formale Grundlagen der Informatik I -\\ Assignment \theexercise\\
+\line(1,0){415}}
+
+\lefttitle{Universität Zürich\\Institut für Informatik \newline \\Student Name: Oliver Hliddal \\Matrikel-Nr: 18-737-528}
+\righttitle{FS 2020}
+\lowerright{}
+
+\usepackage{a4wide}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[german]{babel}
+\usepackage{courier}
+\usepackage{etoolbox}
+\usepackage{graphicx}
+\usepackage[scaled=.95]{helvet}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{siunitx}
+\usepackage[DIV11]{typearea}
+\usepackage{tikz}
+
+\sloppy
+\begin{document}
+\maketitle
+
+\begin{center}
+  Hand out: 20.02.2020 - Due to: 05.03.2020\\\vspace{1em}
+  Please upload your solutions to the Olat system.\\
+\end{center}
+
+\task{Sets and Subsets}
+
+  \subtaskTime{1} Write in your own words how to read the following sets:
+    \begin{enumerate}
+      \item $\{ n \in \mathbb{Z} \: | \: n \notin \mathbb{N} \} $ \newline
+      The set of all integers n such that n is not a nonnegative integer.
+      
+      \item $\{ x \in \mathbb{R}^{-} \: | \: x > -10 \} $
+      \newline
+      The set of all negative real numbers x such that x is bigger than minus ten.
+
+    \end{enumerate}
+
+  \subtaskTime{3} Answer the following questions with a short explanation:
+    \begin{enumerate}
+      \item Is $\emptyset \in \{\} $?
+      \newline
+      No. $\emptyset$ is equal to $\{\}$, but it is not an element (as indicated by $\in$) of the empty list $\{\}$. 
+      
+      \item How many elements does the set $\{ 1, 1, 1, 2, 2 \} $ contain?
+      \newline
+      The set contains the items $1$ \& $2$. According to the axiom of extension the amount of times an element of a set appears when written is irrelevant for the determination of the set.
+      
+      \item How many elements does the set $\{ 1, 2, \{ 1, 2 \}, \{\{1, 2\}, \{1, 2\}\}, \{2, 1\} \}$ contain?
+      \newline
+      It contains four elements. Sets inside another set are counted as one element, ignoring their length. The five elements are the two numbers 1 and 2, the set $\{1,2\}$ and the set $\{\{1,2\}$,$\{1,2\}\}$, which consists of another set (the two sets are equal and only count as one). The last written out set $\{2,1\}$ is the same as $\{1,2\}$ which is already named earlier and is not considered a new element.
+      
+      \item Is $\{2\} \in \{ \{ 1 \} , \{ 2 \} \} $?
+      \newline
+      Yes. The bigger set consists of two elements \{1\} and \{2\}. \{2\} is therefor an element.
+      
+      \item Is $0 \in \{ \{ 0 \} , \{ 1 \} \} $?
+      \newline
+      No. The number 0 is not an element of the set that consists of two sets.
+      
+      \item Is $\{2\} \in \{ \{ 1, 2 \} \} $?
+      \newline
+      No. The set $\{2\}$ is not equal to the set $\{1,2\}$ and is therefor not a part of the set which has one element $\{1,2\}$.
+
+    \end{enumerate}
+
+\task{Relations and Functions}
+  \subtaskTime{1} What is the difference between a function and a relation?
+  \newline
+  A relation is a subset of a cartesian product. For every ordered pair in this subset a property is true. The property does not have to be true for all ordered pairs of the cartesian product.
+  \newline
+  A function $F$ is a relation with every element $x$ of the domain having an element $y$ in the co-domain, so that the relation is true. Every $x$ only has exactly one $y$. If there are multiple elements $y,z,...$ for which $(x,y),(x,z),(x,...) \in F$, then $y=z=...$ or the relation is not a function. This means that functions are right-unique and left-total.
+
+  \subtaskTime{5} Let $A = \{ 2, 4 \} $ and $B = \{ 1, 3, 5 \} $. Define the nonempty and pairwise different relations $U, V, W \subseteq A \times B$. Is your solution unique?
+    \begin{itemize}
+      \item $x \cdot y \geq 7 \rightarrow (x, y) \in U$.
+        \newline
+        $(2,5),(4,3),(4,5)$ Unique.
+      \item $(x, y) \in V \rightarrow x > y$.
+        \newline
+        $(2,1),(4,3),(4,1)$ Unique.
+      \item $x > y \rightarrow (x, y) \in W$.
+        \newline
+        $(2,1),(4,3),(4,1)$ Unique.
+    \end{itemize}
+
+    \begin{enumerate}
+      \item For wich of the above tasks would the empty set be a valid solution if the additional constraints (pairwise difference and nonemptiness) weren't given?
+      \newline
+      None.
+
+      \item Determine if the relations $U, V$ and $W$ are functions and reason in a few words.
+      \newline
+      None of them are functions. There isn't exactly one $y \in B$ for each $x \in A$.
+
+    \end{enumerate}
+
+  \subtaskTime{2} Which attributes (left/right-total, left/right-unique) do the following relations $A, B, C, D \subseteq \mathbb{N} \times \mathbb{N}$ have?
+    \begin{itemize}
+      \item $A = \{(n, 1) \: | \: n \in \mathbb{N}\}$
+      \newline
+      Right-unique, left-total, right-total
+      \item $B = \{(1, n) \: | \: n \in \mathbb{N}\}$
+      \newline
+      Left-unique, left-total, right-total
+      \item $C = \{(n, m) \: | \: n,m \in \mathbb{N}\}$
+      \newline
+      Left-total, right-total
+      \item $D = \{(n, n) \: | \: n \in \mathbb{N}\}$
+      \newline
+      Left-total, right-total
+    \end{itemize}
+
+\task{Logical Equivalence}
+  \subtaskTime{4} Write down the truth table for the following logical statement:
+    $$(a \wedge \neg b) \vee (\neg a \wedge b) \leftrightarrow \neg (a \wedge b) \vee (a \wedge b)$$
+    \newline
+    
+
+  \subtaskTime{2} Please determine (in a plausible way) if the following statements are tautologies or contradictions.
+    \begin{enumerate}
+      \item $((p \wedge \neg q \wedge \neg r) \vee (p \wedge \neg q \wedge r)) \leftrightarrow \neg(p \vee q)$
+      \newline
+      
+
+      \item $(p \vee q) \vee \neg(p \wedge q)$
+
+    \end{enumerate}
+
+  \subtaskTime{1} With a few words of explanation, determine if the following statements are mutually excluding.
+    \begin{itemize}
+      \item Susan speaks German and English. Oliver only speaks English.
+      \item It is not the case that Oliver and Susan both speak German and English.
+    \end{itemize}
+    \newline
+    Statement 2 is only wrong if both speak both languages. As Oliver only speaks English, both statement 1 & 2 are both correct and are not mutually excluding.
+    
+\task{Conditional Statements}
+  \subtaskTime{4} Write each of the following three statements in symbolic form and determine which pairs are logically equivalent. Please define the variables you use at least once. \newline
+    $w$ = Walks like a duck \newline
+    $t$ = Talks like a duck \newline
+    $i$ = is a duck
+    \begin{enumerate}
+      \item If it walks like a duck and it talks like a duck, then it is a duck.
+    \newline
+    $w \wedge t \rightarrow i$
+      \item Either it does not walk like a duck or it does not talk like a duck, or it is a duck. \newline
+    $(\neg w \vee \neg t) \vee i$
+      \item If it does not walk like a duck and it does not talk like a duck, then it is not a duck. \newline
+      $(\neg w \wedge \neg t) \rightarrow \neg i$
+      \item If it walks like a duck and doesn't talk like a duck, it is a duck, but if it doesn't walk like a duck and talks like a duck it's not a duck. \newline
+      $(w \wedge \neg t \rightarrow i) \wedge (\neg w \wedge t \rightarrow \neg i)$
+
+    \end{enumerate}
+    
+
+
+
+\end{document}
