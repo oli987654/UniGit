@@ -1,0 +1,104 @@
+\documentclass{exercise}
+\setcounter{exercise}{3}
+\title{ \line(1,0){415} \\ Formale Grundlagen der Informatik I -\\ Assignment \theexercise\\
+\line(1,0){415}}
+
+\lefttitle{Universität Zürich\\Institut für Informatik \newline \\Student Name: \\Matrikel-Nr:}
+\righttitle{FS 2020} 
+\lowerright{}
+
+\usepackage[DIV11]{typearea}
+\usepackage[german]{babel}
+\usepackage{graphicx}
+\usepackage{a4wide}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[scaled=.95]{helvet}
+\usepackage{courier}
+\usepackage{listings}
+\usepackage{siunitx}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+\usepackage{tikz}
+\usepackage{etoolbox}
+\usepackage[utf8]{inputenc}
+
+\newcommand{\answer}[1]{\vspace{0.25cm}\\\textbf{Answer:}~#1\vspace{0.25cm}}
+
+\sloppy
+\begin{document}
+\maketitle
+
+\begin{center}
+	Hand out: 19.03.2020 - Due to: 09.04.2020\\\vspace{1em}
+  Please upload your solutions to the Olat system.
+\end{center}
+
+\task{Binomial Coefficients}
+  \subtaskTime{1} Without proof: What is the relation between Pascal's triangle and the binomial coefficients?
+  \answer{
+
+  }
+
+  \subtaskTime{2} Please give a recursive formula to calculate $\binom{n}{k}$ with $n,k\in\mathbb{N}$ that appears reasonable. Please give a short explanation.
+  \answer{
+
+  }
+
+\task{Mathematical Induction and Proofs}
+  \subtaskTime{4} Please describe, how induction works as a proof. For what kind of problem is it well suited and for what kind of problem is it badly applicable and why?
+  \answer{
+
+  }
+
+  \subtaskTime{2} Name the four steps that you have to perform in every induction.\\
+  \answer{
+
+  }
+    
+  \subtaskTime{9} Prove the following statements using induction:
+    \begin{enumerate}
+      \item $\sum\limits_{i=1}^n i = \frac{n(n+1)}{2}, \forall n \in \mathbb{N}^{+}$.
+      \answer{
+
+      }
+      
+      \item $\sum\limits_{i=1}^n i^2 = \frac{n(n+1)(2n+1)}{6}, \forall n \in \mathbb{N}^{+}$.
+      \answer{
+
+      }
+      
+    \end{enumerate}
+
+  \subtaskTime{3} Now prove $\sum\limits_{i=1}^n i = \frac{n(n+1)}{2}, \forall n \in \mathbb{N}$ without induction.\\
+  \answer{
+
+  }
+
+  \subtaskTime{2} Given $P(n) = (2^n < (n + 1)!)\;\forall n \in \mathbb{N}^{+}$. ($P$ takes a positive integer and returns a boolean.)
+    \begin{enumerate}
+      \item Write $P(2)$, is $P(2)$ true?
+      \answer{
+
+      }
+      
+      \item Write $P(k)$.
+      \answer{
+
+      }
+      
+      \item Write $P(k+1)$.
+      \answer{
+
+      }
+      
+      \item In a proof by mathematical induction that this inequality holds for all integers $n \geq 2$, what must be shown in the inductive step?
+      \answer{
+
+      }
+
+    \end{enumerate}
+
+\end{document}
