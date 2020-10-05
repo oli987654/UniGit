@@ -1,0 +1,92 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{1}
+\newcommand{\topics}{Formal Languages, Automata, Regular Expressions}
+\newcommand{\distdate}{21.09.2020}
+\newcommand{\duedate}{04.10.2020}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+\task{Alphabets, Words, Languages}
+
+\subtask Let $X = \{1321,2222,31\}$, $Y =\{\varepsilon,11,21\}$, and
+  $Z = \{\varepsilon,u,bddd\}$ be languages over the alphabet $\{1,2,3,u,b,d\}$;
+  let $\circ$ denote the concatenation operator.
+  \begin{taskitems}
+    \item Give the set of strings in $X^*$ that are of length $4$.
+    \item Give the set of strings in $X \circ Y$ that are of length $6$.
+    \item Give the set of strings in $(Y \cup Z) \circ X$ that are of length $5$ or less.
+  \end{taskitems}
+
+  %% Insert your answer here
+
+\subtask We consider two languages $\{1\}$ and $\{2\}$ that contain only one word each.
+  You are only asked to explain your arguments in words; no formal arguments are
+  required. 
+  \begin{taskitems}
+    \item Explain why $(\{1\}^*\{2\}^*)^* =   (\{1,2\}^*)^2$.
+    \item Explain why $(\{1\}^*\{2\}^*)^* \ne (\{1,2\}^2)^*$.
+  \end{taskitems}
+
+  %% Insert your answer here
+
+\task{Finite Automata}
+
+If you want to create graphs, \texttt{\textsc{Tikz}} is a nice tool to generate diagrams
+from code.
+
+\subtask Draw (either by hand or by using a drawing tool) a finite
+  automaton (DFA) for each of the following languages.
+  \begin{taskitems}
+    \item The language $L_1=\{aab,aaab,b\}$ over the alphabet $\{a,b\}$.
+    \item The language $L_2$ over the alphabet $\{a,b,c\}$ consisting of all words that start with
+      $aba$ and contain at least one $c$.
+    \item The language $L_3$ over the alphabet $\{0,1\}$ that consists of the words that are the binary
+      representation of even numbers.  All representations (except $0$) should start with a $1$; \eg,
+			the word $100$ is in $L_3$, but $11$, $0100$, and $101$ are not in $L_3$.
+  \end{taskitems}
+
+  %% Insert your answer here
+
+\newpage
+
+\subtask It is important to get the quantifiers straight in this context.  All the following
+  languages are over the alphabet $\{0,1\}$.
+  \begin{taskitems}
+    \item Draw a DFA for the language $L_1=\{01\}$.
+    \item Draw a DFA for the language $L_2=\{0011\}$.
+    \item This can be generalized for arbitrary natural numbers.  For a given $k\in\nat$,
+      sketch how an automaton for the language $L_k=\{0^k1^k\}$ would look like. 
+    \item However, explain on an intuitive level, in two or three sentences, where the problem lies, if one
+      would want to create a DFA for the language $L=\{0^k1^k\mid k\in\nat\}$.  Note that $L$ contains all words
+      $\varepsilon,01,0011,000111,\dots$.  Later, we will even \emph{prove} that there
+      cannot be a DFA for this language.
+  \end{taskitems}
+
+  %% Insert your answer here
+
+\task{Cycles in Finite Automata}
+
+Prove \emph{by contradiction} that every DFA contains a cycle.
+
+%% Insert your answer here
+
+\end{document}
