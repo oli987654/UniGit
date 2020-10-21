@@ -1,0 +1,158 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{2}
+\newcommand{\topics}{Deterministic and Non-deterministic Automata and Regular Languages}
+\newcommand{\distdate}{05.10.2020}
+\newcommand{\duedate}{25.10.2020}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+\task{Deterministic Finite Automata}
+
+For a word $w$, we denote the number of occurrences of the letter $a$ in $w$ by $|w|_a$;
+for instance, we have $|1010110|_0=3$ and $|xyzxzzy|_x=2$.  Draw DFAs for the following
+languages.
+
+\subtask $L_1=\{ w\in\{a,b\}^* \mid |w|_a + |w|_b \text { is even}\}$,
+
+  %% Insert your answer here
+
+\subtask $L_2=\{ w\in\{a,b\}^* \mid (|w|_a+2|w|_b)\bmod 4 = 3 \}$,
+
+  %% Insert your answer here
+
+\subtask $L_3=\{ w\in\{a,b,c\}^* \mid (|w|_a+2|w|_c)\bmod 5 = 0 \}$.
+
+  %% Insert your answer here
+
+\task{Size of Deterministic Finite Automata}
+
+Consider the language
+\[ L = \{ w\in\{a,b\}^* \mid w=xay \text{ with } x\in\{a,b\}^* \text{ and } y\in\{a,b\}^2\}, \]
+\ie, the language that contains all words over the alphabet $\{a,b\}$ which
+have at least three letters and an $a$ at the third-to-last position.  Prove
+that any DFA for $L$ has to have at least four states in the following way.
+
+Take a set of four words (that are not necessarily in $L$) and show that no two
+of them are allowed to end in the same state of any DFA for $L$.  To this end, for
+any two words $w_1$ and $w_2$, supply a \emph{shortest suffix} that implies that
+one of the two words has to end in an accepting state while the other one must
+not end in an accepting state. 
+
+%% Insert your answer here
+
+\task{Non-Deterministic Finite Automata}
+
+\subtask Construct an NFA for the following languages. 
+
+  \begin{taskitems}
+    \item $L_1=\{w\in\{0,1,2\}^*\mid w \text{ contains the string } 111\}$,
+    \item $L_2=\{w\in\{0,1,2\}^*\mid w \text{ ends with the string } 111\}$,
+    \item $L_3$, which is matched by the regular expression $(1+0)^*1(0+1)11(0+1)(0+1)00$.
+
+    \smallskip
+    \textit{Hint:} Here, you do not have to use the construction from the lecture.
+  \end{taskitems}
+
+%% Insert your answer here
+
+\subtask Consider the following NFA.
+
+\begin{center}
+  \begin{tikzpicture}[node distance=3cm]
+    \node[initial,state]   (p)              {$p$};
+    \node[state]           (q) [right of=p] {$q$};
+    \node[accepting,state] (r) [right of=q] {$r$};
+    \node[state]           (s) [right of=r] {$s$};
+    \path[->] (p) edge [loop above]   node        {$1$}   (p)
+                  edge                node        {$0$}   (q)
+                  edge [bend right]   node[below] {$1$}   (r)
+              (q) edge [loop above]   node        {$0$}   (q)
+                  edge                node        {$0$}   (r)
+              (r) edge [loop above]   node        {$0$}   (r)
+                  edge [bend left=50] node        {$1$}   (s)
+              (s) edge [loop above]   node        {$0,1$} (s)
+              (s) edge [bend left=50] node        {$0$}   (r);
+  \end{tikzpicture}
+\end{center}
+
+Use the powerset construction to transform this NFA into a DFA.
+
+%% Insert your answer here
+
+\task{Finite Automata and Regular Expressions}
+
+\subtask Use the method that was introduced in the lecture to
+  transform the following DFA into a regular expression.
+  \begin{center}
+    \begin{tikzpicture}[node distance=3cm]
+      \node[initial,state]   (1)              {$1$};
+      \node[accepting,state] (2) [right of=p] {$2$};
+      \node[state]           (3) [right of=q] {$3$};
+      \path[->] (1) edge               node        {$1$} (2)
+                    edge[bend left=50] node        {$0$} (3)
+                (2) edge[loop above]   node        {$0$} (2)
+                    edge[bend right]   node[below] {$1$} (3)
+                (3) edge[loop above]   node        {$0$} (3)
+                    edge[bend right]   node[above] {$1$} (2);
+    \end{tikzpicture}
+  \end{center}
+  Write down all steps and comment on what you are doing.
+
+  %% Insert your answer here
+
+\subtask Convert the regular expression $1+(0+1)^*+0$ into an NFA with
+  $\varepsilon$-transitions.
+
+  %% Insert your answer here
+
+\subtask Convert the regular expression $01^*+1$ into an NFA with
+  $\varepsilon$-transitions.
+
+  %% Insert your answer here
+
+\task{The Product Automaton}
+
+Consider the two languages
+\begin{align*}
+  L_{10}  &= \{w \in \{0,1\}^* \mid w \text{ contains } 10\} \text{ and} \\
+  L_{011} &= \{w \in \{0,1\}^* \mid w \text{ starts with } 011 \}.
+\end{align*}
+Construct the product automaton for $L_{10}\cap L_{011}$ with the technique
+described in the lecture.
+
+%% Insert your answer here
+
+\task{Non-Regularity}
+
+\subtask In the last assignment (more specifically, exercise 1.2(b)iv), we
+  already sketched that there is a problem when designing a DFA for the
+  language $L_{01}=\{0^k1^k \mid k \in \nat\}$.  Now use the pumping lemma
+  to prove that this language is indeed not regular.
+
+  %% Insert your answer here
+
+\subtask Again, using the pumping lemma, prove that the language
+  $L_{\text{sq}}=\{0^k \mid k \text{ is a square}\}$ is not regular.
+
+  %% Insert your answer here
+
+\end{document}
