@@ -1,0 +1,130 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{3}
+\newcommand{\topics}{Context-Free Grammars and Languages}
+\newcommand{\distdate}{26.10.2020}
+\newcommand{\duedate}{01.11.2020}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+\task{Context-Free Grammars and Languages}
+
+As defined in the lecture, for a word $w$, $w^{\rev}$ denotes the ``reversal''
+of $w$; for instance, $(aabbba)^{\rev}$ is $abbbaa$.  Furthermore, as already defined
+in Exercise 2.1, $|w|_a$ denotes the number of occurrences of the letter $a$ in
+$w$.  Construct context-free grammars for the following languages.
+
+\subtask $L_1 = \{w \in \{0,1\}^* \mid w\text{ ends with }01\text{ and }|w|_0\text{ is even}\}$
+
+  %% Insert your answer here
+
+\subtask $L_2 = \{w \in \{a,b\}^* \mid (2|w|_a+|w|_b) \bmod 5 = 0\}$
+
+  %% Insert your answer here
+
+\subtask $L_3 = \{w \in \{a,b\}^* \mid w \text{ ends with }aa\text{ or }w = w^{\rev} \}$
+
+  %% Insert your answer here
+
+\subtask As defined in the lecture, a grammar is called a ``regular grammar''
+  if it has only productions of the form $X\to aY$, $X\to a$, $X\to\varepsilon$,
+  where $X$ and $Y$ are non-terminals and $a$ is a terminal.  As the name
+  suggests, exactly the regular languages allow for regular grammars.  For
+  which of the above languages $L_1$, $L_2$, and $L_3$ can you give regular
+  grammars?  How surprising is your result?
+
+  %% Insert your answer here
+
+\task{Parsing Strings}
+
+The CFG $G_4=(\{S,A,B\},\{0,1\},P,S)$ with
+\begin{align*}
+  P_4 = \{ & S \to A1B, \\
+           & A \to 0A \mid \varepsilon,\\
+           & B \to 0B \mid 1B \mid \varepsilon\}
+\end{align*}
+generates the language $L_4$ which corresponds to the regular expression $0^*1(0+1)^*$.
+
+\subtask Give both the leftmost and rightmost derivations of $1101$.
+
+  %% Insert your answer here
+
+\subtask Write down the parse tree of $001101$.
+
+  %% Insert your answer here
+
+\task{Normal Forms}
+
+\subtask Use the method presented in the lecture to eliminate all $\varepsilon$-productions
+ of the CFG $G_5=(\{S,A,B,C,D\},\{a,b,c\},P_5,S)$ with
+ \[ P_5 = \{ S\to ABCD, A\to\varepsilon, A\to BB, B\to AA, A\to a, B\to b, C\to bc, D\to \varepsilon\}. \]
+
+  %% Insert your answer here
+
+\subtask Use the method presented in the lecture to eliminate all unit productions in
+  the CFG $G_6=(\{S,A,B,C,D\},\{a,b,c,d\},P_6,S)$ with
+  \[ P_6 =\{ S\to ABC, A\to B, B\to C, B\to b, B\to bB, C\to D, D\to d\}. \]
+
+  %% Insert your answer here
+
+\subtask Use the method presented in the lecture to eliminate all useless symbols in
+  the CFG $G_7=(\{S,A,B,C,D,E\},\{a,b,c,d\},P_7,S)$ with
+  \begin{align*}
+     P_7 =\{ & S\to A, S\to AaB, S\to BbA, B\to bB, A\to aa, A\to Ab,\\
+             & C\to cD, D\to c, D\to Ad, D\to EE, D\to dd\}.
+  \end{align*}
+
+  %% Insert your answer here
+
+\subtask Convert the CFG $G_8=(\{S,A,B,C\},\{a,b\},P_8,S)$ with
+  \begin{align*}
+    P_8 = \{ & S\to aS, S\to Sb, S\to Aa, S\to bbB, A\to aBb, A\to ab,\\
+             & B\to bCa, B\to ba, C\to b\}
+  \end{align*}
+  into Chomsky normal form.
+
+  %% Insert your answer here
+
+\task{CYK Algorithm}
+
+Consider the CFG $G_9=(\{S,A,B,C\},\{a,b\},P_9,S)$ in Chomsky normal form with
+\begin{align*}
+  P_9 = \{ & S \to AB \mid BC,\\
+           & A \to BA \mid a,\\
+           & B \to CC \mid b,\\
+           & C \to AB \mid a\}.
+\end{align*}
+
+Use the CYK algorithm to determine whether each of the following strings is in $L(G_9)$.
+  
+\subtask $ababa$
+ 
+  %% Insert your answer here
+
+\subtask $baaab$
+  
+  %% Insert your answer here
+
+\subtask $aabab$
+
+  %% Insert your answer here
+
+\end{document}
