@@ -145,8 +145,6 @@ def vector_color_coding(vx_wind, vy_wind):
         while y<500:
             vector=(vx_wind[x][y][20],vy_wind[x][y][20])
             bright=math.sqrt(vector[0]**2+vector[1]**2)
-            if bright<0:
-                bright=0
             brightness_1.append(bright)
             y+=1
         brightness.append(brightness_1)
@@ -156,6 +154,8 @@ def vector_color_coding(vx_wind, vy_wind):
     print(np.amax(brightness))
     print(np.amin(brightness))
     print(np.average(brightness))
+
+
 
 
     brightness=np.absolute(brightness)*3
