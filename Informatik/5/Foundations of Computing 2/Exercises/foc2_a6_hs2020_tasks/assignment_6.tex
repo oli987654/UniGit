@@ -1,0 +1,138 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{6}
+\newcommand{\topics}{The Halting Problem, Complexity Theory}
+\newcommand{\distdate}{07.12.2020}
+\newcommand{\duedate}{18.12.2020}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+\task{The Halting Problem}
+
+In the lecture, we reduced the universal language $L_{\text{U}}$ to the halting
+problem $L_{\text{H}}$.  Using a similar approach, now reduce $L_{\text{H}}$
+to $L_{\text{U}}$.
+
+%% Insert your answer here
+
+
+\task{Closure Properties of Languages in \boldmath$\mathcal{P}$\unboldmath}
+
+Show that the languages in $\mathcal{P}$ are closed under the following
+operations.  Argue on an intuitive, but exact level.
+
+\subtask \textbf{Union}, \ie, if $L_1,L_2\in\mathcal{P}$, then $L_1\cup L_2\in\mathcal{P}$,
+
+  %% Insert your answer here
+
+
+\subtask \textbf{Intersection}, \ie, if $L_1,L_2\in\mathcal{P}$, then $L_1\cap L_2\in\mathcal{P}$,
+  
+  %% Insert your answer here
+
+\subtask \textbf{Complement}, \ie, if $L\in\mathcal{P}$, then $\overline{L}\in\mathcal{P}$.
+  
+  %% Insert your answer here
+
+\nosubtask
+
+\textit{Hint:} In the lecture, we have seen that the regular languages are closed
+  under quite a number of operations.  This was done by starting with the DFAs for
+  the given languages and then modifying them.  Use an analogous approach to
+  answer the above questions.
+
+\task{Polynomial-Time Reductions}
+
+In complexity theory, SAT plays the same role for us as $L_{\text{diag}}$ in
+computability theory.  To show that a problem is $\mathcal{NP}$-hard, we can
+reduce SAT to it.
+
+In the lecture, we have introduced the satisfiability problem (SAT and $3$SAT),
+the independent set problem IND-SET, the clique problem CLIQUE, and the vertex
+cover problem VC; then we proved $\text{SAT}\le_{\textsf{p}}3\text{SAT}$,
+$3\text{SAT}\le_{\textsf{p}}\text{IND-SET}$, $\text{IND-SET}\le_{\textsf{p}}\text{CLIQUE}$,
+and $\text{IND-SET}\le_{\textsf{p}}\text{VC}$, which implies that all of them
+are $\mathcal{NP}$-hard.
+
+Here, we introduce three other problems which we prove to be
+$\mathcal{NP}$-hard by polynomial-time reductions.
+
+
+\subtask The set cover problem SC is defined as follows.  An input is triple
+  $(X,\mathcal{S},k)$ with 
+  \begin{itemize}
+    \item $X=\{1,2,\dots,n\}$ for some $n\in\nat^+$,
+    \item $\mathcal{S}=\{S_1,S_2,\dots,S_m\}$ with $S_i\subseteq X$ for some $m\in\nat^+$ and $X=\bigcup_{j=1}^m S_j$, and
+    \item $k\in\nat^+$.
+  \end{itemize}
+	The question is whether there is a set cover of $X$ of size (at most) $k$,
+	\ie, a selection of (at most) $k$ sets from $\mathcal{S}$ such that every
+	element from $X$ is contained in at least one of the selected sets, \ie,
+	whether there exist $S_{i_1},S_{i_2},\dots,S_{i_k}$ with
+	$i_j\in\{1,2,\dots,m\}$ and
+  \[ X=\bigcup_{j=1}^k S_{i_j}\;. \]
+ 
+  Formally,
+  \[ \text{SC} = \{(X,\mathcal{S},k) \mid X \text{ has a set cover from } \mathcal{S} \text{ of size } k\}\;. \]
+  
+  As an example, the instance $(X_1,\mathcal{S}_1,3)$ with $X_1=\{1,2,3,4,5,6,7,8\}$ and
+  \[ \mathcal{S}_1 = \big\{ \{1,3\}, \{1,2,5\}, \{1,4\}, \{3,4,6\}, \{5,6,8\}, \{5,7,8\} \big\} \]
+  is a ``yes'' instance, because there is a set cover
+  \[ \{1,2,5\} \cup \{3,4,6\}\cup \{5,7,8\} = X_1 \]
+  of size $3$.  Conversely, the instance $(X_2,\mathcal{S}_2,4)$ with $X_2=\{1,2,3,4,5,6,7,8,9\}$
+  and
+  \[ \mathcal{S}_2 = \big\{\{1,2\}, \{2,3\}, \{2,4,6\}, \{4,5,6\}, \{6,7\}, \{7,9\}, \{8,9\} \big\}. \]
+  is a ``no'' instance.
+
+  Reduce VC to SC.
+  
+  %% Insert your answer here
+
+\subtask A dominating set in a graph $G=(V,E)$ is a set $D$ of vertices such
+  that every vertex from $V$ is either in $D$ or has an edge to at least
+  one vertex in $D$; we call such a vertex ``dominated.\!''
+
+  An instance of the dominating set problem DOM-SET is a pair $(G,k)$ where $G$
+  is a graph and the question is whether $G$ contains a dominating set of size
+  $k\in\nat^+$ (or smaller).
+
+  Formally,
+  \[ \text{DOM-SET} = \{(G,k) \mid G \text{ contains a dominating set of size } k\} \;. \]
+
+  Reduce SC to DOM-SET.
+
+  %% Insert your answer here
+
+\subtask A half-clique is a clique that contains exactly half of
+  the vertices of a given graph.  An instance of HALF-CLIQUE is a graph $G$
+  and the question is whether $G$ contains a half-clique.
+  
+  Formally, 
+  \[ \text{HALF-CLIQUE} = \{G\mid G \text{ contains a half-clique} \}\;. \]
+  
+  Note that, if $G$ contains a clique with more than half of its vertices,
+  it also contains a half-clique.
+
+  Reduce CLIQUE to HALF-CLIQUE.
+  
+  %% Insert your answer here
+
+\end{document}

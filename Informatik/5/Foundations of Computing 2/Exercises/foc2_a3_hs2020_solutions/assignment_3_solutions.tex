@@ -1,0 +1,397 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{3}
+\newcommand{\topics}{Context-Free Grammars and Languages}
+\newcommand{\distdate}{26.10.2020}
+\newcommand{\duedate}{01.11.2020}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\ -- Solutions\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+
+\task{Context-Free Grammars and Languages}
+
+As defined in the lecture, for a word $w$, $w^{\rev}$ denotes the ``reversal''
+of $w$; for instance, $(aabbba)^{\rev}$ is $abbbaa$.  Furthermore, as already defined
+in Exercise 2.1, $|w|_a$ denotes the number of occurrences of the letter $a$ in
+$w$.  Construct context-free grammars for the following languages.
+
+\subtask $L_1 = \{w \in \{0,1\}^* \mid w\text{ ends with }01\text{ and }|w|_0\text{ is even}\}$
+
+  \begin{solution}
+    The language $L_1$ is the language of the CFG $G_1=(\{S,X_0,X_1\},\{0,1\},P_1,S)$ with
+    \begin{align*}
+      P_1 = \{ & S \to X_001,\\ 
+      & X_0 \to 0X_1 \mid 1X_0,\\
+      & X_1 \to 0X_0 \mid 1X_1 \mid \varepsilon\} .
+    \end{align*}
+  \end{solution}
+
+\subtask $L_2 = \{w \in \{a,b\}^* \mid (2|w|_a+|w|_b) \bmod 5 = 0\}$
+
+  \begin{solution}
+    The language $L_2$ is the language of the CFG $G_2=(\{S,X_0,X_1,X_2,X_3,X_4\},\{a,b\},P_2,S)$ with
+    \begin{align*}
+      P_2 = \{ & S \to X_0,\\ 
+               & X_0 \to bX_1 \mid aX_2 \mid \varepsilon,\\
+               & X_1 \to bX_2 \mid aX_3, \\
+               & X_2 \to bX_3 \mid aX_4, \\
+               & X_3 \to bX_4 \mid aX_0, \\
+               & X_4 \to bX_0 \mid aX_1 \} .
+    \end{align*}
+    The idea is similar to the one of a), namely that, after every intermediate derivation step,
+    there is one variable $X_i$ at the last position, and we have that
+    \[ \text{the number of }b\text{s plus 2 times the number of }a\text{s modulo 5 is } i \]
+    for the terminal word left of $X_i$.  Again, since this expression must be $0$, there
+    is a production $X_0\to \varepsilon$.
+  \end{solution}
+
+\subtask $L_3 = \{w \in \{a,b\}^* \mid w \text{ ends with }aa\text{ or }w = w^{\rev} \}$
+
+  \begin{solution}
+    The language $L_3$ is the language of the CFG $G_3=(\{S,X,Y\},\{a,b\},P_3,S)$ with
+    \begin{align*}
+      P_3 = \{ & S \to Xaa \mid Y,\\
+               & X \to aX \mid bX \mid \varepsilon,\\
+               & Y \to aYa \mid bYb \mid a \mid b \mid \varepsilon \}.
+    \end{align*}
+  \end{solution}
+
+\enlargethispage{10mm}
+
+\subtask As defined in the lecture, a grammar is called a ``regular grammar''
+  if it has only productions of the form $X\to aY$, $X\to a$, $X\to\varepsilon$,
+  where $X$ and $Y$ are non-terminals and $a$ is a terminal.  As the name
+  suggests, exactly the regular languages allow for regular grammars.  For
+  which of the above languages $L_1$, $L_2$, and $L_3$ can you give regular
+  grammars?  How surprising is your result?
+
+  \begin{solution}
+    First, we note that the language $L_3$ is not regular.  Therefore, there is no
+    regular grammar for $L_3$ by definition.  Second, the grammar $G_2$ for $L_2$ is
+    already a regular grammar.  This is not surprising since we have seen in the lecture
+    that the construction is analogous to the construction of a DFA for $L_2$.
+    The grammar $G_1$ for $L_1$ is not regular, but only due to the first production $S\to X_001$.
+    However, it is not difficult to transform $G_1$ into an equivalent regular grammar.
+    To this end, we delete the first production and make $X_1$ the new starting symbol.
+    Then, we replace the last production $X_1\to\varepsilon$ by the three productions
+    $X_1\to 0Y_0$, $Y_0\to 1Y_1$, and $Y_1\to\varepsilon$.
+  \end{solution}
+
+\task{Parsing Strings}
+
+The CFG $G_4=(\{S,A,B\},\{0,1\},P,S)$ with
+\begin{align*}
+  P_4 = \{ & S \to A1B, \\
+           & A \to 0A \mid \varepsilon,\\
+           & B \to 0B \mid 1B \mid \varepsilon\}
+\end{align*}
+generates the language $L_4$ which corresponds to the regular expression $0^*1(0+1)^*$.
+
+\enlargethispage{2mm}
+\subtask Give both the leftmost and rightmost derivations of $1101$.
+
+  \begin{solution} 
+    The leftmost derivation of $1101$ is
+    \[ S \Rightarrow A1B \Rightarrow 1B \Rightarrow 11B \Rightarrow 110B \Rightarrow 1101B \Rightarrow 1101, \]
+    and the rightmost derivation is
+    \[ S \Rightarrow A1B \Rightarrow A11B \Rightarrow A110B \Rightarrow A1101B \Rightarrow A1101 \Rightarrow 1101. \]
+  \end{solution} 
+
+\subtask Write down the parse tree of $001101$.
+
+  \begin{solution}
+    \begin{center}
+      \tikzstyle{level 1}=[level distance=1.75cm, sibling distance=2.5cm]
+      \tikzstyle{level 2}=[level distance=1.5cm, sibling distance=2cm]
+      \tikzstyle{inter}=[text width=4em, text centered]
+      \tikzstyle{end}=[circle, minimum width=3pt,fill, inner sep=0pt]
+      \begin{tikzpicture}[grow=down,sloped]
+      \node[inter] {$S$}
+      child {
+        node[inter] {$A$}
+        child{
+          node[end,label=right: {$0$}] {}
+        }
+        child {
+          node[inter] {$A$}
+          child {
+            node[end,label=right: {$0$}] {}
+          }
+          child{
+            node[inter]{$A$}
+            child{
+              node [end, label=right:{$\varepsilon$}] {}
+            }
+          }
+        }
+      }
+      child {
+        node[end, label=right:{$1$}] {}
+      }
+      child {
+        node[inter] {$B$}
+        child{
+          node[end,label=right: {$1$}] {}
+        }
+        child {
+          node[inter] {$B$}
+          child {
+            node[end,label=right: {$0$}] {}
+          }
+          child{
+            node[inter]{$B$}
+            child{
+              node[end,label=right: {$1$}] {}
+            }
+            child {
+              node[inter] {$B$}
+              child{
+                node[end,label=right: {$\varepsilon$}] {}
+              }
+            }
+          }
+        }
+      };
+      \end{tikzpicture}
+    \end{center}
+  \end{solution} 
+
+\task{Normal Forms}
+
+\subtask Use the method presented in the lecture to eliminate all $\varepsilon$-productions
+ of the CFG $G_5=(\{S,A,B,C,D\},\{a,b,c\},P_5,S)$ with
+ \[ P_5 = \{ S\to ABCD, A\to\varepsilon, A\to BB, B\to AA, A\to a, B\to b, C\to bc, D\to \varepsilon\}. \]
+
+  \begin{solution}
+    \begin{enumerate}[label=\Roman*.]
+      \item First, we find the \emph{nullable variables} of $G$, that is, variables that may
+        derive $\varepsilon$.  Using the iterative approach from the lecture, we first
+        set $\mathrm{Null}_1=\{A,D\}$ due to the productions $A\to\varepsilon$ and $D\to\varepsilon$.
+        Next, we set $\mathrm{Null}_2=\mathrm{Null}_1\cup\{B\}=\{A,B,D\}$ due to the
+        production $B\to AA$.  Then the method terminates and the nullable variables
+        are $A$, $B$, and $D$.
+      \item Second, again by  applying the method from the lecture, we obtain the new
+        productions $S\to BCD$, $S\to ACD$, $S\to ABC$, $S\to CD$, $S\to BC$, $S\to AC$,
+        and $S\to C$ due to the production $S\to ABCD$.
+        Due to $A\to BB$, we add $A\to B$, and due to $B\to AA$ we add $B\to A$.  Therefore,
+        we get the new set of productions
+        \begin{align*}
+          P_5' = {} & P_5 \setminus \{A\to\varepsilon, D\to\varepsilon\} \\
+                    & \cup \{S\to BCD, S\to ACD, S\to ABC, S\to CD, S\to BC\}\\
+                    & \cup \{S\to AC, S\to C, A \to B, B \to A\}.
+        \end{align*}
+        Note that this may have caused that some variables become non-generating.
+        However, this is not a problem, because, we will find and remove all
+        such variables in a last step when simplifying a CFG.
+    \end{enumerate}
+  \end{solution}
+
+\subtask Use the method presented in the lecture to eliminate all unit productions in
+  the CFG $G_6=(\{S,A,B,C,D\},\{a,b,c,d\},P_6,S)$ with
+  \[ P_6 =\{ S\to ABC, A\to B, B\to C, B\to b, B\to bB, C\to D, D\to d\}. \]
+
+  \begin{solution}
+      \begin{minipage}{90mm}
+        \begin{enumerate}[label=\Roman*.]
+          \item First, we find all \emph{unit pairs}; again, this is done iteratively.
+            The unit pairs from $G$ are $(S,S)$, $(A,A)$, $(A,B)$, $(A,C)$, $(A,D)$,
+            $(B,B)$,  $(B,C)$, $(B,D)$, $(C,C)$, $(C,D)$, $(D,D)$.
+          \item Second, for every unit pair $(X,Y)$, we add the production
+            $X\to \alpha$ if there is a non-unit production $Y\to \alpha$ in $P_6$.
+            This results in the table on the right.
+        
+            Therefore, we obtain a simplified CFG $G_6' = (\{S,A,B,C,D\},$ $\{a,b,c,d\},P_6',S)$ with
+            \begin{align*}
+              P_6' = \{ & S \to ABC, A \to b, A \to bB,\\
+                        & A \to d, B \to b, B \to bB,\\
+                        & B \to d, C \to d, D \to d\}.
+            \end{align*}
+        \end{enumerate}
+      \end{minipage}
+      \hspace{4mm}
+      \begin{minipage}{46mm}
+          \begin{tabular}{r|l}
+            Pairs & Productions\\
+            \hline\hline
+            $(S,S)$ & $S \to ABC$\\
+            $(A,A)$ & \\
+            $(A,B)$ & $A \to b, A \to bB$\\
+            $(A,C)$ & \\
+            $(A,D)$ & $A \to d$\\
+            $(B,B)$ & $B \to b, B \to bB$\\
+            $(B,C)$ & \\
+            $(B,D)$ & $B \to d$\\
+            $(C,C)$ & \\
+            $(C,D)$ & $C \to d$\\ 
+            $(D,D)$ & $D \to d$
+          \end{tabular}
+      \end{minipage}
+  \end{solution}
+
+\subtask Use the method presented in the lecture to eliminate all useless symbols in
+  the CFG $G_7=(\{S,A,B,C,D,E\},\{a,b,c,d\},P_7,S)$ with
+  \begin{align*}
+     P_7 =\{ & S\to A, S\to AaB, S\to BbA, B\to bB, A\to aa, A\to Ab,\\
+             & C\to cD, D\to c, D\to Ad, D\to EE, D\to dd\}.
+  \end{align*}
+
+  \begin{solution}
+    \begin{enumerate}[label=\Roman*.]
+      \item First, we compute the \emph{generating symbols} of $G_7$ 
+        using the iterative approach introduced in the lecture.
+        We start by setting $\mathrm{Gen} = \{a,b,c,d\}$.
+        Then we add $A$ due to $A \to aa$ and $D$ due to
+        $D \to c$ (and $D\to dd$); this yields $\mathrm{Gen} = \{a,b,c,d,A,D\}$.
+        Next, we add $S$ due to $S \to A$ and $C$ due to $C\to cD$.
+        This gives $\mathrm{Gen} = \{a,b,c,d,S,A,C,D\}$.
+        Then the method terminates.
+      
+        The new CFG is $G_7' = (\{S,A,C,D\},\{a,b,c,d\},P_7',S)$ with
+        \[ P_7' = \{S\to A,A\to aa, A \to Ab, C\to cD, D\to c, D \to Ad, D\to dd\}. \]
+      \item Second, we compute the \emph{reachable symbols} of $G_7'$, again
+        using the iterative approach from the lecture.  We initially set
+        $\mathrm{Reach}_V = \{S\}$ and $\mathrm{Reach}_T = \emptyset$.
+        Then, we add $A$ to $\mathrm{Reach}_V$ due to $S \to A$;
+        this yields $\mathrm{Reach}_V = \{S,A\}$ and $\mathrm{Reach}_T = \emptyset$.
+        After that, we add $a$ and $b$ to $\mathrm{Reach}_T$ due to
+        $A \to aa$ and $A\to Ab$; this gives $\mathrm{Reach}_V = \{S,A\}$
+        and $\mathrm{Reach}_T = \{a,b\}$.
+        Then the method terminates.
+        
+        The new CFG is $G_7'' = (\{S,A\},\{a,b\},P_7'',S)$ with
+        \[ P_7'' = \{S \to A, A \to aa, A \to Ab\}. \]
+    \end{enumerate}
+  \end{solution}
+
+\subtask Convert the CFG $G_8=(\{S,A,B,C\},\{a,b\},P_8,S)$ with
+  \begin{align*}
+    P_8 = \{ & S\to aS, S\to Sb, S\to Aa, S\to bbB, A\to aBb, A\to ab,\\
+             & B\to bCa, B\to ba, C\to b\}
+  \end{align*}
+  into Chomsky normal form.
+
+  \begin{solution}
+    \begin{enumerate}[label=\Roman*.]
+      \item First, we introduce two new variables $X_a$ and $X_b$.
+        Then we apply the following changes to the productions of $G_8$
+        to make sure that no terminals appear in the bodies anymore.
+      
+        \begin{center}
+          \begin{tabular}{lcl}
+            $S \to aS$  & becomes & $S \to X_a S$,  \\
+            $S \to Sb$  & becomes & $S \to SX_b$,   \\
+            $S \to Aa$  & becomes & $S \to AX_a$,   \\
+            $S \to bbB$ & becomes & $S \to X_bX_bB$,\\
+            $A \to aBb$ & becomes & $A \to X_aBX_b$,\\
+            $A \to ab$  & becomes & $A \to X_aX_b$, \\
+            $B \to bCa$ & becomes & $B \to X_bCX_a$,\\
+            $B \to ba$  & becomes & $B \to X_bX_a$.
+          \end{tabular}
+        \end{center}
+    
+        Moreover, two new productions $X_a \to a$ and $X_b \to b$ are added to $P_8$.
+        Note that the production $C\to b$ remains unchanged since its body
+        only contains one terminal.
+      \item Second, we must make sure that no body of a production that is not a single
+        terminal has a length different from $2$.  To this end, we introduce new
+        variables $Y_1$, $Y_2$, and $Y_3$ and apply the following changes.
+  
+        \begin{center}
+          \begin{tabular}{lcl}
+            $S \to X_bX_bB$ & becomes & $S \to X_bY_1, Y_1 \to X_bB$,\\
+            $A \to X_aBX_b$ & becomes & $A \to X_aY_2, Y_2 \to BX_b$,\\
+            $B \to X_bCX_a$ & becomes & $B \to X_bY_3, Y_3 \to CX_a$.
+          \end{tabular}
+        \end{center}
+  
+        The new CFG is therefore $G_8'=(\{S,A,B,C,X_a,X_b,Y_1,Y_2,Y_3\},\{a,b\},P_8',S)$ with
+        \begin{align*}
+          P_8' = \{ & S \to X_aS, S \to SX_b, S\to AX_a, A\to X_aX_b, B\to X_bX_a,\\
+                    & S \to X_bY_1, Y_1 \to X_bB, A \to X_aY_2, Y_2 \to BX_b, B \to X_bY_3,\\
+                    & Y_3 \to CX_a, X_a \to a, X_b \to b, C\to b\},
+        \end{align*}
+        and we immediately see that it only contains productions of the form $X \to YZ$ with
+        $X,Y,Z\in V$ or $X \to x$ with $X\in V$ and $x\in T$, which means that it is in
+        Chomsky normal form.
+    \end{enumerate}
+  \end{solution}
+
+\task{CYK Algorithm}
+
+Consider the CFG $G_9=(\{S,A,B,C\},\{a,b\},P_9,S)$ in Chomsky normal form with
+\begin{align*}
+  P_9 = \{ & S \to AB \mid BC,\\
+           & A \to BA \mid a,\\
+           & B \to CC \mid b,\\
+           & C \to AB \mid a\}.
+\end{align*}
+
+Use the CYK algorithm to determine whether each of the following strings is in $L(G_9)$.
+  
+\subtask $ababa$
+ 
+  \begin{solution}
+    Using the CYK algorithm, we obtain the following table.
+    \[\begin{array}{|ccccc}
+    \{S,A,C\} &&&&\\
+    \{B\} & \{B\} &&&\\
+    \{B\} & \{S,C\} & \{B\} &&\\
+    \{S,C\} & \{S,A\} & \{S,C\} & \{S,A\}\\
+    \{A,C\} & \{B\} & \{A,C\} & \{B\} & \{A,C\}\\
+    \hline
+    a & b & a & b & a
+    \end{array}\]
+    Since $S$ appears in the upper-left corner, $ababa$ is in the language of $G_9$.
+  \end{solution}
+
+\enlargethispage{20mm}
+\subtask $baaab$
+  
+  \begin{solution}
+    Using the CYK algorithm, we obtain the following table.
+    \[\begin{array}{|ccccc}
+      \{S,C\} &&&&\\
+      \{S,A,C\} & \{S,C\} &&&\\
+      \emptyset & \{S,A,C\} & \{B\} &&\\
+      \{S,A\} & \{B\} & \{B\} & \{S,C\}\\
+      \{B\} & \{A,C\} & \{A,C\} & \{A,C\} & \{B\}\\
+      \hline
+      b & a & a & a & b
+    \end{array}\]
+    Since $S$ appears in the upper-left corner, $baaab$ is in the language of $G_9$.
+  \end{solution}
+
+\subtask $aabab$
+  \begin{solution}
+    Using the CYK algorithm, we obtain the following table.
+    \[\begin{array}{|ccccc}
+      \{S,C\} &&&& \\
+      \{S,A,C\} & \{B\} &&&\\
+      \{B\} & \{B\} & \{S,C\} &&\\
+      \{B\} & \{S,C\} & \{S,A\} & \{S,C\}\\
+      \{A,C\} & \{A,C\} & \{B\} & \{A,C\} & \{B\}\\
+      \hline
+      a & a & b & a & b
+    \end{array}\]
+    Since $S$ appears in the upper-left corner, $aabab$ is in the language of $G_9$.
+  \end{solution}
+
+\end{document}

@@ -1,0 +1,69 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{4}
+\newcommand{\topics}{Non-Context-Freeness, Pushdown Automata}
+\newcommand{\distdate}{02.11.2020}
+\newcommand{\duedate}{22.11.2020}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+\task{The Pumping Lemma for Context-Free Languages}
+
+We have proven the pumping lemma for context-free languages by assuming that the
+given CFG $G$ is in Chomsky normal form.
+
+Explain how an alternative proof can work without assuming that $G$ is in
+Chomsky normal form.  However, you are allowed to assume that $G$ is normalized
+besides from that; in particular, its does not contain $\varepsilon$-productions,
+unit productions, or any useless symbols.
+
+%% Insert your answer here
+
+\task{Non-Context-Freeness}
+
+Use the pumping lemma for context-free languages to prove that the following languages
+are not context-free.
+
+\subtask $L_1=\{w\in\{0,1\}^*\mid w=1^k0^{2k}1^k \text{ for some } k\in\nat\}$
+
+  %% Insert your answer here
+
+\subtask $L_2=\{ww^{\rev}w \mid w\in\{a,b\}^*\}$
+
+  %% Insert your answer here
+
+\subtask $L_3=\{0^k1^{k^2} \mid k\in\nat\}$
+  
+  %% Insert your answer here
+
+\task{Pushdown Automata}
+
+Give pushdown automata that recognize the following languages.
+
+\subtask $L_4 = \{w \in \{0,1\}^* \mid w = w^{\rev}$ and the length of $w$ is odd$\}$
+
+  %% Insert your answer here
+
+\subtask $L_5 = \{w \in \{0,1\}^* \mid |w|_0=|w|_1\}$
+  
+  %% Insert your answer here
+
+\end{document}

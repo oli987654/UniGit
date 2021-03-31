@@ -1,0 +1,214 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{5}
+\newcommand{\topics}{Turing Machines, Undecidability}
+\newcommand{\distdate}{23.11.2019}
+\newcommand{\duedate}{08.12.2019}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+\task{Turing Machines}
+
+Draw Turing machines (TMs) for the following languages and briefly explain how
+your TMs work.
+
+\subtask $L_1 = \{ a^kb^kw \mid k\in\nat^+\text{ and } w\in\{a,b\}^* \}$
+
+  %% Insert your answer here
+
+\subtask $L_2 = \{ w0w \mid w \in\{1,2\}^* \}$
+  
+  %% Insert your answer here
+
+\nosubtask \textit{Hint:} It is sufficient to construct TMs with one tape each.
+Recall that you can assume that the input word only contains letters from the
+implicitly given alphabet; for instance, in a), there are only letters $a$ and
+$b$ on the tape at the beginning.
+
+\task{Turing Machines and Configurations}
+
+Consider the following TM $M$ with $\text{Lang}(M)\subseteq\{0,1\}^*$.
+\begin{center}
+  \begin{tikzpicture}[x=3cm,y=2.2cm]
+    \node[state]           at (0,0)  (2) {$q_2$};
+    \node[state]           at (-1,0) (1) {$q_1$};
+    \node[state,initial]   at (-2,0) (0) {$q_0$};
+    \node[state]           at (1,0)  (3) {$q_3$};
+    \node[state,accepting] at (2,0)  (4) {$q_4$};
+    \path[->]
+      (0) edge[loop above] node[label]
+      {\begin{mlabels}
+       \tmlabel{0}{0}{\rmove}
+       \end{mlabels}} (0)
+      (0) edge node[label]
+      {\begin{mlabels}
+       \tmlabel{1}{Y}{\lmove}
+       \end{mlabels}} (1)
+      (2) edge[loop above] node[label]
+      {\begin{mlabels}
+       \tmlabel{X}{X}{\rmove}\\
+       \tmlabel{Y}{Y}{\rmove}
+       \end{mlabels}} (2)
+      (2) edge[bend left] node[label]
+      {\begin{mlabels}
+       \tmlabel{1}{Y}{\lmove}
+       \end{mlabels}} (1)
+      (1) edge[bend left] node[label]
+      {\begin{mlabels}
+       \tmlabel{0}{X}{\rmove}
+       \end{mlabels}} (2)
+      (1) edge[loop above] node[label]
+      {\begin{mlabels}
+       \tmlabel{X}{X}{\lmove}\\
+       \tmlabel{Y}{Y}{\lmove}
+       \end{mlabels}} (1)
+      (2) edge node[label]
+      {\begin{mlabels}
+       \tmlabel{\blank}{Z}{\lmove}
+       \end{mlabels}} (3)
+      (3) edge[loop above] node[label]
+      {\begin{mlabels}
+       \tmlabel{X}{X}{\lmove}\\
+       \tmlabel{Y}{Y}{\lmove}\\
+       \tmlabel{Z}{Z}{\lmove}
+       \end{mlabels}} (3)
+      (3) edge node[label]
+      {\begin{mlabels}
+       \tmlabel{\blank}{Z}{\rmove}
+       \end{mlabels}} (4);
+    \end{tikzpicture}
+\end{center}
+
+\subtask Give the computation of $M$ (\ie, the unique sequence of configurations) on
+  the following words; indicate when $M$ gets stuck or accepts.
+
+  \begin{taskitems}
+    \item $01$
+    \item $001$
+    \item $101$
+    \item $00111$
+  \end{taskitems}
+
+  %% Insert your answer here
+
+\subtask Describe $\text{Lang}(M)$ in words.
+
+  %% Insert your answer here
+
+\task{Diagonalization}
+
+Consider the following two languages.
+\begin{align*}
+  L_{\text{diag},1} &= \{ w\in\{0,1\}^* \mid w = w_{2i} \text{ and } M_i \text{ does not accept } w_{2i} \}\;,\\
+  L_{\text{diag},2} &= \{ w\in\{0,1\}^* \mid w = w_i \text{ and } M_{2i} \text{ does not accept } w_i \}\;.
+\end{align*}
+Here, we again assume that $M_i$ is the $i$th TM in a fixed ordering
+and $w_i$ is the $i$th binary word in a fixed ordering over some given alphabet.
+We see that both of these languages are constructed in a way that reminds us
+of the language $L_{\text{diag}}$; the only part that is different is that we
+do not speak about the main diagonal of the corresponding table, but two different
+diagonals that are shallower or steeper, respectively.
+
+\subtask For one of the two languages, prove that it is not recursively enumerable.
+
+  %% Insert your answer here
+
+\subtask For the other language, explain why the same argument as in a) is not
+  valid to prove that this language is also not recursively enumerable.
+
+  %% Insert your answer here
+
+\task{More Diagonalization}
+
+Let $L$ be some infinite language over $\{0,1\}$.  Explain how we can
+identify a subset $L_{\text{diag},L}$ of $L$ such that $L_{\text{diag},L}$
+is not recursively enumerable.
+
+%% Insert your answer here
+
+\task{Reductions}
+
+$L_{\text{diag}}$ was the first language for which we showed that it is not recursively
+enumerable and thus not recursive.  To prove that there are other
+languages that are not recursively enumerable or not recursive, we use reductions.
+
+In the lecture, we showed that $L_{\text{U}}$ is not recursive and argued as
+follows.  We know that, if $L_{\text{U}}$ were recursive, then also its
+complement $\overline{L}_{\text{U}}$ would be recursive.  Thus, if we succeed
+in showing that $\overline{L}_{\text{U}}$ is not recursive, then $L_{\text{U}}$
+cannot be recursive.  We then reduced $L_{\text{diag}}$ to
+$\overline{L}_{\text{U}}$, that is, the problem of deciding whether a given
+word is in $L_{\text{diag}}$ to deciding whether some word is in
+$\overline{L}_{\text{U}}$.  If then we would have a TM $\overline{U}^*$ for deciding
+$\overline{L}_{\text{U}}$ (that is, if this language were recursive), we could
+use it to decide $L_{\text{diag}}$ (that is, this language would also be
+recursive).
+
+\nosubtask We want to slightly modify the original proof, but essentially prove the same statement.
+
+\subtask Formally define the language $\overline{L}_{\text{diag}}$, that is, the complement of $L_{\text{diag}}$.
+
+  %% Insert your answer here
+
+\subtask Prove that $\overline{L}_{\text{diag}}$ is recursively enumerable.
+
+  %% Insert your answer here
+
+\subtask Reduce $\overline{L}_{\text{diag}}$ to $L_{\text{U}}$ to give an alternative proof that $L_{\text{U}}$ is not
+  recursive.
+
+  %% Insert your answer here
+
+\task{More Reductions}
+
+Consider the two languages
+\begin{align*}
+  L_3 &=\{(M,M',w) \mid M \text{ and } M' \text{ are TMs and } w\in \text{Lang}(M)\cap \text{Lang}(M')\}\;,\\
+  L_4 &=\{(M,M',w) \mid M \text{ and } M' \text{ are TMs and } w\in \text{Lang}(M)\cup \text{Lang}(M')\}\;.
+\end{align*}
+
+\subtask Show that neither $L_3$ nor $L_4$ is recursive by giving a reduction from $L_{\text{U}}$.
+
+  %% Insert your answer here
+
+\subtask Give a reduction from $L_3$ to $L_{\text{U}}$.  Do so by using that the two TMs $M$ and $M'$
+    can be simulated sequentially on the same word.
+
+  %% Insert your answer here
+
+\subtask Point out where we run into problems for a similar reduction as in exercise part
+  b) from $L_4$ to $L_{\text{U}}$.  How can we deal with this problem?
+
+  %% Insert your answer here
+
+\task{Yet Another Reduction}
+
+Consider TMs with exactly one accepting state and some fixed way to encode them.  Using a reduction,
+show that the language
+\begin{align*}
+  L_5 = \{(M,w,i) \mid {}& M \text{ is a TM that visits its } i\text{th}\\
+                         & \text{state at least once when processing } w \}\;.
+\end{align*}
+is not recursive.
+
+%% Insert your answer here
+
+\end{document}

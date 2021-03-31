@@ -1,0 +1,570 @@
+\documentclass{exercise}
+
+\setcounter{exercise}{2}
+\newcommand{\topics}{Deterministic and Non-deterministic Automata and Regular Languages}
+\newcommand{\distdate}{05.10.2020}
+\newcommand{\duedate}{25.10.2020}
+
+\title{\line(1,0){415}\\
+  Foundations of Computing II\\
+  \Large Assignment \theexercise\ -- Solutions\\[1em]
+  \large{\topics}\\
+  \line(1,0){415}}
+
+\lefttitle{Universit\"at Z\"urich\\Institut f\"ur Informatik\\[1em]
+  \textsl{Student Name:}\\
+  \textsl{Student Number:}}
+\righttitle{Autumn 2020\\Sven Seuken\\Dennis Komm} 
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+  Distributed: \distdate\ -- Due Date: \duedate\\[1em]
+  Upload your solutions to the OLAT system.\\[3em]
+\end{center}
+
+\task{Deterministic Finite Automata}
+
+For a word $w$, we denote the number of occurrences of the letter $a$ in $w$ by $|w|_a$;
+for instance, we have $|1010110|_0=3$ and $|xyzxzzy|_x=2$.  Draw DFAs for the following
+languages.
+
+\subtask $L_1=\{ w\in\{a,b\}^* \mid |w|_a + |w|_b \text { is even}\}$,
+
+  \begin{solution}
+    Since words in $L_1$ only consist of $a$s and $b$s, the condition ``$|w|_a + |w|_b$
+    is even'' simply means that $|w|$ is even.
+    \begin{center}
+      \begin{tikzpicture}[node distance=3cm]
+        \node[initial,accepting,state] (0)              {even};
+        \node[state]                   (1) [right of=0] {odd};
+        \path[->] (0) edge[bend left] node {$a,b$} (1)
+                  (1) edge[bend left] node {$a,b$} (0);
+      \end{tikzpicture}
+    \end{center}
+  \end{solution}
+
+\subtask $L_2=\{ w\in\{a,b\}^* \mid (|w|_a+2|w|_b)\bmod 4 = 3 \}$,
+  
+  \enlargethispage{0.9cm}
+  \begin{solution}
+    A state is labeled $i$ if, for the current word $x$, it holds that
+    $(|x|_a+2|x|_b)\bmod 4 = i$.
+    \begin{center}
+      \begin{tikzpicture}[node distance=3cm]
+        \node[initial,state]   (0)              {$0$};
+        \node[state]           (1) [right of=0] {$1$};
+        \node[state]           (2) [below of=1] {$2$};
+        \node[state,accepting] (3) [left  of=2] {$3$};
+        \path[->] (0) edge[bend left] node {$a$} (1)
+                      edge[bend left] node {$b$} (2)
+                  (1) edge[bend left] node {$a$} (2)
+                      edge[bend left] node {$b$} (3)
+                  (2) edge[bend left] node {$a$} (3)
+                      edge[bend left] node {$b$} (0)
+                  (3) edge[bend left] node {$a$} (0)
+                      edge[bend left] node {$b$} (1);
+      \end{tikzpicture}
+    \end{center}
+  \end{solution}
+
+\subtask $L_3=\{ w\in\{a,b,c\}^* \mid (|w|_a+2|w|_c)\bmod 5 = 0 \}$.
+
+  \begin{solution}
+    A state is labeled $i$ if, for the current word $x$, it holds that
+    $(|x|_a+2|x|_c)\bmod 5 = i$.  Note that reading $b$s does not
+    influence this equality.
+    \begin{center}
+      \begin{tikzpicture}[node distance=3cm]
+        \node[initial,accepting,state] (0) at (1,.5)      {$0$};
+        \node[state]                   (1) at (4,2.5)     {$1$};
+        \node[state]                   (2) at (7,0.5)     {$2$};
+        \node[state]                   (3) at (5.75,-2.5) {$3$};
+        \node[state]                   (4) at (2.25,-2.5) {$4$};
+        \path[->] (0) edge[bend left]  node       {$a$} (1)
+                      edge[loop above] node[swap] {$b$} (0)
+                      edge[bend left]  node[swap] {$c$} (2)
+                  (1) edge[bend left]  node       {$a$} (2)
+                      edge[loop above] node[swap] {$b$} (1)
+                      edge[bend left]  node[swap] {$c$} (3)
+                  (2) edge[bend left]  node       {$a$} (3)
+                      edge[loop above] node[swap] {$b$} (2)
+                      edge[bend left]  node[swap] {$c$} (4)
+                  (3) edge[bend left]  node       {$a$} (4)
+                      edge[loop below] node[swap] {$b$} (3)
+                      edge[bend left]  node[swap] {$c$} (0)
+                  (4) edge[bend left]  node       {$a$} (0)
+                      edge[loop below] node[swap] {$b$} (4)
+                      edge[bend left]  node[swap] {$c$} (1);
+      \end{tikzpicture}
+    \end{center}
+  \end{solution}
+
+\task{Size of Deterministic Finite Automata}
+
+Consider the language
+\[ L = \{ w\in\{a,b\}^* \mid w=xay \text{ with } x\in\{a,b\}^* \text{ and } y\in\{a,b\}^2\}, \]
+\ie, the language that contains all words over the alphabet $\{a,b\}$ which
+have at least three letters and an $a$ at the third-to-last position.  Prove
+that any DFA for $L$ has to have at least four states in the following way.
+
+Take a set of four words (that are not necessarily in $L$) and show that no two
+of them are allowed to end in the same state of any DFA for $L$.  To this end, for
+any two words $w_1$ and $w_2$, supply a \emph{shortest suffix} that implies that
+one of the two words has to end in an accepting state while the other one must
+not end in an accepting state. 
+
+\begin{solution}
+  Consider the four strings $aa$, $ab$, $ba$, and $bb$.  Let us have a look at
+  the first two words $aa$ and $ab$.  For a contradiction, suppose that there
+  is a DFA $A$ for $L$ such that $aa$ and $ab$ end in the same state $q$ of $A$.
+  If we append the word $bb$, we obtain the two words $aabb$ and $abbb$; the
+  former has to be accepted by $A$, the latter must not be accepted.  However,
+  since $A$ is in state $q$ after reading either $aa$ or $ab$, it will also
+  be in the same state $q'$ after reading the two words of length four, since
+  the same two letters $bb$ are appended.  Thus, $q'$ needs to be accepting and
+  non-accepting at the same time, which is a contradiction, and it follows that
+  $A$ is in a different state when reading $aa$ than when reading $ab$. 
+  We continue in this fashion with the other words; for ease of presentation, we
+  arrange the suffixes in a table
+  \[ \begin{array}{r|ccc}
+          & ab & ba & bb \\
+       \hline
+       aa & bb & b  & b  \\
+       ab &    & b  & b  \\
+       ba &    &    & bb
+     \end{array} \]
+  It follows that no two of these four words are allowed to end in the same
+  state of $A$.  Since, as a consequence, there needs to be at least one state
+  for each such word, $A$ has to have at least four states.
+\end{solution}
+
+
+\task{Non-Deterministic Finite Automata}
+
+\subtask Construct an NFA for the following languages. 
+
+  \begin{taskitems}
+    \item $L_1=\{w\in\{0,1,2\}^*\mid w \text{ contains the string } 111\}$,
+    \item $L_2=\{w\in\{0,1,2\}^*\mid w \text{ ends with the string } 111\}$,
+    \item $L_3$, which is matched by the regular expression $(1+0)^*1(0+1)11(0+1)(0+1)00$.
+
+    \smallskip
+    \textit{Hint:} Here, you do not have to use the construction from the lecture.
+  \end{taskitems}
+
+  \begin{solution}
+    \begin{taskitems}
+      \item NFA for $L_1$:\\
+        \begin{tikzpicture}[node distance=2cm]
+          \node[initial,state]   (0)              {$q_0$};
+          \node[state]           (1) [right of=0] {$q_1$};
+          \node[state]           (2) [right of=1] {$q_2$};
+          \node[accepting,state] (3) [right of=2] {$q_3$};
+          \path[->] (0) edge             node {$1$}     (1)
+                        edge[loop above] node {$0,1,2$} (0)
+                    (1) edge             node {$1$}     (2)
+                    (2) edge             node {$1$}     (3)
+                    (3) edge[loop above] node {$0,1,2$} (3);
+        \end{tikzpicture}
+      \item NFA for $L_2$:\\
+        \begin{tikzpicture}[node distance=2cm]
+          \node[initial,state]   (0)              {$q_0$};
+          \node[state]           (1) [right of=0] {$q_1$};
+          \node[state]           (2) [right of=1] {$q_2$};
+          \node[accepting,state] (3) [right of=2] {$q_3$};
+          \path[->] (0) edge             node {$1$}     (1)
+                        edge[loop above] node {$0,1,2$} (0)
+                    (1) edge             node {$1$}     (2)
+                    (2) edge             node {$1$}     (3);
+        \end{tikzpicture}
+      \newpage
+      \item NFA for $L_3$:\\
+        \begin{tikzpicture}[node distance=1.5cm]
+          \node[initial,state]   (0)              {$q_0$};
+          \node[state]           (1) [right of=0] {$q_1$};
+          \node[state]           (2) [right of=1] {$q_2$};
+          \node[state]           (3) [right of=2] {$q_3$};
+          \node[state]           (4) [right of=3] {$q_4$};
+          \node[state]           (5) [right of=4] {$q_5$};
+          \node[state]           (6) [right of=5] {$q_6$};
+          \node[state]           (7) [right of=6] {$q_7$};
+          \node[accepting,state] (8) [right of=7] {$q_8$};
+          \path[->] (0) edge[loop above] node {$0,1$} (0)
+                        edge             node {$1$}   (1)
+                    (1) edge             node {$0,1$} (2)
+                    (2) edge             node {$1$}   (3)
+                    (3) edge             node {$1$}   (4)
+                    (4) edge             node {$0,1$} (5)
+                    (5) edge             node {$0,1$} (6)
+                    (6) edge             node {$0$}   (7)
+                    (7) edge             node {$0$}   (8);
+        \end{tikzpicture}
+    \end{taskitems}
+  \end{solution}
+
+\subtask Consider the following NFA.
+
+\begin{center}
+  \begin{tikzpicture}[node distance=3cm]
+    \node[initial,state]   (p)              {$p$};
+    \node[state]           (q) [right of=p] {$q$};
+    \node[accepting,state] (r) [right of=q] {$r$};
+    \node[state]           (s) [right of=r] {$s$};
+    \path[->] (p) edge [loop above]   node        {$1$}   (p)
+                  edge                node        {$0$}   (q)
+                  edge [bend right]   node[below] {$1$}   (r)
+              (q) edge [loop above]   node        {$0$}   (q)
+                  edge                node        {$0$}   (r)
+              (r) edge [loop above]   node        {$0$}   (r)
+                  edge [bend left=50] node        {$1$}   (s)
+              (s) edge [loop above]   node        {$0,1$} (s)
+              (s) edge [bend left=50] node        {$0$}   (r);
+  \end{tikzpicture}
+\end{center}
+
+Use the powerset construction to transform this NFA into a DFA.
+
+\begin{solution}
+  We obtain the following transition table.
+  \[\begin{array}{r||ll}
+               & 0         & 1         \\
+    \hline
+    \to\{p\}   & \{q\}     & \{p,r\}   \\
+     \{q\}     & \{q,r\}   & \emptyset \\
+     \emptyset & \emptyset & \emptyset \\
+    *\{p,r\}   & \{q,r\}   & \{p,r,s\} \\
+    *\{q,r\}   & \{q,r\}   & \{s\}     \\
+    *\{p,r,s\} & \{q,r,s\} & \{p,r,s\} \\
+     \{s\}     & \{r,s\}   & \{s\}     \\
+    *\{q,r,s\} & \{q,r,s\} & \{s\}     \\
+    *\{r,s\}   & \{r,s\}   & \{s\} 
+  \end{array}\]
+  
+  From this, the DFA can be drawn as follows.
+  \begin{center}
+    \begin{tikzpicture}[node distance=2.85cm]
+      \node[initial,state]   (p)                      {$\{p\}$};
+      \node[state]           (q)        [right of=p]  {$\{q\}$};
+      \node[state]           (emptyset) [right of=q]  {$\emptyset$};
+      \node[accepting,state] (pr)       [below of=p]  {$\{p,r\}$};
+      \node[accepting,state] (qr)       [right of=pr] {$\{q,r\}$};
+      \node[state]           (s)        [right of=qr] {$\{s\}$};
+      \node[accepting,state] (rs)       [right of=s]  {$\{r,s\}$};
+      \node[accepting,state] (prs)      [below of=pr] {$\{p,r,s\}$};
+      \node[accepting,state] (qrs)      [below of=rs] {$\{q,r,s\}$};
+      \path[->] (p)        edge                node       {$0$}   (q)
+                           edge                node       {$1$}   (pr)
+                (q)        edge                node       {$0$}   (qr)
+                           edge                node       {$1$}   (emptyset)
+                (emptyset) edge[loop right]    node       {$0,1$} (emptyset)
+                (rs)       edge[loop above]    node       {$0$}   (rs)
+                           edge[bend left]     node       {$1$}   (s)
+                (pr)       edge                node       {$0$}   (qr)
+                           edge                node       {$1$}   (prs)
+                (qr)       edge[loop below]    node       {$0$}   (qr)
+                           edge                node       {$1$}   (s)
+                (s)        edge[loop above]    node       {$1$}   (s)
+                           edge[bend left]     node       {$0$}   (rs)
+                (prs)      edge[loop left]     node       {$1$}   ()
+                           edge                node[swap] {$0$}   (qrs)
+                (qrs)      edge[loop above]    node       {$0$}   (qrs)
+                           edge[bend left=10]  node       {$1$}   (s);
+    \end{tikzpicture}
+  \end{center}
+\end{solution}
+
+\task{Finite Automata and Regular Expressions}
+
+\subtask Use the method that was introduced in the lecture to
+  transform the following DFA into a regular expression.
+  \begin{center}
+    \begin{tikzpicture}[node distance=3cm]
+      \node[initial,state]   (1) {$1$};
+      \node[accepting,state] (2) [right of=p] {$2$};
+      \node[state]           (3) [right of=q] {$3$};
+      \path[->] (1) edge               node        {$1$} (2)
+                    edge[bend left=50] node        {$0$} (3)
+                (2) edge[loop above]   node        {$0$} (2)
+                    edge[bend right]   node[below] {$1$} (3)
+                (3) edge[loop above]   node        {$0$} (3)
+                    edge[bend right]   node[above] {$1$} (2);
+    \end{tikzpicture}
+  \end{center}
+  Write down all steps and comment on what you are doing.
+
+  \newpage
+  \begin{solution}
+    The method is based on the principle of dynamic programming.  It
+    calculates, for each pair of states $(i,j)$, the partial regular
+    expressions $R_{ij}^{(k)}$, which describe the set of all words that lead
+    the automaton from state $i$ to state $j$ and which use only states $\leq
+    k$ as intermediate states.  For the initialization, we get the following.
+    \begin{align*}
+      R_{11}^{(0)} &= \varepsilon   \\
+      R_{12}^{(0)} &= 1             \\
+      R_{13}^{(0)} &= 0             \\
+      R_{21}^{(0)} &= \emptyset     \\
+      R_{22}^{(0)} &= \varepsilon+0 \\
+      R_{23}^{(0)} &= 1             \\
+      R_{31}^{(0)} &= \emptyset     \\
+      R_{32}^{(0)} &= 1             \\
+      R_{33}^{(0)} &= \varepsilon+0
+    \end{align*}
+    Using the formula
+    \[ R_{ij}^{(k)} = R_{ij}^{(k-1)} + R_{ik}^{(k-1)} \cdot \left(R_{kk}^{(k-1)}\right)^* \cdot R_{kj}^{(k-1)} \]
+    for $k = 1$, we can now derive the partial expressions for all ways through
+    the automaton with intermediate state $1$.
+   
+    By this, we get the following table.
+    \begin{center}
+      \begin{tabular}{l|l|l}
+        & after insertion into the formula & simplified expression\\
+        \hline
+        $R_{11}^{(1)}$ & $\varepsilon + \varepsilon\varepsilon^*\varepsilon$ & $\varepsilon$     \\
+        $R_{12}^{(1)}$ & $1 + \varepsilon\varepsilon^*1$                     & $1$               \\
+        $R_{13}^{(1)}$ & $0 + \varepsilon\varepsilon^*0$                     & $0$               \\
+        $R_{21}^{(1)}$ & $\emptyset + \emptyset\varepsilon^*\varepsilon$     & $\emptyset$       \\
+        $R_{22}^{(1)}$ & $(\varepsilon+0)+\emptyset\varepsilon^*1$           & $\varepsilon + 0$ \\
+        $R_{23}^{(1)}$ & $1+\emptyset\varepsilon^*0$                         & $1$               \\
+        $R_{31}^{(1)}$ & $\emptyset+\emptyset\varepsilon^*\varepsilon$       & $\emptyset$       \\
+        $R_{32}^{(1)}$ & $1 + \emptyset\varepsilon^*1$                       & $1$               \\
+        $R_{33}^{(1)}$ & $(\varepsilon+0)+\emptyset\varepsilon^*0$           & $\varepsilon+0$
+      \end{tabular}
+    \end{center}
+  
+    These expressions can now be reused to get the expressions for the intermediate states
+    1 and 2. Thereby we obtain the following table.
+    \begin{center}
+    \begin{tabular}{l|l|l}
+       & after insertion into the formula & simplified expression\\
+       \hline
+       $R_{11}^{(2)}$ & $\varepsilon + 1(\varepsilon+0)^*\emptyset$                         & $\varepsilon$   \\
+       $R_{12}^{(2)}$ & $1 + 1(\varepsilon+0)^*(\varepsilon+0)$                             & $10^*$          \\
+       $R_{13}^{(2)}$ & $0 + 1(\varepsilon+0)^*1$                                           & $0+10^*1$       \\
+       $R_{21}^{(2)}$ & $\emptyset + (\varepsilon+0)(\varepsilon+0)^*\emptyset$             & $\emptyset$     \\
+       $R_{22}^{(2)}$ & $(\varepsilon+0)+(\varepsilon+0)(\varepsilon+0)^*(\varepsilon + 0)$ & $0^*$           \\
+       $R_{23}^{(2)}$ & $1+(\varepsilon+0)(\varepsilon+0)^*1$                               & $0^*1$          \\
+       $R_{31}^{(2)}$ & $\emptyset+1(\varepsilon+0)^*\emptyset$                             & $\emptyset$     \\
+       $R_{32}^{(2)}$ & $1+1(\varepsilon+0)^*(\varepsilon+0)$                               & $10^*$          \\
+       $R_{33}^{(2)}$ & $(\varepsilon+0)+1(\varepsilon+0)^*1$                               & $(\varepsilon+0) + 10^*1$
+    \end{tabular}
+    \end{center}
+    
+    In the last iteration, in which all states are allowed as intermediate states, we do not
+    have to calculate all expressions.  The regular expression equivalent to the DFA
+    \[ R = R_{12}^{(3)} \]
+    is the only way to reach the accepting state from the starting state. By applying the
+    formula, we get
+    \[ R_{12}^{(3)} = 10^* + (0+10^*1)(\varepsilon+0+10^*1)^*10^* = 10^* + (0+10^*1)(0+10^*1)^*10^*\;. \] 
+  \end{solution}
+
+\subtask Convert the regular expression $1+(0+1)^*+0$ into an NFA with
+  $\varepsilon$-transitions.
+
+  \begin{solution}
+    We get the following $\varepsilon$-NFA.
+    \begin{center}
+      \begin{tikzpicture}[node distance=1.7cm]
+        \node[initial,state]   (0)                      {$q_0$};
+        \node[state]           (1)  [above right of=0]  {$q_1$};
+        \node[state]           (2)  [above right of=1]  {$q_2$};
+        \node[state]           (3)  [right of=2]        {$q_3$};
+        \node[state]           (4)  [above right of=3]  {$q_4$};
+        \node[state]           (5)  [right of=4]        {$q_5$};
+        \node[state]           (6)  [below right of=5]  {$q_6$};
+        \node[state]           (7)  [below right of=3]  {$q_7$};
+        \node[state]           (8)  [right of=7]        {$q_8$};
+        \node[state]           (9)  [right of=6]        {$q_9$};
+        \node[state]           (10) [below right of=1]  {$q_{10}$};
+        \node[state]           (11) [below=1.5 of 9]    {$q_{11}$};
+        \node[state]           (12) [below right of=9]  {$q_{12}$};
+        \node[state]           (13) [below right of=0]  {$q_{13}$};
+        \node[state]           (14) [below=1.5 of 12]   {$q_{14}$};
+        \node[accepting,state] (15) [below right of=12] {$q_{15}$};
+        \path[->] (0)  edge               node {$\varepsilon$} (1)
+                  (0)  edge               node {$\varepsilon$} (13)
+                  (1)  edge               node {$\varepsilon$} (2)
+                  (1)  edge               node {$\varepsilon$} (10)
+                  (2)  edge               node {$\varepsilon$} (3)
+                  (2)  edge[bend left=70] node {$\varepsilon$} (9)
+                  (3)  edge               node {$\varepsilon$} (4)
+                       edge               node {$\varepsilon$} (7)
+                  (4)  edge               node {$0$}           (5)
+                  (5)  edge               node {$\varepsilon$} (6)
+                  (7)  edge               node {$1$}           (8)
+                  (8)  edge               node {$\varepsilon$} (6)
+                  (6)  edge               node {$\varepsilon$} (9)
+                  (6)  edge               node {$\varepsilon$} (3)
+                  (9)  edge               node {$\varepsilon$} (12)
+                  (10) edge               node {$1$}           (11)
+                  (11) edge               node {$\varepsilon$} (12)
+                  (13) edge               node {$0$}           (14)
+                  (12) edge               node {$\varepsilon$} (15)
+                  (14) edge               node {$\varepsilon$} (15);
+      \end{tikzpicture}
+    \end{center}
+  \end{solution}
+
+\subtask Convert the regular expression $01^*+1$ into an NFA with
+  $\varepsilon$-transitions.
+
+  \newpage
+  \begin{solution}
+    We get the following $\varepsilon$-NFA.
+    \begin{center}
+      \begin{tikzpicture}[node distance=1.8cm]
+        \node[initial,state] (0)                      {$q_0$};
+        \node[state] (1) [above right of=0]           {$q_1$};
+        \node[state] (2) [right of=1]                 {$q_2$};
+        \node[state] (3) [right of=2]                 {$q_3$};
+        \node[state] (4) [right of=3]                 {$q_4$};
+        \node[state] (5) [right of=4]                 {$q_5$};
+        \node[state] (6) [right of=5]                 {$q_6$};
+        \node[state] (7) [below right of=0]           {$q_7$};
+        \node[accepting,state] (8) [below right of=6] {$q_9$};
+        \node[state] (9) [below left of=8]            {$q_8$};
+        \path[->] (0) edge               node {$\varepsilon$} (1)
+                      edge               node {$\varepsilon$} (7)
+                  (1) edge               node {$0$}           (2)
+                  (2) edge               node {$\varepsilon$} (3)
+                  (3) edge[bend left=50] node {$\varepsilon$} (6)
+                      edge               node {$\varepsilon$} (4)
+                  (4) edge               node {$1$}           (5)
+                  (5) edge[bend left=50] node {$\varepsilon$} (4)
+                  (5) edge               node {$\varepsilon$} (6)
+                  (7) edge               node {$1$}           (9)
+                  (6) edge               node {$\varepsilon$} (8)
+                  (9) edge               node {$\varepsilon$} (8);
+      \end{tikzpicture}
+    \end{center}
+  \end{solution}
+
+\task{The Product Automaton}
+
+Consider the two languages
+\begin{align*}
+  L_{10}  &= \{w \in \{0,1\}^* \mid w \text{ contains } 10\} \text{ and} \\
+  L_{011} &= \{w \in \{0,1\}^* \mid w \text{ starts with } 011 \}.
+\end{align*}
+Construct the product automaton for $L_{10}\cap L_{011}$ with the technique
+described in the lecture.
+
+\enlargethispage{17mm}
+\begin{solution}
+  The construction of the product automaton results in the following DFA
+  for $L_{10}\cap L_{011}$.
+  \begin{center}
+    \begin{tikzpicture}[node distance=9mm,font=\footnotesize]
+    \node[state]                             (sink) {sink};
+    \node[state,initial, right=15mm of sink] (q0)   {$q_0$};
+    \node[state,right=of q0]                 (q1)   {$q_1$};
+    \node[state,right=of q1]                 (q2)   {$q_2$};
+    \node[state,accepting,right=of q2]       (q3)   {$q_3$};
+    \path[->]
+      (q0)   edge             node {$0$}   (q1)
+      (q1)   edge             node {$1$}   (q2)
+      (q2)   edge             node {$1$}   (q3)
+      (q0)   edge[bend right] node {$1$}   (sink)
+      (q1)   edge[bend left]  node {$0$}   (sink) 
+      (q2)   edge[bend right] node {$0$}   (sink) 
+      (q3)   edge[loop above] node {$0,1$} (q3)
+      (sink) edge[loop above] node {$0,1$} (sink);
+    \node[state,below=20mm of sink]        (r0s) {$r_{0s}$};
+    \node[state,initial,right=15mm of r0s] (r00) {$r_{00}$};
+    \node[state,right=of r00]              (r01) {$r_{01}$};
+    \node[state,right=of r01]              (r02) {$r_{02}$};
+    \node[state,right=of r02]              (r03) {$r_{03}$};
+    \node[state,below=of r0s]              (r1s) {$r_{1s}$};
+    \node[state,right=15mm of r1s]         (r10) {$r_{10}$};
+    \node[state,right=of r10]              (r11) {$r_{11}$};
+    \node[state,right=of r11]              (r12) {$r_{12}$};
+    \node[state,right=of r12]              (r13) {$r_{13}$};
+    \node[state,below=of r1s]              (r2s) {$r_{2s}$};
+    \node[state,right=15mm of r2s]         (r20) {$r_{20}$};
+    \node[state,right=of r20]              (r21) {$r_{21}$};
+    \node[state,right=of r21]              (r22) {$r_{22}$};
+    \node[state,accepting, right=of r22]   (r23) {$r_{23}$};
+    \path[->]
+      (r0s) edge[loop left]  node                  {$0$}   (r0s)
+      (r1s) edge[loop left]  node                  {$1$}   (r1s)
+      (r1s) edge             node                  {$0$}   (r2s)
+      (r2s) edge[loop left]  node                  {$0,1$} (r2s)
+      (r00) edge             node                  {$0$}   (r01)
+      (r00) edge             node                  {$1$}   (r1s)
+      (r10) edge             node                  {$1$}   (r1s)
+      (r10) edge             node[very near end]   {$0$}   (r21)
+      (r20) edge             node[near start,swap] {$1$}   (r2s)
+      (r20) edge             node                  {$0$}   (r21)
+      (r01) edge[bend left]  node                  {$0$}   (r0s)
+      (r01) edge             node                  {$1$}   (r12)
+      (r11) edge             node                  {$1$}   (r12)
+      (r11) edge             node[pos=0.05, swap]  {$0$}   (r2s)
+      (r21) edge             node                  {$1$}   (r22)
+      (r21) edge[bend left]  node[very near start] {$0$}   (r2s)
+      (r02) edge[bend right] node                  {$0$}   (r0s)
+      (r02) edge             node                  {$1$}   (r13)
+      (r12) edge             node                  {$1$}   (r13)
+      (r12) edge             node[very near start] {$0$}   (r2s)
+      (r22) edge             node                  {$1$}   (r23)
+      (r22) edge[bend left]  node[near start]      {$0$}   (r2s)
+      (r03) edge[loop right] node                  {$0$}   (r03)
+      (r03) edge             node                  {$1$}   (r13)
+      (r13) edge[loop right] node                  {$1$}   (r13)
+      (r13) edge             node                  {$0$}   (r23)
+      (r23) edge[loop right] node                  {$0,1$} (r23)
+      (r0s) edge             node                  {$1$}   (r1s);
+      \node[state,initial,initial where=above,left=20mm of r0s] (p0) {$p_0$};
+      \node[state,below=of p0]                                  (p1) {$p_1$};
+      \node[state,accepting,below=of p1]                        (p2) {$p_2$};
+      \path[->]
+        (p0)edge            node{$1$}   (p1)
+        (p0)edge[loop left] node{$0$}   (p0)
+        (p1)edge[loop left] node{$1$}   (p1)
+        (p1)edge            node{$0$}   (p2) 
+        (p2)edge[loop left] node{$0,1$} (p2);
+      \draw[dashed](-20mm,12mm)--(-20mm,-80mm) (-45mm,-14mm)--(90mm,-14mm);
+    \end{tikzpicture}
+  \end{center}
+\end{solution}
+
+\task{Non-Regularity}
+
+\subtask In the last assignment (more specifically, exercise 1.2(b)iv), we
+  already sketched that there is a problem when designing a DFA for the
+  language $L_{01}=\{0^k1^k \mid k \in \nat\}$.  Now use the pumping lemma
+  to prove that this language is indeed not regular.
+
+  \begin{solution}
+    We prove the claim by contradiction using the pumping lemma.  Let $n_0$ be
+    the constant from the pumping lemma.  We pick the word $w = 0^{n_0}1^{n_0}$;
+    clearly, $w\in L_{01}$ and $|w|\ge n_0$.  As a consequence, there exist $x$, $y$, and $z$
+    with $w = xyz$ such that the conditions 1, 2, and 3 of the pumping
+    lemma are satisfied.  Due to 2, we know that $|xy| \le n_0$, and therefore $y$ consists only of
+    $0$s; due to 2, $y$ consists of at least one $0$. Thus, $xz$,
+    which must be in $L_{01}$ if $L_{01}$ is regular, consists of
+    fewer than $n_0$ $0$s, followed by exactly $n_0$ $1$s.  This word 
+    is clearly not in $L_{01}$, which contradicts the assumption that $L_{01}$ is regular.
+  \end{solution}
+
+\subtask Again, using the pumping lemma, prove that the language
+  $L_{\text{sq}}=\{0^k \mid k \text{ is a square}\}$ is not regular.
+
+  \begin{solution}
+    We prove the claim by contradiction using the pumping lemma.  Let $n_0$ be
+    the constant from the pumping lemma.  We pick the word $w = 0^{n_0^2}$,
+    that is, $n_0^2$ $0$s; clearly, $w\in L_{\text{sq}}$ and $|w|\ge n_0$.
+    Therefore, there exist $x$, $y$, and $z$  with $w = xyz$ such that the
+    conditions 1, 2, and 3 of the pumping lemma are satisfied.   Due
+    to 1 and 2, we know that $y$ consists of between $1$ and $n_0$ $0$s.
+    Thus, $xyyz$ has a length between $n_0^2 + 1$ and $n_0^2 + n_0$.  Since the
+    next square after $n_0^2$ is $(n_0+1)^2 = n_0^2 + 2n_0 + 1$, we know that
+    the length of $xyyz$ lies strictly between the consecutive squares $n_0^2$
+    and $(n_0+1)^2$.  Thus, the length of $xyyz$ cannot be a square.  But if
+    $L_{\text{sq}}$ were regular, then $xyyz$ would be in the language, which
+    contradicts the assumption that $L_{\text{sq}}$ is regular.
+  \end{solution}
+
+\end{document}
